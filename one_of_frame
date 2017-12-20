@@ -1,0 +1,1644 @@
+{
+    "user_id": "U22HTHYNP",
+    "turns": [
+        {
+            "text": "I'd like to book a trip to Atlantis from Caprica on Saturday, August 13, 2016 for 8 adults. I have a tight budget of 1700.",
+            "labels": {
+                "acts": [
+                    {
+                        "args": [
+                            {
+                                "val": "book",
+                                "key": "intent"
+                            }
+                        ],
+                        "name": "inform"
+                    },
+                    {
+                        "args": [
+                            {
+                                "val": "Atlantis",
+                                "key": "dst_city"
+                            },
+                            {
+                                "val": "Caprica",
+                                "key": "or_city"
+                            },
+                            {
+                                "val": "Saturday, August 13, 2016",
+                                "key": "str_date"
+                            },
+                            {
+                                "val": "8",
+                                "key": "n_adults"
+                            },
+                            {
+                                "val": "1700",
+                                "key": "budget"
+                            }
+                        ],
+                        "name": "inform"
+                    }
+                ],
+                "acts_without_refs": [
+                    {
+                        "args": [
+                            {
+                                "val": "book",
+                                "key": "intent"
+                            }
+                        ],
+                        "name": "inform"
+                    },
+                    {
+                        "args": [
+                            {
+                                "val": "Atlantis",
+                                "key": "dst_city"
+                            },
+                            {
+                                "val": "Caprica",
+                                "key": "or_city"
+                            },
+                            {
+                                "val": "Saturday, August 13, 2016",
+                                "key": "str_date"
+                            },
+                            {
+                                "val": "8",
+                                "key": "n_adults"
+                            },
+                            {
+                                "val": "1700",
+                                "key": "budget"
+                            }
+                        ],
+                        "name": "inform"
+                    }
+                ],
+                "active_frame": 1,
+                "frames": [
+                    {
+                        "info": {
+                            "intent": [
+                                {
+                                    "val": "book",
+                                    "negated": false
+                                }
+                            ],
+                            "budget": [
+                                {
+                                    "val": "1700.0",
+                                    "negated": false
+                                }
+                            ],
+                            "dst_city": [
+                                {
+                                    "val": "Atlantis",
+                                    "negated": false
+                                }
+                            ],
+                            "or_city": [
+                                {
+                                    "val": "Caprica",
+                                    "negated": false
+                                }
+                            ],
+                            "str_date": [
+                                {
+                                    "val": "august 13",
+                                    "negated": false
+                                }
+                            ],
+                            "n_adults": [
+                                {
+                                    "val": "8",
+                                    "negated": false
+                                }
+                            ]
+                        },
+                        "frame_id": 1,
+                        "requests": [],
+                        "frame_parent_id": null,
+                        "binary_questions": [],
+                        "compare_requests": []
+                    }
+                ]
+            },
+            "author": "user",
+            "timestamp": 1471272019730
+        },
+        {
+            "db": {
+                "result": [
+                    [
+                        {
+                            "trip": {
+                                "returning": {
+                                    "duration": {
+                                        "hours": 0,
+                                        "min": 51
+                                    },
+                                    "arrival": {
+                                        "hour": 10,
+                                        "year": 2016,
+                                        "day": 24,
+                                        "min": 51,
+                                        "month": 8
+                                    },
+                                    "departure": {
+                                        "hour": 10,
+                                        "year": 2016,
+                                        "day": 24,
+                                        "min": 0,
+                                        "month": 8
+                                    }
+                                },
+                                "seat": "ECONOMY",
+                                "leaving": {
+                                    "duration": {
+                                        "hours": 0,
+                                        "min": 51
+                                    },
+                                    "arrival": {
+                                        "hour": 0,
+                                        "year": 2016,
+                                        "day": 16,
+                                        "min": 51,
+                                        "month": 8
+                                    },
+                                    "departure": {
+                                        "hour": 0,
+                                        "year": 2016,
+                                        "day": 16,
+                                        "min": 0,
+                                        "month": 8
+                                    }
+                                },
+                                "or_city": "Porto Alegre",
+                                "duration_days": 9
+                            },
+                            "price": 2118.81,
+                            "hotel": {
+                                "gst_rating": 7.15,
+                                "vicinity": [],
+                                "name": "Scarlet Palms Resort",
+                                "country": "Brazil",
+                                "amenities": [
+                                    "FREE_BREAKFAST",
+                                    "FREE_PARKING",
+                                    "FREE_WIFI"
+                                ],
+                                "dst_city": "Goiania",
+                                "category": "3.5 star hotel"
+                            }
+                        },
+                        {
+                            "trip": {
+                                "returning": {
+                                    "duration": {
+                                        "hours": 2,
+                                        "min": 37
+                                    },
+                                    "arrival": {
+                                        "hour": 12,
+                                        "year": 2016,
+                                        "day": 10,
+                                        "min": 37,
+                                        "month": 8
+                                    },
+                                    "departure": {
+                                        "hour": 10,
+                                        "year": 2016,
+                                        "day": 10,
+                                        "min": 0,
+                                        "month": 8
+                                    }
+                                },
+                                "seat": "ECONOMY",
+                                "leaving": {
+                                    "duration": {
+                                        "hours": 2,
+                                        "min": 37
+                                    },
+                                    "arrival": {
+                                        "hour": 0,
+                                        "year": 2016,
+                                        "day": 4,
+                                        "min": 37,
+                                        "month": 8
+                                    },
+                                    "departure": {
+                                        "hour": 22,
+                                        "year": 2016,
+                                        "day": 3,
+                                        "min": 0,
+                                        "month": 8
+                                    }
+                                },
+                                "or_city": "Porto Alegre",
+                                "duration_days": 7
+                            },
+                            "price": 2369.83,
+                            "hotel": {
+                                "gst_rating": 0,
+                                "vicinity": [],
+                                "name": "Sunway Hostel",
+                                "country": "Argentina",
+                                "amenities": [
+                                    "FREE_BREAKFAST",
+                                    "FREE_WIFI"
+                                ],
+                                "dst_city": "Rosario",
+                                "category": "2.0 star hotel"
+                            }
+                        },
+                        {
+                            "trip": {
+                                "returning": {
+                                    "duration": {
+                                        "hours": 0,
+                                        "min": 51
+                                    },
+                                    "arrival": {
+                                        "hour": 10,
+                                        "year": 2016,
+                                        "day": 24,
+                                        "min": 51,
+                                        "month": 8
+                                    },
+                                    "departure": {
+                                        "hour": 10,
+                                        "year": 2016,
+                                        "day": 24,
+                                        "min": 0,
+                                        "month": 8
+                                    }
+                                },
+                                "seat": "BUSINESS",
+                                "leaving": {
+                                    "duration": {
+                                        "hours": 0,
+                                        "min": 51
+                                    },
+                                    "arrival": {
+                                        "hour": 0,
+                                        "year": 2016,
+                                        "day": 16,
+                                        "min": 51,
+                                        "month": 8
+                                    },
+                                    "departure": {
+                                        "hour": 0,
+                                        "year": 2016,
+                                        "day": 16,
+                                        "min": 0,
+                                        "month": 8
+                                    }
+                                },
+                                "or_city": "Porto Alegre",
+                                "duration_days": 9
+                            },
+                            "price": 2375.72,
+                            "hotel": {
+                                "gst_rating": 7.15,
+                                "vicinity": [],
+                                "name": "Scarlet Palms Resort",
+                                "country": "Brazil",
+                                "amenities": [
+                                    "FREE_BREAKFAST",
+                                    "FREE_PARKING",
+                                    "FREE_WIFI"
+                                ],
+                                "dst_city": "Goiania",
+                                "category": "3.5 star hotel"
+                            }
+                        },
+                        {
+                            "trip": {
+                                "returning": {
+                                    "duration": {
+                                        "hours": 1,
+                                        "min": 30
+                                    },
+                                    "arrival": {
+                                        "hour": 11,
+                                        "year": 2016,
+                                        "day": 1,
+                                        "min": 30,
+                                        "month": 9
+                                    },
+                                    "departure": {
+                                        "hour": 10,
+                                        "year": 2016,
+                                        "day": 1,
+                                        "min": 0,
+                                        "month": 9
+                                    }
+                                },
+                                "seat": "BUSINESS",
+                                "leaving": {
+                                    "duration": {
+                                        "hours": 1,
+                                        "min": 30
+                                    },
+                                    "arrival": {
+                                        "hour": 18,
+                                        "year": 2016,
+                                        "day": 19,
+                                        "min": 30,
+                                        "month": 8
+                                    },
+                                    "departure": {
+                                        "hour": 17,
+                                        "year": 2016,
+                                        "day": 19,
+                                        "min": 0,
+                                        "month": 8
+                                    }
+                                },
+                                "or_city": "Porto Alegre",
+                                "duration_days": 13
+                            },
+                            "price": 2492.95,
+                            "hotel": {
+                                "gst_rating": 0,
+                                "vicinity": [],
+                                "name": "Hotel Mundo",
+                                "country": "Brazil",
+                                "amenities": [
+                                    "FREE_BREAKFAST",
+                                    "FREE_WIFI",
+                                    "FREE_PARKING"
+                                ],
+                                "dst_city": "Manaus",
+                                "category": "2.5 star hotel"
+                            }
+                        },
+                        {
+                            "trip": {
+                                "returning": {
+                                    "duration": {
+                                        "hours": 0,
+                                        "min": 51
+                                    },
+                                    "arrival": {
+                                        "hour": 10,
+                                        "year": 2016,
+                                        "day": 31,
+                                        "min": 51,
+                                        "month": 8
+                                    },
+                                    "departure": {
+                                        "hour": 10,
+                                        "year": 2016,
+                                        "day": 31,
+                                        "min": 0,
+                                        "month": 8
+                                    }
+                                },
+                                "seat": "ECONOMY",
+                                "leaving": {
+                                    "duration": {
+                                        "hours": 0,
+                                        "min": 51
+                                    },
+                                    "arrival": {
+                                        "hour": 19,
+                                        "year": 2016,
+                                        "day": 27,
+                                        "min": 51,
+                                        "month": 8
+                                    },
+                                    "departure": {
+                                        "hour": 19,
+                                        "year": 2016,
+                                        "day": 27,
+                                        "min": 0,
+                                        "month": 8
+                                    }
+                                },
+                                "or_city": "Porto Alegre",
+                                "duration_days": 4
+                            },
+                            "price": 2538,
+                            "hotel": {
+                                "gst_rating": 8.22,
+                                "vicinity": [],
+                                "name": "The Glee",
+                                "country": "Brazil",
+                                "amenities": [
+                                    "FREE_BREAKFAST",
+                                    "FREE_WIFI"
+                                ],
+                                "dst_city": "Recife",
+                                "category": "4.0 star hotel"
+                            }
+                        }
+                    ],
+                    [],
+                    [],
+                    [],
+                    [],
+                    [],
+                    []
+                ],
+                "search": [
+                    {
+                        "ORIGIN_CITY": "Porto Alegre",
+                        "PRICE_MIN": "2000",
+                        "NUM_ADULTS": "2",
+                        "timestamp": 1471271949.995,
+                        "PRICE_MAX": "3000",
+                        "ARE_DATES_FLEXIBLE": "true",
+                        "NUM_CHILDREN": "5",
+                        "START_TIME": "1470110400000",
+                        "MAX_DURATION": 2592000000,
+                        "DESTINATION_CITY": "Brazil",
+                        "RESULT_LIMIT": "10",
+                        "END_TIME": "1472616000000"
+                    },
+                    {
+                        "ORIGIN_CITY": "Atlantis",
+                        "NUM_ADULTS": "8",
+                        "RESULT_LIMIT": "10",
+                        "timestamp": 1471272148.124,
+                        "PRICE_MAX": "1700",
+                        "NUM_CHILDREN": "",
+                        "ARE_DATES_FLEXIBLE": "true",
+                        "START_TIME": "NaN",
+                        "END_TIME": "NaN"
+                    },
+                    {
+                        "ORIGIN_CITY": "Caprica",
+                        "PRICE_MAX": "1700",
+                        "NUM_ADULTS": "8",
+                        "RESULT_LIMIT": "10",
+                        "timestamp": 1471272189.07,
+                        "DESTINATION_CITY": "Atlantis",
+                        "NUM_CHILDREN": "",
+                        "ARE_DATES_FLEXIBLE": "true",
+                        "START_TIME": "1470715200000",
+                        "END_TIME": "1472011200000"
+                    },
+                    {
+                        "ORIGIN_CITY": "Caprica",
+                        "PRICE_MAX": "1700",
+                        "NUM_ADULTS": "8",
+                        "RESULT_LIMIT": "10",
+                        "timestamp": 1471272205.436,
+                        "DESTINATION_CITY": "Atlantis",
+                        "NUM_CHILDREN": "",
+                        "ARE_DATES_FLEXIBLE": "true",
+                        "START_TIME": "1470715200000",
+                        "END_TIME": "1472011200000"
+                    },
+                    {
+                        "ORIGIN_CITY": "Caprica",
+                        "PRICE_MIN": "1700",
+                        "NUM_ADULTS": "8",
+                        "RESULT_LIMIT": "10",
+                        "timestamp": 1471272278.72,
+                        "DESTINATION_CITY": "Atlantis",
+                        "NUM_CHILDREN": "",
+                        "ARE_DATES_FLEXIBLE": "true",
+                        "START_TIME": "1470715200000",
+                        "END_TIME": "1472011200000"
+                    },
+                    {
+                        "ORIGIN_CITY": "Caprica",
+                        "PRICE_MIN": "1700",
+                        "NUM_ADULTS": "8",
+                        "RESULT_LIMIT": "10",
+                        "timestamp": 1471272454.542,
+                        "DESTINATION_CITY": "Atlantis",
+                        "NUM_CHILDREN": "",
+                        "ARE_DATES_FLEXIBLE": "true",
+                        "START_TIME": "1471060800000",
+                        "END_TIME": "1472011200000"
+                    },
+                    {
+                        "ORIGIN_CITY": "Caprica",
+                        "PRICE_MIN": "1700",
+                        "NUM_ADULTS": "8",
+                        "RESULT_LIMIT": "10",
+                        "timestamp": 1471272466.008,
+                        "DESTINATION_CITY": "Atlantis",
+                        "NUM_CHILDREN": "",
+                        "ARE_DATES_FLEXIBLE": "true",
+                        "START_TIME": "1471060800000",
+                        "END_TIME": "1472011200000"
+                    }
+                ]
+            },
+            "text": "Hi...I checked a few options for you, and unfortunately, we do not currently have any trips that meet this criteria.  Would you like to book an alternate travel option?",
+            "labels": {
+                "acts": [
+                    {
+                        "args": [
+                            {
+                                "val": [
+                                    {
+                                        "annotations": [],
+                                        "frame": 1,
+                                        "fromrange": false
+                                    }
+                                ],
+                                "key": "ref"
+                            }
+                        ],
+                        "name": "no_result"
+                    },
+                    {
+                        "args": [
+                            {
+                                "key": "dst_city"
+                            }
+                        ],
+                        "name": "suggest"
+                    },
+                    {
+                        "args": [],
+                        "name": "sorry"
+                    }
+                ],
+                "active_frame": 1,
+                "frames": [
+                    {
+                        "info": {
+                            "intent": [
+                                {
+                                    "val": "book",
+                                    "negated": false
+                                }
+                            ],
+                            "budget": [
+                                {
+                                    "val": "1700.0",
+                                    "negated": false
+                                }
+                            ],
+                            "dst_city": [
+                                {
+                                    "val": "Atlantis",
+                                    "negated": false
+                                }
+                            ],
+                            "or_city": [
+                                {
+                                    "val": "Caprica",
+                                    "negated": false
+                                }
+                            ],
+                            "str_date": [
+                                {
+                                    "val": "august 13",
+                                    "negated": false
+                                }
+                            ],
+                            "n_adults": [
+                                {
+                                    "val": "8",
+                                    "negated": false
+                                }
+                            ],
+                            "NO_RESULT": [
+                                {
+                                    "val": true,
+                                    "negated": false
+                                }
+                            ]
+                        },
+                        "frame_id": 1,
+                        "requests": [],
+                        "frame_parent_id": null,
+                        "binary_questions": [],
+                        "compare_requests": []
+                    }
+                ]
+            },
+            "author": "wizard",
+            "timestamp": 1471272381399
+        },
+        {
+            "text": "Yes, how about going to Neverland from Caprica on August 13, 2016 for 5 adults. For this trip, my budget would be 1900.",
+            "labels": {
+                "acts": [
+                    {
+                        "args": [
+                            {
+                                "val": "Neverland",
+                                "key": "dst_city"
+                            },
+                            {
+                                "val": "5",
+                                "key": "n_adults"
+                            },
+                            {
+                                "val": "1900",
+                                "key": "budget"
+                            },
+                            {
+                                "val": [
+                                    {
+                                        "annotations": [
+                                            {
+                                                "val": "Caprica",
+                                                "key": "or_city"
+                                            },
+                                            {
+                                                "val": "August 13, 2016",
+                                                "key": "str_date"
+                                            }
+                                        ],
+                                        "frame": 1,
+                                        "fromrange": false
+                                    }
+                                ],
+                                "key": "ref"
+                            }
+                        ],
+                        "name": "inform"
+                    }
+                ],
+                "acts_without_refs": [
+                    {
+                        "args": [
+                            {
+                                "val": "Neverland",
+                                "key": "dst_city"
+                            },
+                            {
+                                "val": "5",
+                                "key": "n_adults"
+                            },
+                            {
+                                "val": "1900",
+                                "key": "budget"
+                            },
+                            {
+                                "val": "Caprica",
+                                "key": "or_city"
+                            },
+                            {
+                                "val": "August 13, 2016",
+                                "key": "str_date"
+                            }
+                        ],
+                        "name": "inform"
+                    }
+                ],
+                "active_frame": 2,
+                "frames": [
+                    {
+                        "info": {
+                            "intent": [
+                                {
+                                    "val": "book",
+                                    "negated": false
+                                }
+                            ],
+                            "budget": [
+                                {
+                                    "val": "1700.0",
+                                    "negated": false
+                                }
+                            ],
+                            "dst_city": [
+                                {
+                                    "val": "Atlantis",
+                                    "negated": false
+                                }
+                            ],
+                            "or_city": [
+                                {
+                                    "val": "Caprica",
+                                    "negated": false
+                                }
+                            ],
+                            "str_date": [
+                                {
+                                    "val": "august 13",
+                                    "negated": false
+                                }
+                            ],
+                            "n_adults": [
+                                {
+                                    "val": "8",
+                                    "negated": false
+                                }
+                            ],
+                            "NO_RESULT": [
+                                {
+                                    "val": true,
+                                    "negated": false
+                                }
+                            ]
+                        },
+                        "frame_id": 1,
+                        "requests": [],
+                        "frame_parent_id": null,
+                        "binary_questions": [],
+                        "compare_requests": []
+                    },
+                    {
+                        "info": {
+                            "intent": [
+                                {
+                                    "val": "book",
+                                    "negated": false
+                                }
+                            ],
+                            "budget": [
+                                {
+                                    "val": "1900.0",
+                                    "negated": false
+                                }
+                            ],
+                            "dst_city": [
+                                {
+                                    "val": "Neverland",
+                                    "negated": false
+                                }
+                            ],
+                            "or_city": [
+                                {
+                                    "val": "Caprica",
+                                    "negated": false
+                                }
+                            ],
+                            "str_date": [
+                                {
+                                    "val": "august 13",
+                                    "negated": false
+                                }
+                            ],
+                            "n_adults": [
+                                {
+                                    "val": "5",
+                                    "negated": false
+                                }
+                            ]
+                        },
+                        "frame_id": 2,
+                        "requests": [],
+                        "frame_parent_id": 1,
+                        "binary_questions": [],
+                        "compare_requests": []
+                    }
+                ]
+            },
+            "author": "user",
+            "timestamp": 1471272508882
+        },
+        {
+            "db": {
+                "result": [
+                    [],
+                    [],
+                    [],
+                    [],
+                    [],
+                    []
+                ],
+                "search": [
+                    {
+                        "ORIGIN_CITY": "Caprica",
+                        "PRICE_MIN": "1700",
+                        "NUM_ADULTS": "8",
+                        "RESULT_LIMIT": "10",
+                        "timestamp": 1471272454.542,
+                        "DESTINATION_CITY": "Atlantis",
+                        "NUM_CHILDREN": "",
+                        "ARE_DATES_FLEXIBLE": "true",
+                        "START_TIME": "1471060800000",
+                        "END_TIME": "1472011200000"
+                    },
+                    {
+                        "ORIGIN_CITY": "Caprica",
+                        "PRICE_MIN": "1700",
+                        "NUM_ADULTS": "8",
+                        "RESULT_LIMIT": "10",
+                        "timestamp": 1471272466.008,
+                        "DESTINATION_CITY": "Atlantis",
+                        "NUM_CHILDREN": "",
+                        "ARE_DATES_FLEXIBLE": "true",
+                        "START_TIME": "1471060800000",
+                        "END_TIME": "1472011200000"
+                    },
+                    {
+                        "ORIGIN_CITY": "Caprica",
+                        "PRICE_MAX": "1900",
+                        "NUM_ADULTS": "5",
+                        "RESULT_LIMIT": "10",
+                        "timestamp": 1471272562.484,
+                        "DESTINATION_CITY": "Neverland",
+                        "NUM_CHILDREN": "",
+                        "ARE_DATES_FLEXIBLE": "true",
+                        "START_TIME": "1471060800000",
+                        "END_TIME": "1472011200000"
+                    },
+                    {
+                        "ORIGIN_CITY": "Caprica",
+                        "PRICE_MAX": "1900",
+                        "NUM_ADULTS": "5",
+                        "RESULT_LIMIT": "10",
+                        "timestamp": 1471272571.739,
+                        "DESTINATION_CITY": "Neverland",
+                        "NUM_CHILDREN": "",
+                        "ARE_DATES_FLEXIBLE": "true",
+                        "START_TIME": "1471060800000",
+                        "END_TIME": "1472011200000"
+                    },
+                    {
+                        "ORIGIN_CITY": "Caprica",
+                        "NUM_ADULTS": "5",
+                        "RESULT_LIMIT": "10",
+                        "timestamp": 1471272625.733,
+                        "DESTINATION_CITY": "Neverland",
+                        "NUM_CHILDREN": "",
+                        "ARE_DATES_FLEXIBLE": "true",
+                        "START_TIME": "1471060800000",
+                        "END_TIME": "NaN"
+                    },
+                    {
+                        "ORIGIN_CITY": "Caprica",
+                        "NUM_ADULTS": "5",
+                        "RESULT_LIMIT": "10",
+                        "timestamp": 1471272628.27,
+                        "DESTINATION_CITY": "Neverland",
+                        "NUM_CHILDREN": "",
+                        "ARE_DATES_FLEXIBLE": "true",
+                        "START_TIME": "1471060800000",
+                        "END_TIME": "NaN"
+                    }
+                ]
+            },
+            "text": "I checked the availability for this date and there were no trips available.  Would you like to select some alternate dates?",
+            "labels": {
+                "acts": [
+                    {
+                        "args": [
+                            {
+                                "val": [
+                                    {
+                                        "annotations": [
+                                            {
+                                                "val": null,
+                                                "key": "str_date"
+                                            }
+                                        ],
+                                        "frame": 2,
+                                        "fromrange": false
+                                    }
+                                ],
+                                "key": "ref"
+                            }
+                        ],
+                        "name": "no_result"
+                    },
+                    {
+                        "args": [
+                            {
+                                "key": "str_date"
+                            },
+                            {
+                                "key": "end_date"
+                            }
+                        ],
+                        "name": "suggest"
+                    }
+                ],
+                "active_frame": 2,
+                "frames": [
+                    {
+                        "info": {
+                            "intent": [
+                                {
+                                    "val": "book",
+                                    "negated": false
+                                }
+                            ],
+                            "budget": [
+                                {
+                                    "val": "1700.0",
+                                    "negated": false
+                                }
+                            ],
+                            "dst_city": [
+                                {
+                                    "val": "Atlantis",
+                                    "negated": false
+                                }
+                            ],
+                            "or_city": [
+                                {
+                                    "val": "Caprica",
+                                    "negated": false
+                                }
+                            ],
+                            "str_date": [
+                                {
+                                    "val": "august 13",
+                                    "negated": false
+                                }
+                            ],
+                            "n_adults": [
+                                {
+                                    "val": "8",
+                                    "negated": false
+                                }
+                            ],
+                            "NO_RESULT": [
+                                {
+                                    "val": true,
+                                    "negated": false
+                                }
+                            ]
+                        },
+                        "frame_id": 1,
+                        "requests": [],
+                        "frame_parent_id": null,
+                        "binary_questions": [],
+                        "compare_requests": []
+                    },
+                    {
+                        "info": {
+                            "intent": [
+                                {
+                                    "val": "book",
+                                    "negated": false
+                                }
+                            ],
+                            "budget": [
+                                {
+                                    "val": "1900.0",
+                                    "negated": false
+                                }
+                            ],
+                            "dst_city": [
+                                {
+                                    "val": "Neverland",
+                                    "negated": false
+                                }
+                            ],
+                            "or_city": [
+                                {
+                                    "val": "Caprica",
+                                    "negated": false
+                                }
+                            ],
+                            "str_date": [
+                                {
+                                    "val": "august 13",
+                                    "negated": false
+                                }
+                            ],
+                            "n_adults": [
+                                {
+                                    "val": "5",
+                                    "negated": false
+                                }
+                            ],
+                            "NO_RESULT": [
+                                {
+                                    "val": true,
+                                    "negated": false
+                                }
+                            ]
+                        },
+                        "frame_id": 2,
+                        "requests": [],
+                        "frame_parent_id": 1,
+                        "binary_questions": [],
+                        "compare_requests": []
+                    }
+                ]
+            },
+            "author": "wizard",
+            "timestamp": 1471272800073
+        },
+        {
+            "text": "I have no flexibility for dates... but I can leave from Atlantis rather than Caprica. How about that?",
+            "labels": {
+                "acts": [
+                    {
+                        "args": [
+                            {
+                                "val": false,
+                                "key": "flex"
+                            }
+                        ],
+                        "name": "inform"
+                    },
+                    {
+                        "args": [
+                            {
+                                "val": "Atlantis",
+                                "key": "or_city"
+                            }
+                        ],
+                        "name": "inform"
+                    },
+                    {
+                        "args": [
+                            {
+                                "val": [
+                                    {
+                                        "annotations": [
+                                            {
+                                                "val": "Caprica",
+                                                "key": "or_city"
+                                            }
+                                        ],
+                                        "frame": 1,
+                                        "fromrange": false
+                                    }
+                                ],
+                                "key": "ref"
+                            }
+                        ],
+                        "name": "negate"
+                    }
+                ],
+                "acts_without_refs": [
+                    {
+                        "args": [
+                            {
+                                "val": false,
+                                "key": "flex"
+                            }
+                        ],
+                        "name": "inform"
+                    },
+                    {
+                        "args": [
+                            {
+                                "val": "Atlantis",
+                                "key": "or_city"
+                            }
+                        ],
+                        "name": "inform"
+                    },
+                    {
+                        "args": [
+                            {
+                                "val": "Caprica",
+                                "key": "or_city"
+                            }
+                        ],
+                        "name": "negate"
+                    }
+                ],
+                "active_frame": 3,
+                "frames": [
+                    {
+                        "info": {
+                            "intent": [
+                                {
+                                    "val": "book",
+                                    "negated": false
+                                }
+                            ],
+                            "budget": [
+                                {
+                                    "val": "1700.0",
+                                    "negated": false
+                                }
+                            ],
+                            "dst_city": [
+                                {
+                                    "val": "Atlantis",
+                                    "negated": false
+                                }
+                            ],
+                            "or_city": [
+                                {
+                                    "val": "Caprica",
+                                    "negated": true
+                                }
+                            ],
+                            "str_date": [
+                                {
+                                    "val": "august 13",
+                                    "negated": false
+                                }
+                            ],
+                            "n_adults": [
+                                {
+                                    "val": "8",
+                                    "negated": false
+                                }
+                            ]
+                        },
+                        "frame_id": 1,
+                        "requests": [],
+                        "frame_parent_id": null,
+                        "binary_questions": [],
+                        "compare_requests": []
+                    },
+                    {
+                        "info": {
+                            "intent": [
+                                {
+                                    "val": "book",
+                                    "negated": false
+                                }
+                            ],
+                            "budget": [
+                                {
+                                    "val": "1900.0",
+                                    "negated": false
+                                }
+                            ],
+                            "dst_city": [
+                                {
+                                    "val": "Neverland",
+                                    "negated": false
+                                }
+                            ],
+                            "or_city": [
+                                {
+                                    "val": "Caprica",
+                                    "negated": false
+                                }
+                            ],
+                            "str_date": [
+                                {
+                                    "val": "august 13",
+                                    "negated": false
+                                }
+                            ],
+                            "n_adults": [
+                                {
+                                    "val": "5",
+                                    "negated": false
+                                }
+                            ],
+                            "NO_RESULT": [
+                                {
+                                    "val": true,
+                                    "negated": false
+                                }
+                            ]
+                        },
+                        "frame_id": 2,
+                        "requests": [],
+                        "frame_parent_id": 1,
+                        "binary_questions": [],
+                        "compare_requests": []
+                    },
+                    {
+                        "info": {
+                            "intent": [
+                                {
+                                    "val": "book",
+                                    "negated": false
+                                }
+                            ],
+                            "budget": [
+                                {
+                                    "val": "1700.0",
+                                    "negated": false
+                                }
+                            ],
+                            "flex": [
+                                {
+                                    "val": false,
+                                    "negated": false
+                                }
+                            ],
+                            "dst_city": [
+                                {
+                                    "val": "Atlantis",
+                                    "negated": false
+                                }
+                            ],
+                            "or_city": [
+                                {
+                                    "val": "Atlantis",
+                                    "negated": false
+                                }
+                            ],
+                            "str_date": [
+                                {
+                                    "val": "august 13",
+                                    "negated": false
+                                }
+                            ],
+                            "n_adults": [
+                                {
+                                    "val": "8",
+                                    "negated": false
+                                }
+                            ]
+                        },
+                        "frame_id": 3,
+                        "requests": [],
+                        "frame_parent_id": 1,
+                        "binary_questions": [],
+                        "compare_requests": []
+                    }
+                ]
+            },
+            "author": "user",
+            "timestamp": 1471272833774
+        },
+        {
+            "db": {
+                "result": [
+                    []
+                ],
+                "search": [
+                    {
+                        "ORIGIN_CITY": "Atlantis",
+                        "PRICE_MAX": "1900",
+                        "NUM_ADULTS": "5",
+                        "RESULT_LIMIT": "10",
+                        "timestamp": 1471272866.853,
+                        "DESTINATION_CITY": "Neverland",
+                        "NUM_CHILDREN": "",
+                        "ARE_DATES_FLEXIBLE": "true",
+                        "START_TIME": "1471060800000",
+                        "END_TIME": "NaN"
+                    }
+                ]
+            },
+            "text": "I checked the availability for that date and there were no trips available.  Would you like to select some alternate dates?",
+            "labels": {
+                "acts": [
+                    {
+                        "args": [
+                            {
+                                "val": [
+                                    {
+                                        "annotations": [
+                                            {
+                                                "val": null,
+                                                "key": "str_date"
+                                            }
+                                        ],
+                                        "frame": 3,
+                                        "fromrange": false
+                                    }
+                                ],
+                                "key": "ref"
+                            }
+                        ],
+                        "name": "no_result"
+                    },
+                    {
+                        "args": [
+                            {
+                                "key": "str_date"
+                            },
+                            {
+                                "key": "end_date"
+                            }
+                        ],
+                        "name": "suggest"
+                    }
+                ],
+                "active_frame": 3,
+                "frames": [
+                    {
+                        "info": {
+                            "intent": [
+                                {
+                                    "val": "book",
+                                    "negated": false
+                                }
+                            ],
+                            "budget": [
+                                {
+                                    "val": "1700.0",
+                                    "negated": false
+                                }
+                            ],
+                            "dst_city": [
+                                {
+                                    "val": "Atlantis",
+                                    "negated": false
+                                }
+                            ],
+                            "or_city": [
+                                {
+                                    "val": "Caprica",
+                                    "negated": true
+                                }
+                            ],
+                            "str_date": [
+                                {
+                                    "val": "august 13",
+                                    "negated": false
+                                }
+                            ],
+                            "n_adults": [
+                                {
+                                    "val": "8",
+                                    "negated": false
+                                }
+                            ]
+                        },
+                        "frame_id": 1,
+                        "requests": [],
+                        "frame_parent_id": null,
+                        "binary_questions": [],
+                        "compare_requests": []
+                    },
+                    {
+                        "info": {
+                            "intent": [
+                                {
+                                    "val": "book",
+                                    "negated": false
+                                }
+                            ],
+                            "budget": [
+                                {
+                                    "val": "1900.0",
+                                    "negated": false
+                                }
+                            ],
+                            "dst_city": [
+                                {
+                                    "val": "Neverland",
+                                    "negated": false
+                                }
+                            ],
+                            "or_city": [
+                                {
+                                    "val": "Caprica",
+                                    "negated": false
+                                }
+                            ],
+                            "str_date": [
+                                {
+                                    "val": "august 13",
+                                    "negated": false
+                                }
+                            ],
+                            "n_adults": [
+                                {
+                                    "val": "5",
+                                    "negated": false
+                                }
+                            ],
+                            "NO_RESULT": [
+                                {
+                                    "val": true,
+                                    "negated": false
+                                }
+                            ]
+                        },
+                        "frame_id": 2,
+                        "requests": [],
+                        "frame_parent_id": 1,
+                        "binary_questions": [],
+                        "compare_requests": []
+                    },
+                    {
+                        "info": {
+                            "intent": [
+                                {
+                                    "val": "book",
+                                    "negated": false
+                                }
+                            ],
+                            "budget": [
+                                {
+                                    "val": "1700.0",
+                                    "negated": false
+                                }
+                            ],
+                            "flex": [
+                                {
+                                    "val": false,
+                                    "negated": false
+                                }
+                            ],
+                            "dst_city": [
+                                {
+                                    "val": "Atlantis",
+                                    "negated": false
+                                }
+                            ],
+                            "or_city": [
+                                {
+                                    "val": "Atlantis",
+                                    "negated": false
+                                }
+                            ],
+                            "str_date": [
+                                {
+                                    "val": "august 13",
+                                    "negated": false
+                                }
+                            ],
+                            "n_adults": [
+                                {
+                                    "val": "8",
+                                    "negated": false
+                                }
+                            ],
+                            "NO_RESULT": [
+                                {
+                                    "val": true,
+                                    "negated": false
+                                }
+                            ]
+                        },
+                        "frame_id": 3,
+                        "requests": [],
+                        "frame_parent_id": 1,
+                        "binary_questions": [],
+                        "compare_requests": []
+                    }
+                ]
+            },
+            "author": "wizard",
+            "timestamp": 1471273283370
+        },
+        {
+            "text": "I suppose I'll speak with my husband to see if we can choose other dates, and then I'll come back to you.Thanks for your help",
+            "labels": {
+                "acts": [
+                    {
+                        "args": [],
+                        "name": "thankyou"
+                    }
+                ],
+                "acts_without_refs": [
+                    {
+                        "args": [],
+                        "name": "thankyou"
+                    }
+                ],
+                "active_frame": 3,
+                "frames": [
+                    {
+                        "info": {
+                            "intent": [
+                                {
+                                    "val": "book",
+                                    "negated": false
+                                }
+                            ],
+                            "budget": [
+                                {
+                                    "val": "1700.0",
+                                    "negated": false
+                                }
+                            ],
+                            "dst_city": [
+                                {
+                                    "val": "Atlantis",
+                                    "negated": false
+                                }
+                            ],
+                            "or_city": [
+                                {
+                                    "val": "Caprica",
+                                    "negated": true
+                                }
+                            ],
+                            "str_date": [
+                                {
+                                    "val": "august 13",
+                                    "negated": false
+                                }
+                            ],
+                            "n_adults": [
+                                {
+                                    "val": "8",
+                                    "negated": false
+                                }
+                            ]
+                        },
+                        "frame_id": 1,
+                        "requests": [],
+                        "frame_parent_id": null,
+                        "binary_questions": [],
+                        "compare_requests": []
+                    },
+                    {
+                        "info": {
+                            "intent": [
+                                {
+                                    "val": "book",
+                                    "negated": false
+                                }
+                            ],
+                            "budget": [
+                                {
+                                    "val": "1900.0",
+                                    "negated": false
+                                }
+                            ],
+                            "dst_city": [
+                                {
+                                    "val": "Neverland",
+                                    "negated": false
+                                }
+                            ],
+                            "or_city": [
+                                {
+                                    "val": "Caprica",
+                                    "negated": false
+                                }
+                            ],
+                            "str_date": [
+                                {
+                                    "val": "august 13",
+                                    "negated": false
+                                }
+                            ],
+                            "n_adults": [
+                                {
+                                    "val": "5",
+                                    "negated": false
+                                }
+                            ],
+                            "NO_RESULT": [
+                                {
+                                    "val": true,
+                                    "negated": false
+                                }
+                            ]
+                        },
+                        "frame_id": 2,
+                        "requests": [],
+                        "frame_parent_id": 1,
+                        "binary_questions": [],
+                        "compare_requests": []
+                    },
+                    {
+                        "info": {
+                            "intent": [
+                                {
+                                    "val": "book",
+                                    "negated": false
+                                }
+                            ],
+                            "budget": [
+                                {
+                                    "val": "1700.0",
+                                    "negated": false
+                                }
+                            ],
+                            "flex": [
+                                {
+                                    "val": false,
+                                    "negated": false
+                                }
+                            ],
+                            "dst_city": [
+                                {
+                                    "val": "Atlantis",
+                                    "negated": false
+                                }
+                            ],
+                            "or_city": [
+                                {
+                                    "val": "Atlantis",
+                                    "negated": false
+                                }
+                            ],
+                            "str_date": [
+                                {
+                                    "val": "august 13",
+                                    "negated": false
+                                }
+                            ],
+                            "n_adults": [
+                                {
+                                    "val": "8",
+                                    "negated": false
+                                }
+                            ],
+                            "NO_RESULT": [
+                                {
+                                    "val": true,
+                                    "negated": false
+                                }
+                            ]
+                        },
+                        "frame_id": 3,
+                        "requests": [],
+                        "frame_parent_id": 1,
+                        "binary_questions": [],
+                        "compare_requests": []
+                    }
+                ]
+            },
+            "author": "user",
+            "timestamp": 1471273458251
+        }
+    ],
+    "wizard_id": "U21DKG18C",
+    "id": "e2c0fc6c-2134-4891-8353-ef16d8412c9a",
+    "labels": {
+        "userSurveyRating": 4,
+        "wizardSurveyTaskSuccessful": true
+    }
+}

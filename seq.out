@@ -1,0 +1,3050 @@
+O B-intent O O O
+O O 
+O O O B-or_city I-or_city I-or_city O O O O O O O O O O O O O O O O B-dst_city I-dst_city I-dst_city O O O O O 
+O O O O O O O O O O O O B-budget I-budget I-budget I-budget I-budget I-budget O O O 
+O O O O O O O 
+O O O O O O O O O O O O O O O O O O O O O O O 
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+O O O O O O O O O O O O O O O O O O O O O O O O O O 
+O O 
+B-or_city I-or_city O B-dst_city I-dst_city I-dst_city I-dst_city O O O O 
+O O O O O O O O O B-n_adults O 
+O O O O O 
+O 
+B-name I-name I-name I-name I-name O O O O O 
+O O 
+O O O O O O O O O O O O O O O B-or_city I-or_city O 
+O O O O O O O O O O O O O O B-dst_city I-dst_city O 
+O O O O O O O O O O O B-dst_city I-dst_city O O O O O O O O O O O O O O O O O O O O O O O O O 
+O B-or_city I-or_city I-or_city I-or_city I-or_city O O 
+O O 
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-or_city I-or_city O O O B-dst_city I-dst_city I-dst_city I-dst_city O O O O 
+O O O O O O O O O O O O O O O O O O 
+O B-str_date I-str_date I-str_date I-str_date I-str_date O B-end_date I-end_date I-end_date I-end_date I-end_date O O B-or_city I-or_city I-or_city I-or_city I-or_city O O O O O B-budget I-budget I-budget I-budget I-budget I-budget O O O O 
+O O B-intent 
+O O O O O O 
+O O O B-or_city I-or_city I-or_city O 
+O O O O O O O O O O O O O O O O O O O O O O O O O O B-dst_city I-dst_city I-dst_city I-dst_city 
+O O O O O O O O B-dst_city I-dst_city I-dst_city I-dst_city O O O O 
+O O O O O O O O O O O O O O O O O O O O O O O O O O 
+O O 
+O O 
+O O O O B-dst_city I-dst_city I-dst_city I-dst_city O O O O O O O B-or_city I-or_city I-or_city O O O O O B-dst_city I-dst_city I-dst_city O O O O O 
+O O O O 
+O O O O O O O O O O O O O 
+O O O O O O O O O O O O O O O O B-or_city I-or_city O B-dst_city I-dst_city I-dst_city O O O O O O O O O B-str_date I-str_date I-str_date I-str_date O O O 
+B-str_date I-str_date I-str_date I-str_date I-str_date O O O O O O O O O 
+O O O O 
+O O O O O O O O O O O O O O O O O O O O B-intent O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+B-dst_city I-dst_city O O O O O O O O B-category I-category I-category I-category O O O O O O 
+B-or_city I-or_city I-or_city 
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-dst_city I-dst_city I-dst_city I-dst_city I-dst_city O O O O O O O O O O O 
+O O O O O O O O O O O O O O O O O B-dst_city I-dst_city I-dst_city I-dst_city O O O O O O 
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+B-str_date I-str_date 
+B-str_date I-str_date 
+O O 
+O O O O O O O O O O O O O 
+B-n_adults O O B-or_city I-or_city I-or_city I-or_city O B-dst_city I-dst_city I-dst_city O O O O 
+O O O O B-or_city I-or_city I-or_city I-or_city O B-dst_city I-dst_city I-dst_city I-dst_city O O O O 
+O O O O 
+O O O B-str_date I-str_date I-str_date I-str_date I-str_date O B-dst_city I-dst_city I-dst_city I-dst_city O O O O O 
+B-budget I-budget I-budget I-budget 
+O O O O O O O O O O O O O O O O O O O O O 
+O O O O O O O O O O O O O O O O O O 
+B-budget I-budget I-budget I-budget 
+O B-dst_city I-dst_city I-dst_city I-dst_city 
+O O B-or_city I-or_city I-or_city I-or_city 
+O O O O 
+O O O O O O O B-dst_city I-dst_city I-dst_city I-dst_city O 
+O O O O O O O O O O O O O O O O B-budget I-budget I-budget I-budget I-budget O O O O O O O O O 
+O O O O O O O O O O O O O O O B-ref_anaphora O O O O O O 
+O O O O O O O O O O O O O O O O O O O 
+O O O O O O O 
+O O 
+O O O O O O O O O B-dst_city I-dst_city O 
+O O O O O O O B-or_city I-or_city O 
+O O O O B-dst_city I-dst_city O O O O O 
+O O O O O B-budget I-budget I-budget I-budget I-budget I-budget O 
+B-dst_city I-dst_city I-dst_city O O O O 
+O B-dst_city I-dst_city I-dst_city O O O O O 
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+O O O 
+O O O B-dst_city I-dst_city 
+B-price I-price I-price I-price I-price I-price I-price I-price 
+O O O O O 
+O O O O O B-or_city I-or_city I-or_city I-or_city O O B-str_date I-str_date I-str_date I-str_date I-str_date O B-end_date I-end_date I-end_date I-end_date O O O O O O O O O O O O B-dst_city I-dst_city I-dst_city O O O O 
+O O O O O O O O O O O B-budget I-budget I-budget I-budget I-budget I-budget O O O O O O B-dst_city I-dst_city I-dst_city I-dst_city I-dst_city I-dst_city I-dst_city O O O O O O O O O 
+O O O B-str_date I-str_date I-str_date I-str_date I-str_date O B-end_date I-end_date I-end_date I-end_date O O O O O O O O O 
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+O O O O O 
+O O O O O O O 
+O O O O B-or_city I-or_city O O B-str_date I-str_date I-str_date I-str_date I-str_date O O O 
+O O O O O O O O O O 
+O O O B-budget I-budget I-budget I-budget I-budget I-budget O B-dst_city I-dst_city I-dst_city I-dst_city I-dst_city O O O O O O O O O O O O O O O O O O 
+O O O O O O O O O O O O B-dst_city I-dst_city I-dst_city I-dst_city O O O 
+O O O B-or_city I-or_city I-or_city O B-dst_city I-dst_city I-dst_city I-dst_city I-dst_city I-dst_city 
+O B-or_city I-or_city I-or_city O B-dst_city I-dst_city O 
+O B-dst_city I-dst_city I-dst_city I-dst_city I-dst_city I-dst_city O O O O 
+O O 
+O O O 
+O O B-dst_city I-dst_city 
+B-str_date I-str_date I-str_date I-str_date I-str_date O B-end_date I-end_date I-end_date I-end_date I-end_date 
+O O O O O O O O O O O O 
+B-str_date I-str_date I-str_date I-str_date I-str_date O B-end_date I-end_date I-end_date I-end_date I-end_date 
+O O O O O O O B-or_city I-or_city O B-dst_city I-dst_city O O 
+O O O O O B-dst_city I-dst_city I-dst_city O O O O O 
+O O O O O O O O O O 
+O O O O O O B-dst_city I-dst_city I-dst_city I-dst_city O 
+O O O O O O 
+O O 
+O O O O B-dst_city I-dst_city I-dst_city I-dst_city O O O O 
+O O B-intent O O O O O O O O O O O O O O O O O O O 
+O O 
+B-seat I-seat O 
+O O 
+O 
+O O O O O O O O O O O B-or_city I-or_city I-or_city I-or_city O O O B-dst_city I-dst_city I-dst_city O O O O O O 
+B-or_city I-or_city I-or_city I-or_city O B-dst_city I-dst_city I-dst_city O O O O O O O O O O O O O O O O O O 
+O O O O B-or_city I-or_city I-or_city I-or_city O O O O O O O 
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+B-or_city I-or_city I-or_city I-or_city I-or_city I-or_city 
+B-budget I-budget I-budget I-budget I-budget I-budget 
+O O O O O 
+B-str_date I-str_date O 
+B-dst_city I-dst_city O 
+O O O B-dst_city I-dst_city I-dst_city I-dst_city O O O O 
+O O O B-dst_city I-dst_city O O O 
+O O O O O O O O O O O O O O O B-dst_city I-dst_city I-dst_city I-dst_city 
+O O O O O O O O O O O O O 
+O O O O O O O O 
+O O O O 
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+O O O O 
+O O O O O O O O O O O B-dst_city I-dst_city O O O O O O O O O O O O O O O O O 
+O O O O O B-or_city I-or_city I-or_city O O O O O O O B-dst_city I-dst_city I-dst_city O O O O O O O O O O O O O O O O 
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-dst_city I-dst_city O O O O O O O O O O O O O O 
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+O O B-str_date I-str_date O O 
+O O O O O O B-dst_city I-dst_city I-dst_city 
+O O O 
+O O O O O O O O O O O O O O O O O O O O O O O O O 
+O O O O O O O 
+O O O O O O O O O O O O O O O O O B-str_date I-str_date O O O O O O O O O O O O O O O O O B-max_duration I-max_duration I-max_duration O O O O O O O O 
+O O O O O O O O O B-or_city I-or_city I-or_city O B-dst_city I-dst_city 
+O O O B-str_date I-str_date I-str_date I-str_date O B-end_date I-end_date I-end_date O O 
+B-n_adults I-n_adults I-n_adults O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+O O O O O O O B-str_date I-str_date I-str_date I-str_date I-str_date O B-end_date I-end_date I-end_date I-end_date O O O 
+O O O O O O O O O 
+O O O O O O O O O B-budget I-budget I-budget I-budget O O O O O O O O O O O O O O O O O O O O O O O 
+O O O O O O O O O O O O O O 
+B-or_city I-or_city I-or_city 
+O O O O O O O B-or_city I-or_city I-or_city I-or_city O O O O 
+O O O O O O O O O O O B-or_city I-or_city I-or_city I-or_city O B-dst_city I-dst_city I-dst_city I-dst_city O O O O O O O O O O O O O 
+O O O O O O O O O O O O O O O O O O O O O O O O O 
+O O O 
+O O B-duration I-duration I-duration I-duration I-duration O O 
+O O O O O O O O O O O O O O O O O O O O O O O O 
+O O O O O B-or_city I-or_city I-or_city O O 
+O O O O O O O O O O O O O O O O O O O O O 
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-budget I-budget I-budget I-budget I-budget O 
+O O O 
+O O O O O B-or_city I-or_city I-or_city O 
+B-or_city I-or_city 
+B-n_adults I-n_adults I-n_adults 
+O O O O O B-end_date I-end_date I-end_date I-end_date O O O O 
+O B-intent O 
+O O 
+O O O O B-or_city I-or_city I-or_city O O O O O O O O O O 
+O O O O O O O O O O O O O O O O O O O O O O O O O O B-end_date I-end_date I-end_date O O O O 
+O O O O B-category O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+O O O B-dst_city I-dst_city O O O O O O O O O O O O O O 
+O O O O O O O O 
+B-ref_anaphora I-ref_anaphora O O O O O O O 
+O O O O B-dst_city I-dst_city I-dst_city I-dst_city O O O O O O O O O O O O O O O O O O 
+O O O O O O O O O O O O O O O O O B-dst_city I-dst_city I-dst_city I-dst_city I-dst_city O 
+O O O O O B-dst_city I-dst_city O O O O 
+O O O O O O B-duration I-duration O O O 
+O O O B-dst_city I-dst_city O O O O O 
+O O 
+O O O O O O O O O O O O O O O O O O O O O O O O O O B-dst_city I-dst_city I-dst_city I-dst_city O O O O O O O O O O 
+O O O O O O O O O O O O O B-dst_city I-dst_city O O O O O O O O O O O O O O O O O O O O B-or_city I-or_city I-or_city O O O O O O O O 
+O O O O O B-or_city I-or_city I-or_city I-or_city I-or_city I-or_city O O O O O O O O B-max_duration I-max_duration O O O O O O O O O O O O 
+O B-dst_city I-dst_city I-dst_city I-dst_city O 
+O O B-dst_city I-dst_city I-dst_city I-dst_city O O O O O 
+O O O O O O O O O O O O O O O O 
+O O O O O O O O O O O B-dst_city I-dst_city I-dst_city O O O 
+O O O O O O O O O O O 
+O O 
+B-dst_city I-dst_city 
+B-or_city I-or_city 
+O O O O O O B-ref_anaphora I-ref_anaphora I-ref_anaphora O O O O O O O O O O O O O B-intent O O O O O O O O O O O O O O O O O 
+B-dst_city I-dst_city I-dst_city I-dst_city O 
+O O O O O O O O O 
+B-or_city I-or_city I-or_city I-or_city I-or_city I-or_city I-or_city I-or_city I-or_city I-or_city I-or_city I-or_city 
+O O O O 
+O O O O O O O O O O O O O O O O O 
+B-or_city I-or_city I-or_city I-or_city 
+O O O O O O O O O O O O O O O O O O O O O 
+O O O O O O O B-or_city I-or_city I-or_city O O 
+O O O O O O O O O O O O O O O O O 
+O B-dst_city I-dst_city I-dst_city I-dst_city O O O O O O 
+O O O O O O O B-dst_city I-dst_city O 
+O O O O 
+O O O O B-or_city I-or_city I-or_city I-or_city O O 
+O O O O O B-str_date I-str_date I-str_date I-str_date I-str_date O B-end_date I-end_date I-end_date I-end_date O O O O O O O O O O O 
+O O O O B-dst_city I-dst_city O O O O O O 
+O O O O B-dst_city I-dst_city O O O O 
+O O O O O O O O O O O O O O O O 
+O O O O O O O O O O B-dst_city I-dst_city I-dst_city O O O O 
+O O O O O 
+B-budget I-budget 
+O B-str_date I-str_date O O O O 
+B-n_adults I-n_adults I-n_adults 
+B-or_city I-or_city 
+O B-or_city I-or_city O B-dst_city I-dst_city O O O O O O O 
+O O O O O O O O O O O O O O O O O 
+O O O O O O O O O 
+O O O O O O O O O O O O O O O O O O O O O O O O B-dst_city I-dst_city I-dst_city I-dst_city O O O O O O O O O O O O O 
+O O O O O O O O O 
+O O O O O O O O O O O O 
+O O O O B-or_city I-or_city O O O O B-budget I-budget I-budget I-budget I-budget I-budget O 
+O O O O O O O O O O O O O O O O O O O O O O 
+O O O 
+O O B-dst_city I-dst_city I-dst_city 
+O O O O B-or_city I-or_city I-or_city O B-end_date I-end_date I-end_date I-end_date 
+O O O O O O O O O O O 
+O O O O O O O O O O O O 
+B-dst_city I-dst_city I-dst_city 
+O O O O O O O O O O O 
+O O O O B-str_date I-str_date I-str_date I-str_date I-str_date O O O 
+O O O O O O O O O O O O O O O O O O O O O O O O O O 
+O O O O O B-ref_anaphora 
+O O O O O B-dst_city I-dst_city I-dst_city I-dst_city 
+O O O O O O O B-or_city I-or_city I-or_city I-or_city O O O O O O O O O O O B-dst_city I-dst_city I-dst_city O O O 
+O O O O 
+O B-str_date I-str_date I-str_date O O O O 
+O O O O O O O O O O O B-str_date I-str_date O B-end_date I-end_date I-end_date O O O 
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+O O O O 
+B-or_city I-or_city I-or_city I-or_city O B-dst_city I-dst_city I-dst_city I-dst_city 
+B-n_adults I-n_adults I-n_adults 
+O O O O O B-dst_city I-dst_city I-dst_city 
+O O O O O O O O O O O O O O B-or_city I-or_city B-dst_city I-dst_city I-dst_city 
+B-or_city I-or_city O B-dst_city I-dst_city I-dst_city I-dst_city 
+O 
+O O 
+B-dst_city I-dst_city I-dst_city O O O O O O O O O O 
+B-str_date I-str_date I-str_date I-str_date I-str_date O O O O O O O O O O O O 
+O O O O B-str_date I-str_date I-str_date I-str_date I-str_date O B-end_date I-end_date I-end_date I-end_date O 
+O O O O O B-or_city I-or_city I-or_city I-or_city I-or_city I-or_city I-or_city O B-dst_city I-dst_city I-dst_city I-dst_city 
+O O O O O O O O O O B-or_city I-or_city I-or_city O O O O O O 
+O O O O O O B-or_city I-or_city I-or_city O B-dst_city I-dst_city O 
+O O O O O O O O 
+O O O O O O O O O O O 
+O O O O O O O O O O O O O O O O O 
+O O 
+O O O O B-or_city I-or_city I-or_city O O O O O O 
+O O B-or_city I-or_city I-or_city O O O O 
+O O 
+O O O O O B-or_city I-or_city I-or_city I-or_city O O O O O O O B-str_date I-str_date I-str_date I-str_date I-str_date O O O O O O O B-end_date I-end_date I-end_date I-end_date I-end_date O O O 
+O O O B-budget I-budget I-budget I-budget I-budget I-budget O O O 
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-dst_city I-dst_city I-dst_city O O O O O O O 
+O B-breakfast I-breakfast O O O O O O O O O O O O O O O O O 
+B-dst_city I-dst_city I-dst_city O O O O O O O O O O O O O O O O O O 
+O O 
+O O O O O O O O B-intent O 
+O O O O O O O O O O O O O O O O B-or_city I-or_city I-or_city O O O O O O O 
+O B-dst_city I-dst_city I-dst_city O 
+O O B-or_city I-or_city O O O O O O 
+O 
+O O O O 
+O O O 
+O O O O O O O O O O O O O O B-ref_anaphora O O O O O O 
+O O O O B-n_adults O O O O O 
+O O O O O O O O O O O O O O O O O O O O O O O 
+O O B-dst_city I-dst_city 
+O O O O O O O B-dst_city I-dst_city I-dst_city O O O O O O O O O O O O O O 
+O O O O O O O O O O O B-end_date B-duration I-end_date O O O O O O 
+B-dst_city I-dst_city I-dst_city I-dst_city I-dst_city B-or_city I-or_city 
+O O O O O O O O B-ref_anaphora O O O O O O O 
+O O O O O O O O O O O B-dst_city I-dst_city O O 
+O O O O O O B-dst_city I-dst_city O O O O 
+O O O O 
+O O B-n_adults O O O O O 
+O O O O O O O O O O O O 
+O O O O B-end_date I-end_date I-end_date O O O O O O 
+B-ref_anaphora O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-intent O 
+O O O O O O O O O O O O O O O O 
+O O O O O O O O O O O O O O O 
+O O O O O O O O B-ref_anaphora I-ref_anaphora I-ref_anaphora O O O 
+O O O O O O O O O O O O O O O O O O O O O O 
+B-or_city I-or_city O B-dst_city I-dst_city I-dst_city O O O O O O O O 
+O O O O O O O O O O O O 
+O O O O O O O O O O O O O O O O O O O O O O O O O B-or_city I-or_city I-or_city O B-dst_city I-dst_city O O O O O B-end_date I-end_date I-end_date I-end_date I-end_date O O O O O O O O O O O O O O O O 
+O O O O O O O O O O O O O O O O O O O O O O O O O 
+O O O O O O O O O B-dst_city I-dst_city I-dst_city I-dst_city O O O O O 
+O O O O O O O B-str_date I-str_date I-str_date I-str_date I-str_date O B-end_date I-end_date I-end_date I-end_date I-end_date O 
+O O O O O O O O O O O O O O B-dst_city I-dst_city I-dst_city O O O O O 
+O O O O O O O O O O O O O O O O O 
+O O O O O B-dst_city I-dst_city O 
+O O O B-dst_city I-dst_city 
+O O O O O O O O O O O O O O O O O O O O O O O O O 
+O O O O O O O B-dst_city I-dst_city O O O O O O O O O O O O O O O O O O O O O O O O O O B-str_date I-str_date I-str_date I-str_date I-str_date O B-end_date I-end_date I-end_date I-end_date I-end_date O 
+O O O O O O O O 
+O O B-dst_city I-dst_city I-dst_city I-dst_city O O O O O O O O O O O O O O O O O O O O O O 
+O O O O O O O O O B-dst_city I-dst_city O O O O O 
+O O O O O O B-str_date I-str_date O O B-end_date I-end_date O O O O O O 
+O O O O 
+O O B-or_city I-or_city O O O 
+O O O O O O O O O O O O O O O O B-str_date I-str_date I-str_date I-str_date O O O O O O O B-max_duration I-max_duration O O O O O 
+O O O O O 
+O O O O O O O O O O O O O O O O O O O O O O B-dst_city I-dst_city I-dst_city I-dst_city O O O O O 
+O O O O O O O 
+O O O O O O O O 
+O O O B-budget I-budget I-budget I-budget I-budget O 
+O O O O O O O O O O O O O B-or_city I-or_city I-or_city I-or_city O O 
+O O O O O O O O O O O O O O O O O O O O B-dst_city I-dst_city I-dst_city O O O O O 
+O O O O B-or_city I-or_city 
+O O O O O O O O O O O O O O O O O O O O B-dst_city I-dst_city I-dst_city I-dst_city O O O O O 
+O O O O O O B-dst_city I-dst_city I-dst_city O O O 
+O O O O O B-intent 
+O O O O O B-budget I-budget I-budget I-budget I-budget I-budget O O O O O O O O O O O O O O O 
+O O B-dst_city I-dst_city I-dst_city I-dst_city O O O O O 
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-dst_city I-dst_city O O O O O 
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+O O O O B-duration I-duration O O O O O 
+O O O 
+O O O B-or_city I-or_city I-or_city I-or_city O B-dst_city I-dst_city O 
+O O O O O O O O O O B-str_date I-str_date I-str_date I-str_date I-str_date O B-end_date I-end_date I-end_date I-end_date I-end_date O O O 
+O O O O O B-duration I-duration O O O O O 
+B-duration I-duration I-duration O O O O O O O 
+O O O O O O O O O O O O O O O O O O 
+O O O O O O O O O O B-str_date I-str_date I-str_date I-str_date O O 
+O O O O 
+O O O O O O O B-dst_city I-dst_city I-dst_city I-dst_city I-dst_city O O 
+O O O O B-dst_city I-dst_city I-dst_city O O O O O O O O 
+B-dst_city I-dst_city I-dst_city O O O O 
+O O O O O O O B-dst_city I-dst_city O 
+O O O O B-name I-name O O B-name I-name I-name O O O 
+O O O O B-dst_city I-dst_city I-dst_city O O O O O O O O O O O O O O 
+O O O O O O 
+O O O O O O O B-intent 
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+O O O O O O O O O O B-dst_city I-dst_city O O 
+O O O O O O O O O O O O O O O O O O O O O O O O B-or_city I-or_city O B-dst_city I-dst_city O 
+O O O O O O B-or_city I-or_city O B-dst_city I-dst_city I-dst_city O O O 
+O O O O O B-n_adults I-n_adults I-n_adults O O 
+O O O 
+O 
+O O O O O O O O O O O O O O B-ref_anaphora I-ref_anaphora I-ref_anaphora O O O O O O 
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-intent O O 
+O O O 
+O O O O O O O O O 
+O B-str_date I-str_date I-str_date I-str_date I-str_date O O O O O O O O O O O O O O O O O O O O 
+O B-dst_city I-dst_city O O O O 
+O O 
+O O O O O O O O O O O O O O O O O O O O O O O 
+O O O O O O O O O B-dst_city I-dst_city O 
+O O O B-duration I-duration I-duration O O O O 
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+O O O B-end_date I-end_date I-end_date O O O O O O 
+B-n_adults I-n_adults I-n_adults 
+B-dst_city I-dst_city O O O O O O O O B-str_date I-str_date I-str_date I-str_date I-str_date O B-end_date I-end_date I-end_date I-end_date I-end_date O O O O O 
+O O O O O O O O O 
+B-or_city I-or_city I-or_city O O O 
+O O O O O O O O O 
+O O O O O O O O O O O O O O O O 
+O O B-end_date I-end_date I-end_date I-end_date 
+O O O O O O O O O O O O O O B-dst_city I-dst_city I-dst_city I-dst_city O O O O O O O O O O O O O O O O O O O O O O O 
+O O O O O O O 
+O O O O O O O O O O O O 
+O O O O B-ref_anaphora I-ref_anaphora I-ref_anaphora O O B-price I-price I-price O O O O O O O O O O O O O B-dst_city I-dst_city I-dst_city O O O O 
+O O O O O O O 
+O O O O O O B-str_date I-str_date I-str_date I-str_date I-str_date O O 
+O O O O O O O B-gst_rating I-gst_rating O 
+O O O O O O O O O B-duration I-duration I-duration O O O O 
+O O O O O O O O O O O O O O O O O O O O O O O O O O 
+O O O O O B-or_city I-or_city O B-dst_city I-dst_city O O O O O O O O O O O O O O O 
+O O O O O O O O O B-dst_city I-dst_city I-dst_city I-dst_city 
+O O O O O O O O O O O O O O O 
+O O O B-dst_city I-dst_city I-dst_city I-dst_city O O O 
+O O O O O O O O O O O O B-dst_city I-dst_city O O O O 
+B-dst_city I-dst_city O O O O 
+O O O B-str_date I-str_date O O O O O 
+O O O O O O B-dst_city I-dst_city I-dst_city O 
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+O O O O O O O O O O O O O B-dst_city I-dst_city I-dst_city I-dst_city O 
+O O B-dst_city I-dst_city I-dst_city I-dst_city O O O O O O O 
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-ref_anaphora I-ref_anaphora I-ref_anaphora I-ref_anaphora O O O O O 
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+O O O 
+B-n_adults I-n_adults I-n_adults 
+B-budget I-budget I-budget I-budget I-budget I-budget 
+O O B-or_city I-or_city I-or_city O O O 
+O O O O B-dst_city I-dst_city O O O O 
+O O O B-seat I-seat 
+O O O O 
+O B-or_city I-or_city I-or_city O O O O B-str_date I-str_date I-str_date I-str_date I-str_date O B-end_date I-end_date I-end_date I-end_date I-end_date O O O 
+O O O O O O B-dst_city I-dst_city I-dst_city 
+O O O O O O O O O O O O B-seat I-seat O O O 
+O O O O O O O O O O O O O O O 
+O O 
+O O O O O O O O 
+O O O O O O O O O O O O O O O O O 
+O O O O O O O O O O O O O O O O O O O O O B-str_date I-str_date O O O O O 
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+B-or_city I-or_city I-or_city 
+B-dst_city I-dst_city I-dst_city 
+O O O O O O O O 
+O O O O O B-ref_anaphora I-ref_anaphora I-ref_anaphora I-ref_anaphora O O O O O O O O O O O O O O 
+O O O 
+O O O O O O O O O O O O O O B-dst_city I-dst_city I-dst_city I-dst_city 
+O O O O O B-name I-name O B-duration I-duration I-duration O O O O 
+O O O O O O O O B-seat I-seat O O O O O O O O O O O O O O O B-dst_city I-dst_city I-dst_city I-dst_city O 
+O O O O O O O O O O O O O O O B-dst_city I-dst_city I-dst_city I-dst_city O O O O 
+O O O O O O B-or_city I-or_city I-or_city I-or_city O O O O O O O O O O B-dst_city I-dst_city I-dst_city O O O 
+O O O B-dst_city I-dst_city I-dst_city I-dst_city O O O O 
+O O O O O O O B-max_duration I-max_duration O O 
+O O O O O O O O O O O O O B-or_city I-or_city O O O O O O B-or_city I-or_city I-or_city I-or_city O B-dst_city I-dst_city I-dst_city O O B-price I-price I-price I-price O O O O O O 
+O O O O O 
+B-str_date I-str_date I-str_date I-str_date O 
+O O 
+B-budget I-budget I-budget I-budget 
+O 
+O O 
+B-str_date I-str_date O O O B-end_date I-end_date I-end_date I-end_date O O O O O 
+O O O O O O O O 
+O O O O O O O O O O B-or_city I-or_city O B-dst_city I-dst_city I-dst_city I-dst_city O O O O O O B-category I-category I-category O O 
+O O O O B-dst_city I-dst_city O 
+O O O O B-dst_city I-dst_city O O O 
+O O O B-or_city I-or_city I-or_city I-or_city I-or_city O O O B-dst_city I-dst_city I-dst_city 
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-budget I-budget I-budget I-budget I-budget O O B-or_city I-or_city I-or_city O O O O O 
+O B-category I-category O O O O O O O O 
+O O O O O O O O O O O O O O O O O 
+B-duration I-duration 
+O O O O O O B-dst_city I-dst_city I-dst_city O O O O O 
+O O O B-or_city I-or_city 
+B-duration I-duration I-duration O O O 
+O B-or_city I-or_city O B-dst_city I-dst_city I-dst_city O O O O O 
+B-budget I-budget 
+B-duration I-duration 
+O O O O O O O O O O 
+O O O O O O O O O B-end_date I-end_date I-end_date I-end_date O O O 
+O O B-dst_city I-dst_city O O O O O O O O O O O O B-category O O O O O O O 
+O O B-or_city I-or_city I-or_city I-or_city I-or_city I-or_city I-or_city O B-dst_city I-dst_city 
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+O O B-intent O 
+O O O 
+O O O O O O 
+O O O O O B-dst_city I-dst_city O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-str_date I-str_date I-str_date I-str_date O B-end_date I-end_date I-end_date I-end_date O O O O O O O O 
+O O O O O O O O O O O O O O O O O O B-or_city I-or_city O O O O B-dst_city I-dst_city I-dst_city O O O O O 
+O O B-duration I-duration 
+O O O O O O O O O O O O O O O O O O O O O O O O O 
+O O O O O O 
+O O O B-dst_city I-dst_city I-dst_city I-dst_city 
+B-or_city I-or_city I-or_city 
+O O O O O B-dst_city I-dst_city I-dst_city O O O O O 
+O O O O B-budget I-budget I-budget I-budget I-budget O O O O O O O O O O O O O O O 
+O O O O O B-or_city I-or_city I-or_city O B-dst_city I-dst_city I-dst_city O O O O 
+O O O O O O 
+O O O O O B-or_city I-or_city I-or_city O B-dst_city I-dst_city I-dst_city I-dst_city O O O O 
+O B-dst_city I-dst_city I-dst_city O O O O 
+O O O O O O O O O O O O O O O O O O O O O O O O 
+O O O O O O O O O 
+O O 
+O O O B-str_date I-str_date I-str_date O B-end_date I-end_date I-end_date I-end_date O O O O B-or_city I-or_city I-or_city I-or_city I-or_city O O O O O O O O O O O 
+O O O O O O O O O O B-gst_rating I-gst_rating O O O O O O O O 
+O O O O B-dst_city I-dst_city I-dst_city O O O O O O O O O O O 
+B-dst_city I-dst_city I-dst_city O 
+O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+O O O O O 
+O O B-max_duration I-max_duration O O O O O O O B-dst_city I-dst_city B-str_date I-str_date I-str_date I-str_date O O O O O O O O O O 
+O O O O O O O O O O O O O O O O O O O O O O 
+B-or_city I-or_city I-or_city I-or_city O O 
+B-budget I-budget I-budget I-budget 
+O O O O O B-str_date I-str_date I-str_date 
+O O O O 
+O O O O O O O O O O O O O O O O B-str_date I-str_date I-str_date I-str_date I-str_date O O O 
+O O O O O O O O O O O O B-dst_city I-dst_city O 
+B-duration I-duration I-duration O O O O O O 
+B-seat I-seat 
+O O O B-ref_anaphora I-ref_anaphora O O O O O O O O 
+O O O O O O O O O O O O O O O O O O O O O O O O O O O B-dst_city I-dst_city I-dst_city O O O O O O O O 
+O O O O O O O O 
+O O O O 
+O O O O O O O B-dst_city I-dst_city O O O O O O O O O 
+O O O B-seat I-seat 
+B-or_city I-or_city O O O B-category I-category I-category O O 
+O O O O O B-n_adults I-n_adults I-n_adults I-n_adults 
+O O O B-dst_city I-dst_city I-dst_city I-dst_city I-dst_city O O O O O O O O O O O 
+B-or_city I-or_city I-or_city I-or_city O 
+O O O O O O O O O O O O O O B-dst_city I-dst_city I-dst_city O O O O 
+O O O O O O O B-str_date I-str_date I-str_date I-str_date I-str_date O B-end_date I-end_date I-end_date I-end_date I-end_date O O O B-dst_city I-dst_city I-dst_city I-dst_city I-dst_city O O O 
+O O O O O O O O O O O O O O O O O O O O O O O 
+O O O O O O O O O O O O O O O O O O O O O B-or_city I-or_city I-or_city O 
+O O O O O O O O O B-or_city I-or_city O 
+B-budget I-budget I-budget I-budget I-budget I-budget 
+O O O O O O 
+O O O O O O O O O B-dst_city I-dst_city I-dst_city I-dst_city O O O O O O O O O 
+O O O O O O O O O O B-budget I-budget I-budget I-budget I-budget I-budget O O O O O O O O O O O O O 
+B-n_adults I-n_adults I-n_adults 
+O O O O O O O O O O O B-dst_city I-dst_city I-dst_city O O O O O 
+B-dst_city I-dst_city I-dst_city I-dst_city O O O O O O O O O O O O O O 
+O O O O O O O O O B-dst_city I-dst_city O O O O O O O O O O 
+O O O O O O O O O O O O O O O O O O O O O O O O O O 
+B-budget I-budget I-budget I-budget 
+B-n_adults 
+O O B-dst_city I-dst_city I-dst_city I-dst_city O O O O 
+O O O O O B-str_date I-str_date I-str_date I-str_date I-str_date O B-end_date I-end_date I-end_date I-end_date O O O 
+O O O 
+O O O O 
+O O O O O B-min_duration I-min_duration O O O O O O O O O B-dst_city I-dst_city O O O O 
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+O O O O 
+O O O O O O O O O B-budget I-budget I-budget I-budget O O O O O O O O 
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-dst_city I-dst_city O O 
+O O O O O O O O O B-dst_city I-dst_city I-dst_city O 
+O O O O O O O 
+O O O B-budget I-budget I-budget I-budget I-budget I-budget O 
+O O O O O O O O O O B-str_date I-str_date I-str_date I-str_date I-str_date O B-end_date I-end_date I-end_date I-end_date I-end_date O O O O O O O 
+O O O O O O O O O B-dst_city I-dst_city O O O O 
+O O O 
+O O O O O B-dst_city I-dst_city I-dst_city I-dst_city O O O 
+B-dst_city I-dst_city O 
+O O O O O O O O O O O O O O O O O O O 
+O O O O 
+O O O O O B-count_name O O O O O O O 
+O O O O O O O O O O 
+B-n_adults I-n_adults 
+B-or_city I-or_city I-or_city 
+O O O O 
+O O O O B-or_city I-or_city I-or_city I-or_city O O O O B-dst_city I-dst_city I-dst_city I-dst_city O 
+O O O O O 
+O O O O O O O O O O O O B-dst_city I-dst_city 
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+O O O O O O O O O O O O O O O O O O O O O O O O O B-dst_city I-dst_city I-dst_city O O O O O O O O 
+O O O O O O O O O B-dst_city I-dst_city I-dst_city I-dst_city O O O O O O O O O O O 
+O O O O O O O O O O B-dst_city I-dst_city I-dst_city O O 
+O O O 
+O O O 
+O O O B-or_city I-or_city I-or_city I-or_city O O O 
+O O O O O O O O O O O O O O O O B-dst_city I-dst_city I-dst_city O O O O O 
+O 
+B-or_city I-or_city I-or_city I-or_city O B-dst_city I-dst_city I-dst_city O O O O 
+O O O 
+B-dst_city I-dst_city O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+O O O O O O O O O O O B-or_city I-or_city I-or_city I-or_city I-or_city O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+B-n_adults I-n_adults I-n_adults O O O O O O 
+O O O O O O O O B-dst_city I-dst_city I-dst_city I-dst_city I-dst_city O O O O 
+O B-or_city I-or_city O O 
+O O O O O O O O O O O O O O O O O O B-duration I-duration I-duration O O O O O O O O O 
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-dst_city I-dst_city I-dst_city I-dst_city O O O O O O O 
+O O O B-dst_city I-dst_city I-dst_city I-dst_city I-dst_city I-dst_city I-dst_city O O O O 
+O O O O O O O O O O O 
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+O O O O O O O O O O O O B-str_date I-str_date I-str_date I-str_date O 
+O O O O O B-dst_city I-dst_city 
+O O O O O O O O O O O O 
+O O O O O O O O O O 
+B-dst_city I-dst_city I-dst_city O O O O O O O 
+O O O O O O O B-dst_city I-dst_city I-dst_city I-dst_city I-dst_city O O O O 
+O O O 
+O O O O O O O O O O O O O O O O O 
+O O O O O O 
+O O O B-dst_city I-dst_city O O O O 
+O O 
+O O O 
+O O O O O O B-str_date I-str_date I-str_date I-str_date O B-end_date I-end_date O O O O O O O O O O O O B-n_adults I-n_adults I-n_adults 
+O O O O O O O O O O O O O O O O O O O O B-dst_city I-dst_city I-dst_city O O O O O O O O 
+B-dst_city I-dst_city I-dst_city O B-name I-name O O O O O 
+O O O O O O O O O O O O O O O O O O O O O O O O O 
+O O O O B-n_adults I-n_adults I-n_adults I-n_adults 
+O O 
+O O O 
+O O O O O O O 
+O O O O B-dst_city I-dst_city I-dst_city I-dst_city O O O O O 
+O O O O O O O 
+O O O O O O O 
+O O O B-dst_city I-dst_city O O O O O O 
+B-dst_city I-dst_city I-dst_city I-dst_city O O O 
+O O O O O O O O O O B-dst_city I-dst_city I-dst_city O O O O O O O O O O O O O 
+B-duration I-duration 
+O O O O O O O O O O O O O O O O O O O O 
+O O O O O O O 
+O O O O O O O O O O O O O O O O O O O O O O O O O 
+O O O O O O O O B-dst_city I-dst_city I-dst_city I-dst_city O O O O O O O O 
+O O O O B-ref_anaphora I-ref_anaphora O O O O 
+O O O O O O O O O O O O O O O O O O 
+B-or_city I-or_city I-or_city O O 
+O O O B-dst_city I-dst_city O O O O O O O O 
+O O O O O O O O B-str_date I-str_date O O O O O O O O O O O O O O O O O B-dst_city I-dst_city I-dst_city O O O O O O O 
+O O O O O 
+O O O O O B-ref_anaphora I-ref_anaphora O O O O 
+O O O O B-category I-category I-category 
+O O O O O O O B-dst_city I-dst_city I-dst_city O O 
+O O O O B-dst_city I-dst_city O O O O O O O O O O O O O O O O 
+O O O O O B-budget I-budget I-budget I-budget I-budget I-budget O O O O O O O B-dst_city I-dst_city I-dst_city I-dst_city O O O O O O O O O O O O B-or_city I-or_city I-or_city O O O O 
+O O O B-or_city I-or_city O O O O O O O B-dst_city I-dst_city I-dst_city 
+O B-or_city I-or_city I-or_city I-or_city I-or_city B-dst_city I-dst_city I-dst_city I-dst_city O 
+B-dst_city I-dst_city I-dst_city O O O O 
+O O O O O O O O O O O O O O O O O O O O O O O O O 
+O O B-dst_city I-dst_city B-category I-category I-category O O O O 
+O O O O B-ref_anaphora I-ref_anaphora B-gst_rating I-gst_rating I-gst_rating O O O O 
+O O O O O O O O O O O O O O O O O B-end_date I-end_date I-end_date I-end_date O O O O O O O O O O O O O 
+O O O O O O O O 
+O O O O O O O O O O 
+O O O O O 
+O O O 
+O B-dst_city I-dst_city I-dst_city I-dst_city O O O O 
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+O O O O O O O 
+B-duration I-duration I-duration 
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-dst_city I-dst_city I-dst_city I-dst_city O 
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-dst_city I-dst_city I-dst_city I-dst_city O O O O O O 
+O O O O O O O O O O O O O O O O O B-dst_city I-dst_city I-dst_city I-dst_city O O O B-duration I-duration I-duration O O O O O O 
+O O O 
+B-category I-category I-category O O O O O B-budget I-budget I-budget I-budget I-budget I-budget O 
+O O O O 
+O 
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-dst_city I-dst_city I-dst_city I-dst_city O O O O O O O O O 
+O O O O O O O O B-dst_city I-dst_city I-dst_city I-dst_city O O O O O O O O O O O O 
+O O O O O O O O O O O O O O O O O O O O 
+O O O O O O O O O O O 
+O O O O O O O O O O O O O O O O O O O O O O B-dst_city I-dst_city I-dst_city I-dst_city O O O O O O O 
+B-dst_city I-dst_city I-dst_city I-dst_city O 
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-dst_city I-dst_city O O O O O O O O 
+O O O O O B-duration I-duration I-duration O O O O O 
+O O O 
+O O O O O B-dst_city I-dst_city O O O 
+O O O 
+O O B-n_adults 
+O O O O O O O O O O O O O O O O O O O O O O B-dst_city I-dst_city I-dst_city O O O O O O O 
+O O O O O 
+O B-dst_city I-dst_city O 
+O O 
+B-or_city I-or_city I-or_city I-or_city O B-dst_city I-dst_city O O O O 
+O O O O O O O O O O O B-category I-category I-category O O 
+O O O O O O O O O O O O O O O O O O O O O O 
+B-dst_city I-dst_city I-dst_city I-dst_city O O O 
+B-dst_city I-dst_city I-dst_city I-dst_city 
+O O O O O O O O O O O O O O B-dst_city I-dst_city I-dst_city O O O O O O O O O O 
+O O B-or_city I-or_city I-or_city O O O O O O O O O O 
+O 
+O O O O O O O O B-dst_city I-dst_city I-dst_city I-dst_city O O O O O 
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-or_city I-or_city I-or_city I-or_city O B-dst_city I-dst_city I-dst_city O O O O O O O O O 
+O O O O O O O O O O O O O O O O O O O 
+B-budget I-budget I-budget I-budget I-budget I-budget O O O O O O O O 
+O O O O O O O O O O O O O B-ref_anaphora I-ref_anaphora O O O O O O O O 
+O O O O O O O O O O O O O O O O O O B-dst_city I-dst_city O O O O O O O O O O O O B-or_city I-or_city I-or_city O O O O O O O O O 
+O O O O O O O O O O O O O O O O O O B-dst_city I-dst_city O O O O O O 
+O O O O O O O O O O O O O O O O O O O O O O O 
+O O O O O O O O B-dst_city I-dst_city I-dst_city I-dst_city O 
+O O O 
+B-dst_city I-dst_city I-dst_city O O O O O O O O O O O O 
+O O O O O O O 
+B-or_city I-or_city I-or_city B-dst_city I-dst_city 
+B-str_date I-str_date I-str_date I-str_date I-str_date O O O O O O O O O 
+O O O O O 
+O O O O O O O O O 
+O O O O O O O O B-dst_city I-dst_city O O O 
+B-or_city I-or_city I-or_city 
+B-budget I-budget I-budget I-budget I-budget I-budget 
+O O O B-str_date I-str_date I-str_date I-str_date I-str_date 
+O O O O B-category O O O O O O O O O O O O O O O O 
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+O O O O O O O O O O O O O O O O O O O O O O O O O O O B-vicinity I-vicinity O O O O O O O O 
+O O O O O O O O B-dst_city I-dst_city O O O 
+O O O O O B-dst_city I-dst_city I-dst_city I-dst_city O O O O O O 
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-dst_city I-dst_city I-dst_city O O O O 
+O O O O O O O O O O 
+O O O O O O O B-dst_city I-dst_city O O O O 
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+O O O O O B-category I-category I-category 
+B-price I-price I-price O O B-gst_rating I-gst_rating O O O O O 
+O O O O O O O O O O O O O O O O O O O O O O O B-dst_city I-dst_city I-dst_city O O O O O O O O B-category I-category I-category O O O O 
+O O O O O O O B-dst_city I-dst_city O O O O O O O B-intent 
+O O O O 
+O O B-budget I-budget I-budget I-budget 
+O O O O B-or_city I-or_city O B-dst_city I-dst_city I-dst_city I-dst_city O O O O 
+O O O O O O O O O 
+O O O O 
+O O O O 
+O O O 
+B-dst_city I-dst_city I-dst_city I-dst_city O O 
+B-dst_city I-dst_city O O O 
+O O O O O O O O O O O O O O O O B-dst_city I-dst_city O O O O 
+O O O O O O O O O O O O O O O O O 
+O O O O O O O O O O O O O O O O O O O O O O O O B-dst_city I-dst_city I-dst_city I-dst_city 
+O O O O O O O O O O O O O O O B-dst_city I-dst_city I-dst_city I-dst_city O O O O 
+O O O B-dst_city I-dst_city I-dst_city I-dst_city O O O O 
+O O O O 
+O O O O O O O O O O O O O O O O O O B-category I-category I-category 
+O O O O O O O O O O O O O O O O O O O O B-category I-category I-category B-dst_city I-dst_city I-dst_city O O O O 
+O O O O O O O O O O 
+B-n_children 
+B-dst_city I-dst_city O O O O O 
+O O O O O O O O O B-name I-name O O O O O O 
+O O O O O O O O O O O B-amenities I-amenities O O O O O 
+B-dst_city I-dst_city O O O O O 
+O O O O O O O O B-or_city I-or_city I-or_city O O O O O O O O O O O O O O B-dst_city I-dst_city O O 
+O O 
+B-n_adults 
+O O O O O O O O O O O O O O O O B-dst_city I-dst_city O O O O 
+O O 
+O O B-or_city I-or_city O O O 
+O O O O O B-dst_city I-dst_city I-dst_city O O O O O O O O 
+O O O 
+O O O O O O O O O O O O O B-dst_city I-dst_city I-dst_city O O 
+O O O B-dst_city I-dst_city I-dst_city O O O 
+O O O O O O O O O O B-dst_city I-dst_city I-dst_city O O O O 
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+O O O 
+O O O O O O O O O O O O O O O O O O O O O O O B-dst_city I-dst_city I-dst_city 
+O O O O 
+B-dst_city I-dst_city I-dst_city 
+O O O O O O O O O O O O O O O O O O O 
+O B-or_city I-or_city I-or_city O O 
+O O 
+O O O O B-n_adults 
+O O O O B-or_city I-or_city I-or_city I-or_city O O O O O O 
+O O 
+O O 
+O O O O O O O O O O B-dst_city I-dst_city I-dst_city I-dst_city I-dst_city I-dst_city I-dst_city O O O O O O O O O O O 
+O O O O O O O 
+O O O O O O B-or_city I-or_city O B-dst_city I-dst_city I-dst_city I-dst_city I-dst_city I-dst_city I-dst_city O O O O 
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+O O O O O O O O O O O O O O O O B-dst_city I-dst_city I-dst_city I-dst_city O O O O O 
+O O O O O O O O O O O O O O O O O O O O O O O O O O O B-dst_city I-dst_city I-dst_city I-dst_city O O O O O 
+O O O O O O O O O O O O O O O O O O O O 
+O O O B-dst_city I-dst_city I-dst_city I-dst_city I-dst_city O O O 
+O O 
+O O O O O O 
+B-str_date I-str_date O 
+O O O O O O B-or_city I-or_city O B-dst_city I-dst_city O O O O O O O O O O O 
+O O O O O O 
+B-or_city I-or_city 
+O O O O B-duration I-duration I-duration O O O 
+O O O O O O O 
+O O O O O O O O O O O O O O O O O O 
+O O O B-dst_city I-dst_city I-dst_city I-dst_city O O O O O O O O B-dst_city I-dst_city O O O O O O O O O O O O O O O O O O 
+O 
+O O O O 
+O O O O O O O O O O 
+O O O O O O O O O O O O 
+B-budget I-budget I-budget I-budget 
+B-dst_city I-dst_city I-dst_city I-dst_city O O O 
+O O O O O O O O B-dst_city I-dst_city O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+O O 
+O O O O O B-dst_city I-dst_city I-dst_city O 
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+O O O O O O O O B-dst_city I-dst_city I-dst_city O O O O 
+O O O O B-dst_city I-dst_city I-dst_city I-dst_city I-dst_city I-dst_city I-dst_city O O O O 
+O O O O O O O B-dst_city I-dst_city O O O O O 
+O O O O O O O O O O O O O O O O B-dst_city I-dst_city O O O B-category O O O O 
+O O O B-end_date I-end_date I-end_date I-end_date I-end_date O O O 
+B-dst_city I-dst_city I-dst_city I-dst_city I-dst_city I-dst_city I-dst_city O O 
+B-n_adults 
+O O O O O 
+O O O O O O O O O O O O O O O O 
+O O O B-or_city I-or_city I-or_city I-or_city I-or_city I-or_city B-dst_city I-dst_city 
+O O O O O O O 
+O O O O 
+O O O O O O O O B-or_city I-or_city I-or_city I-or_city O O O O 
+O O O O O B-or_city I-or_city I-or_city I-or_city B-str_date I-str_date I-str_date I-str_date I-str_date O O 
+O O O O O O O O O O O O O O O O B-dst_city I-dst_city O O O O O O O 
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-dst_city I-dst_city O O O O 
+O O O 
+O O O O O O O O O O O O O O O O O O B-dst_city I-dst_city I-dst_city O O 
+O O O O O O O O O O O O O O O O O O O B-or_city I-or_city I-or_city I-or_city O O O O O O O B-str_date I-str_date O B-dst_city I-dst_city I-dst_city O 
+O O O O O O O O O O O B-or_city I-or_city I-or_city I-or_city O O O O O O O O O O O O O 
+O B-or_city I-or_city O O O O O O B-dst_city I-dst_city I-dst_city O O 
+O O O O O B-dst_city I-dst_city I-dst_city I-dst_city O O O O O O O O O O O O O O O 
+B-dst_city I-dst_city O O O O O O O O O O 
+O O O O O O O O O O O O O O O O O O O O O O O O O O 
+B-n_adults 
+B-or_city I-or_city I-or_city B-dst_city I-dst_city I-dst_city I-dst_city 
+B-or_city I-or_city I-or_city B-dst_city I-dst_city I-dst_city 
+O O O 
+B-budget I-budget I-budget I-budget 
+O B-str_date I-str_date I-str_date O O O 
+O O O O O O O O O O O O O O O O O O O O O O O 
+O O O O B-str_date I-str_date I-str_date I-str_date O B-end_date I-end_date I-end_date O O O O O O O O B-budget I-budget I-budget I-budget I-budget I-budget O O O O O O O B-or_city I-or_city I-or_city I-or_city O 
+O O O O B-dst_city I-dst_city I-dst_city I-dst_city O O O O 
+O 
+O O O O O O O O O O O O O B-str_date I-str_date I-str_date I-str_date I-str_date O O O O O O O B-end_date I-end_date I-end_date I-end_date O 
+O B-count_name O O O O O 
+O O B-intent O O O 
+O O O 
+O O O O O O O O O O O 
+O O O O O O O O O O O B-dst_city I-dst_city I-dst_city O O O O O O O O O O O O O O O O 
+O O O O O O O O O B-dst_city I-dst_city O O O O 
+O O O O O O O O O O O B-dst_city I-dst_city I-dst_city O O O 
+O O 
+O O O 
+O O O 
+O O O O O O O O O O O O B-dst_city I-dst_city 
+O B-dst_city I-dst_city I-dst_city I-dst_city O O O O 
+O O O O O O 
+O O 
+O O O O O O O O O O O O O B-or_city I-or_city I-or_city I-or_city O 
+B-ref_anaphora I-ref_anaphora O O O O O O O O O 
+O O B-or_city I-or_city I-or_city I-or_city O B-dst_city I-dst_city O O 
+O O O O O O O B-dst_city I-dst_city I-dst_city I-dst_city I-dst_city O 
+O O O O O O O O O O 
+B-str_date I-str_date I-str_date I-str_date I-str_date O B-end_date I-end_date I-end_date I-end_date I-end_date O O 
+B-or_city I-or_city I-or_city I-or_city O B-dst_city I-dst_city I-dst_city I-dst_city O O O O 
+O O O B-dst_city I-dst_city O O O O 
+O O O O O O B-dst_city I-dst_city I-dst_city O O O O 
+O O O O O 
+B-budget I-budget I-budget I-budget 
+B-dst_city I-dst_city O O O O O O O O O O O O O O O O O O O O O O O 
+O O O O O O O O O O O O O O O O O 
+O B-n_adults O O 
+O O O O O B-or_city I-or_city O O O B-dst_city I-dst_city I-dst_city O 
+O O O O O O B-dst_city I-dst_city I-dst_city O 
+B-or_city I-or_city I-or_city I-or_city 
+O O O O O O O O O O O O O O O O B-dst_city I-dst_city I-dst_city I-dst_city 
+O O O O O O O O O O O O O O O O O O O O O B-or_city I-or_city I-or_city I-or_city O B-dst_city I-dst_city I-dst_city I-dst_city I-dst_city 
+O O O O O O O O O O O O O O B-or_city I-or_city I-or_city I-or_city O B-dst_city I-dst_city I-dst_city I-dst_city O O O O 
+O O O O O O B-dst_city I-dst_city I-dst_city I-dst_city I-dst_city I-dst_city O O O O O O O O 
+O O O O O O O O O O O O O O O O O B-dst_city I-dst_city I-dst_city O O O O 
+O O O O O O B-dst_city I-dst_city O O 
+O O O 
+O O O O O O O O O O O O O O O O O O O O 
+O O O O O O B-dst_city I-dst_city I-dst_city I-dst_city I-dst_city O O O O O O O O O O O O 
+O O O O O B-or_city I-or_city I-or_city O O 
+B-dst_city I-dst_city I-dst_city O O O O 
+O O O O B-dst_city I-dst_city I-dst_city I-dst_city 
+O O O O O O O B-dst_city I-dst_city O O O O 
+O O O O 
+B-str_date I-str_date I-str_date I-str_date 
+O O O O O O O O O O O B-ref_anaphora O O O O O O O 
+O O O B-or_city I-or_city O O O O O B-or_city I-or_city O 
+O O O O O O O O O O B-or_city I-or_city O O O O O O O O 
+O O O O O O O O O O B-intent 
+O O 
+O O O 
+O O O O O O O O O B-dst_city I-dst_city 
+O O O 
+O O O B-dst_city I-dst_city I-dst_city I-dst_city I-dst_city 
+B-or_city I-or_city I-or_city I-or_city 
+B-str_date I-str_date I-str_date I-str_date I-str_date O B-end_date I-end_date I-end_date I-end_date I-end_date 
+O O O O O O O O B-dst_city I-dst_city O O O B-or_city I-or_city 
+B-budget I-budget I-budget I-budget 
+B-str_date I-str_date I-str_date I-str_date I-str_date 
+O O O O B-or_city I-or_city I-or_city O O O B-dst_city I-dst_city I-dst_city I-dst_city I-dst_city 
+B-budget I-budget I-budget I-budget 
+O O O O O O O O O B-dst_city I-dst_city O 
+O O O O O O O O O B-dst_city I-dst_city I-dst_city I-dst_city 
+O O O O O O O O O O O O 
+O O 
+B-dst_city I-dst_city I-dst_city O O O O O O 
+O O O O B-or_city I-or_city I-or_city I-or_city O O O O 
+O O O O O O O O O 
+O O O O O O O B-str_date I-str_date I-str_date I-str_date I-str_date I-str_date O O B-or_city I-or_city I-or_city I-or_city O O O O 
+O O O O O O O O 
+O O O B-or_city I-or_city O O O O O O O O O O O O O O O O O O B-dst_city I-dst_city I-dst_city I-dst_city 
+O O O O B-str_date I-str_date I-str_date I-str_date 
+O O O O 
+B-dst_city I-dst_city I-dst_city O O O O O 
+O O O O O O B-or_city I-or_city I-or_city I-or_city O O B-dst_city I-dst_city O O O O O O O O O O O O O 
+O O O O O O O O O O O O O O O O O B-duration I-duration O O O O O O O O O O O O O O O O 
+O O O O O O O O O O O O O O O O O O B-or_city I-or_city I-or_city I-or_city O O O O O O O O O O 
+O O O O O O B-str_date I-str_date I-str_date I-str_date O O O O O O O O O O 
+O O O O B-intent O O O O O O O 
+O O 
+O O O O O O O B-n_adults 
+O O O O 
+O O O O O O O O B-name I-name I-name I-name I-name I-name O O O O 
+O O O O O O O O O O O B-dst_city I-dst_city I-dst_city O 
+O O O B-or_city I-or_city O O O O O O O O O O O O O O O O O O O O O B-dst_city I-dst_city I-dst_city I-dst_city O O O O O O O O O O O O O O O 
+O O O O O B-dst_city I-dst_city I-dst_city O O O O O O O O O O O O O O O O O O O O O O O 
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-dst_city I-dst_city I-dst_city O O O 
+O B-or_city I-or_city I-or_city I-or_city O O O O O O O O O B-dst_city I-dst_city O O O O O 
+O O O O O O B-dst_city I-dst_city I-dst_city O O 
+O O O 
+O O 
+B-duration I-duration 
+O O O O O O O O O O O O O O O O 
+B-str_date I-str_date I-str_date I-str_date I-str_date 
+O O B-dst_city I-dst_city I-dst_city I-dst_city 
+O B-dst_city I-dst_city 
+O O O O O B-dst_city I-dst_city I-dst_city I-dst_city O 
+B-or_city I-or_city I-or_city O B-dst_city I-dst_city I-dst_city I-dst_city I-dst_city O O O O 
+O O O O 
+B-or_city I-or_city 
+O B-dst_city I-dst_city I-dst_city O O O O 
+O O O O O O O O O O O O O O B-dst_city I-dst_city 
+O O O O O O O B-or_city I-or_city I-or_city O 
+O O O O O O O O O O O O B-dst_city I-dst_city I-dst_city B-budget I-budget I-budget I-budget I-budget I-budget O O 
+O B-str_date I-str_date I-str_date I-str_date O O 
+O O O O O O O O O O O B-dst_city I-dst_city O 
+O O O O O O O O O O O O O O O O O O B-dst_city I-dst_city I-dst_city O O 
+O O O O O O O O O O O O O O O O O O O O O O O 
+O O O O O O O O O O O O O B-dst_city I-dst_city O O O 
+B-duration I-duration I-duration 
+O O O O O O O O O O O O O O B-dst_city I-dst_city I-dst_city O O O O 
+B-dst_city I-dst_city O O O O O O O 
+O O O O O O O O O O O O O O O 
+O B-n_adults O O 
+B-or_city I-or_city I-or_city I-or_city 
+B-budget I-budget I-budget I-budget I-budget I-budget 
+O O 
+O O O 
+O O O B-dst_city I-dst_city I-dst_city O O O O O O O 
+O O B-n_adults 
+O O O B-dst_city I-dst_city I-dst_city O O O O O O 
+O O O O O 
+O O O O O O B-dst_city I-dst_city I-dst_city 
+B-or_city I-or_city 
+B-max_duration I-max_duration I-max_duration O O B-budget I-budget I-budget I-budget I-budget I-budget 
+O B-n_adults I-n_adults I-n_adults I-n_adults O B-n_children I-n_children 
+O O O O B-dst_city I-dst_city I-dst_city I-dst_city O O 
+B-dst_city I-dst_city I-dst_city O O O O O O O O O O 
+O O O O O O O O O O O O O O O O O O O 
+O O O O O O O 
+O 
+B-or_city I-or_city I-or_city O O O O O O B-category I-category O O O O 
+O O O O O O O O 
+O O O O O O O O O O O O O O O O O O O O O O O O O 
+O O O O O O O O O O O O O O O O O O O O O O O O O 
+O O O 
+O O O O O O O B-or_city I-or_city I-or_city O O O O O O O O O 
+B-n_adults I-n_adults I-n_adults 
+O O O O B-dst_city I-dst_city I-dst_city I-dst_city O O O O 
+O O O O O O O O O O O O O O O O O O B-ref_anaphora I-ref_anaphora O O O O O O O O O 
+O O O O O O O O O O O O O O O O O O O O B-dst_city I-dst_city I-dst_city I-dst_city O 
+O O O O O O O O O B-or_city I-or_city I-or_city 
+O O O O O B-dst_city I-dst_city I-dst_city O O O O O O O O O O O O O O O 
+O O O O O O O O 
+B-budget I-budget I-budget I-budget I-budget O O 
+O O O O O O B-dst_city I-dst_city O O O O B-intent 
+O O B-n_adults O O O 
+O O O O O B-or_city I-or_city I-or_city 
+B-budget I-budget I-budget I-budget 
+O O O B-intent 
+O O 
+B-duration I-duration I-duration O O O O O O 
+O O B-or_city I-or_city O O O O O O O O 
+O O O O O O O B-dst_city I-dst_city I-dst_city I-dst_city O O 
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+O O O O O O O O O O O O B-or_city I-or_city I-or_city O O B-dst_city I-dst_city I-dst_city O O B-str_date I-str_date I-str_date I-str_date I-str_date O B-end_date I-end_date I-end_date I-end_date O B-n_adults O O O 
+O O O B-price I-price I-price I-price I-price I-price O O 
+O O O O O O O O O O O 
+B-or_city I-or_city 
+O O O O O O B-dst_city I-dst_city I-dst_city O O O O O O O O O O 
+O O O O O O O O O O B-dst_city I-dst_city I-dst_city O O 
+O O O O O O O O O O O O O O O O O O O O B-price I-price I-price I-price B-dst_city I-dst_city I-dst_city O O O 
+O O O 
+O O O O B-or_city I-or_city I-or_city I-or_city O O O B-dst_city I-dst_city I-dst_city O O O 
+B-dst_city I-dst_city I-dst_city I-dst_city 
+O O O O 
+O O O B-dst_city I-dst_city 
+B-or_city I-or_city I-or_city O O O O O B-budget I-budget I-budget I-budget I-budget I-budget O O B-str_date I-str_date I-str_date I-str_date I-str_date O B-end_date I-end_date I-end_date I-end_date O O O O O 
+O O B-n_adults I-n_adults I-n_adults I-n_adults 
+B-dst_city I-dst_city I-dst_city I-dst_city O O O O 
+O O O O O O O O O B-dst_city I-dst_city I-dst_city I-dst_city O B-seat I-seat O O 
+O O O O B-str_date I-str_date I-str_date I-str_date O B-end_date I-end_date I-end_date I-end_date I-end_date O O O O O B-budget I-budget I-budget I-budget I-budget I-budget O O O 
+O O B-intent 
+O O B-dst_city I-dst_city I-dst_city I-dst_city O O O O 
+O O O O O B-end_date I-end_date I-end_date O O O O O O O O O O O O O O 
+O O 
+O O O O O O O O O O O B-ref_anaphora I-ref_anaphora O O O O O O 
+B-dst_city I-dst_city O O O O 
+O O O O O O O O O O O O O O B-dst_city I-dst_city I-dst_city I-dst_city I-dst_city I-dst_city I-dst_city 
+O O O O O O O B-seat I-seat O O O O O O O O O O O O O O O O O 
+O O O O O O 
+O O O O B-or_city I-or_city I-or_city I-or_city O O O O O O O O O O O B-dst_city I-dst_city O O O O O 
+O 
+O O O O O O O O O B-str_date I-str_date I-str_date I-str_date I-str_date O B-dst_city I-dst_city I-dst_city I-dst_city O O 
+O O O O O B-dst_city I-dst_city I-dst_city I-dst_city O O O O O B-max_duration I-max_duration O O O O O 
+O O O O 
+B-n_adults I-n_adults I-n_adults I-n_adults I-n_adults I-n_adults 
+O O 
+O O B-or_city I-or_city I-or_city O 
+B-budget I-budget I-budget I-budget 
+B-str_date I-str_date I-str_date 
+B-str_date I-str_date I-str_date I-str_date I-str_date O O O O 
+O O B-intent 
+O O O O O B-or_city I-or_city O O O O 
+O O O O B-str_date I-str_date I-str_date I-str_date O O O O O O O O 
+O O O O O O B-duration I-duration O O O O O O O O O O 
+O O O O O O O O B-or_city I-or_city I-or_city I-or_city O B-dst_city I-dst_city O O O O O 
+O O O O O O O B-or_city I-or_city I-or_city I-or_city O B-dst_city I-dst_city O O O O 
+O O B-or_city I-or_city O B-dst_city I-dst_city O O 
+O O O 
+B-str_date I-str_date I-str_date I-str_date I-str_date O O O O B-end_date I-end_date I-end_date I-end_date I-end_date O O 
+O B-budget I-budget I-budget I-budget I-budget I-budget O O 
+B-duration I-duration I-duration O O O O O 
+O O O O O O O B-ref_anaphora O O B-intent O 
+O O O O O B-dst_city I-dst_city I-dst_city I-dst_city O O O O 
+B-dst_city I-dst_city I-dst_city I-dst_city O O O O O O O O O O O 
+O O O O O 
+O O B-or_city I-or_city I-or_city I-or_city O 
+O O B-or_city I-or_city I-or_city I-or_city O 
+O O O O B-str_date I-str_date I-str_date I-str_date I-str_date O O O O O O O O 
+O O O O O O O O O O O 
+O O O O B-dst_city I-dst_city O O O O O O O 
+O O O O O O 
+O O O B-budget I-budget I-budget I-budget I-budget I-budget O 
+O O O O O O O B-dst_city I-dst_city O O O 
+B-or_city I-or_city I-or_city 
+O B-dst_city I-dst_city O O B-price I-price I-price I-price O O O O 
+B-dst_city I-dst_city I-dst_city I-dst_city I-dst_city I-dst_city I-dst_city O O O O 
+O O O O O O O O O O O O O O O O 
+O O O O O O O O 
+O O O O O O O O O O O 
+B-ref_anaphora I-ref_anaphora O O O O O O O O O O O O O O 
+O O O O O B-dst_city I-dst_city I-dst_city O O O O O O O 
+O O O O O O O O O O O O O O B-dst_city I-dst_city O O O 
+B-dst_city I-dst_city I-dst_city O 
+B-dst_city I-dst_city O O O O O O 
+O O O O O O O O O O O 
+O O O O O O O O O O O 
+O O O O O O O O O O B-dst_city I-dst_city O O O 
+B-dst_city I-dst_city I-dst_city I-dst_city I-dst_city I-dst_city O O O O O O 
+O O O 
+O O O O O O O O O O O O O O B-str_date I-str_date I-str_date I-str_date I-str_date O O O O B-or_city I-or_city I-or_city O O O O B-dst_city I-dst_city I-dst_city I-dst_city O O O O B-n_adults I-n_adults O O O O O 
+O O O O O B-or_city I-or_city I-or_city O O O O 
+O O 
+O O O O O O O B-or_city I-or_city I-or_city I-or_city I-or_city 
+O O O 
+B-or_city I-or_city I-or_city 
+O O O O O O B-dst_city I-dst_city I-dst_city I-dst_city 
+O O O O O O O O O O O B-dst_city I-dst_city I-dst_city O O O O O O O O O O 
+O O O O O O O O O B-dst_city I-dst_city I-dst_city I-dst_city O O O O O 
+O O O O O O O 
+O O O O O B-dst_city I-dst_city I-dst_city O O O O O O O O 
+O O O O O B-or_city I-or_city I-or_city I-or_city O O O O O O 
+O O O O O O O O 
+O O O 
+B-budget I-budget I-budget I-budget I-budget I-budget I-budget 
+O O O O O O O O O 
+O O O O O O O O O O O O O O O O O O O O O 
+O B-intent B-dst_city I-dst_city I-dst_city I-dst_city 
+O O O 
+O O O 
+O O O O O O O O O O O O O O O O O O O O 
+O O O O O O O B-dst_city I-dst_city I-dst_city 
+O B-intent O O 
+O O O O O O 
+O O O O 
+O O O O O O 
+O O O O B-or_city I-or_city I-or_city O B-dst_city I-dst_city I-dst_city I-dst_city O O O O 
+O O O O O B-budget I-budget I-budget I-budget 
+O B-or_city I-or_city I-or_city O B-dst_city I-dst_city I-dst_city I-dst_city O O O O 
+O O O O O O O O O O O O 
+O O B-dst_city I-dst_city I-dst_city 
+O O O O O O O O O O O O O B-or_city I-or_city O 
+O O O O O O B-or_city I-or_city I-or_city O O O 
+O O O O O O O O O O O O O O O O O O O O B-dst_city I-dst_city I-dst_city O O O B-dst_city I-dst_city I-dst_city O 
+O O O O O O O O O B-seat I-seat O O O O 
+O O O O O O 
+O O O B-ref_anaphora I-ref_anaphora O O O O O O 
+O O O O O 
+O O O O O O O B-or_city I-or_city I-or_city O O O 
+O O O O O O B-str_date I-str_date I-str_date I-str_date I-str_date O B-end_date I-end_date I-end_date I-end_date I-end_date O O O O O O O O O 
+O O O B-dst_city I-dst_city I-dst_city I-dst_city O O O O 
+O O O O O O O O O O O O O O O B-intent O O O O O O 
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-dst_city I-dst_city O 
+O O O O O O B-max_duration I-max_duration O O O O 
+O O O B-dst_city I-dst_city I-dst_city O O O O O O 
+B-or_city I-or_city I-or_city 
+B-n_adults I-n_adults I-n_adults I-n_adults I-n_adults 
+O O O O O O O O O O B-category I-category I-category 
+O O O O O O 
+O O B-or_city I-or_city I-or_city I-or_city O O O B-dst_city I-dst_city I-dst_city I-dst_city O 
+O O O O O O O O O O O O O O 
+O O O O O O O O O B-dst_city I-dst_city I-dst_city O O O O O 
+O O O O O O O O O O B-dst_city I-dst_city I-dst_city I-dst_city O O 
+O O O O O O O O O O O O O O O O O O O 
+O O O O O O O B-dst_city I-dst_city I-dst_city I-dst_city O O O O B-seat I-seat O O O 
+O O O O O O O O O O O 
+B-dst_city I-dst_city O O O O O O 
+B-or_city I-or_city I-or_city I-or_city 
+B-str_date I-str_date I-str_date I-str_date I-str_date O O O 
+B-dst_city I-dst_city I-dst_city O O O O O O O O O O O O 
+O O O B-dst_city I-dst_city I-dst_city O O O O 
+B-dst_city I-dst_city I-dst_city O O B-budget I-budget O O O O 
+O O 
+O O O O O O O O O O O 
+O O O O O O O O O O O O O O O O O 
+O O O O O O O O O O O O O O 
+O O O 
+O O O 
+B-dst_city I-dst_city I-dst_city O O 
+B-n_adults 
+O O O O O B-dst_city I-dst_city I-dst_city I-dst_city I-dst_city I-dst_city I-dst_city 
+O 
+O O B-dst_city I-dst_city I-dst_city I-dst_city O O O O 
+O B-dst_city I-dst_city O O 
+O O 
+B-or_city I-or_city I-or_city I-or_city 
+O O O O O O O O 
+O O O O O O O O O O O B-or_city I-or_city O O O 
+O O O O O O O O O O O O O O O 
+O O O O O O O O O O O O O O O O O O O O O O O B-max_duration I-max_duration O O O O B-str_date I-str_date I-str_date I-str_date I-str_date O O O 
+B-or_city I-or_city I-or_city I-or_city 
+O O O O O B-dst_city I-dst_city I-dst_city I-dst_city O O O O 
+O O O O O O B-dst_city I-dst_city O 
+O O O O O O O O O O O O O O O O O O O O O O O B-dst_city I-dst_city I-dst_city O O 
+O O O O O O 
+O O O O O O O O O 
+O O O O O O O 
+O O B-n_adults I-n_adults I-n_adults O 
+O O O O O O O B-str_date I-str_date I-str_date I-str_date I-str_date O B-end_date I-end_date I-end_date I-end_date O O O O O 
+B-seat I-seat O O 
+O O O O 
+O O O B-ref_anaphora O O O O O O O O O 
+O O B-dst_city I-dst_city I-dst_city O O O O 
+O O O O B-intent 
+O O B-or_city I-or_city I-or_city I-or_city 
+O O O O O O O B-intent O O O 
+O O O O O B-or_city I-or_city O O O O O O O O O O O O O O 
+O O O O O O O O O O O O O B-dst_city I-dst_city 
+B-dst_city I-dst_city I-dst_city O O B-or_city I-or_city I-or_city O O 
+O O O O B-or_city I-or_city I-or_city O B-dst_city I-dst_city I-dst_city I-dst_city O O O O O O O O O O 
+B-or_city I-or_city I-or_city I-or_city O B-dst_city I-dst_city I-dst_city I-dst_city O O O O O O 
+O O O O B-or_city I-or_city O O 
+O O O O O O O B-dst_city I-dst_city I-dst_city I-dst_city O O O O O O O O O O O O O 
+O O O O O O O O O O O O O O O B-intent O O O 
+O O O O 
+O O 
+B-n_adults 
+B-category I-category I-category O O O O O 
+O O O O O O B-ref_anaphora O O B-intent O 
+O O O 
+O O B-dst_city I-dst_city I-dst_city I-dst_city 
+B-dst_city I-dst_city I-dst_city I-dst_city O 
+O O O O O O O 
+O O O O O O O O O O O O O B-dst_city I-dst_city I-dst_city O O O O 
+O B-dst_city I-dst_city I-dst_city I-dst_city I-dst_city O O 
+B-dst_city I-dst_city O O O O 
+O O O O O O O O O O 
+O O O O O O 
+B-dst_city I-dst_city I-dst_city I-dst_city I-dst_city O O O O 
+B-dst_city I-dst_city I-dst_city I-dst_city I-dst_city O O O O O 
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+O O O O O O O O O O O 
+O O O 
+O O O O 
+O O B-str_date I-str_date I-str_date I-str_date I-str_date O B-end_date I-end_date I-end_date I-end_date O O O O 
+B-or_city I-or_city O 
+B-ref_anaphora O O O O O O O O O B-dep_time_dst I-dep_time_dst I-dep_time_dst I-dep_time_dst O O O 
+O O O O O O O O O O O O O O O O 
+B-dst_city I-dst_city I-dst_city I-dst_city O O O O O O 
+B-dst_city I-dst_city I-dst_city O O O O 
+O O O O O B-dst_city I-dst_city O O 
+O O O 
+B-budget I-budget I-budget I-budget I-budget I-budget 
+O O 
+O O O O O O O O O O O O O B-dst_city I-dst_city I-dst_city O 
+B-dst_city I-dst_city I-dst_city O O O O O O 
+O O O O O O O O O O O O 
+O O O 
+O O O O O O O O O B-dst_city I-dst_city I-dst_city O O O O O O B-or_city I-or_city I-or_city O 
+B-or_city I-or_city I-or_city O O O O B-dst_city I-dst_city I-dst_city O O 
+B-or_city I-or_city I-or_city O O O B-dst_city I-dst_city O 
+O B-dst_city I-dst_city O O O O 
+B-or_city I-or_city O 
+O O O O O O O O O O B-dst_city I-dst_city I-dst_city I-dst_city O O O O O O O 
+O O B-or_city I-or_city O B-dst_city I-dst_city I-dst_city I-dst_city 
+O B-intent O 
+O O O 
+O O O O O O B-duration I-duration I-duration O O O O O O O O O O O O O O 
+O O O O O B-name I-name I-name O O O O O O O O O O O B-min_duration I-min_duration I-min_duration O O O O O O O O 
+O O 
+O O O O 
+O O O O O O O B-or_city I-or_city O O O O B-str_date I-str_date O B-dst_city I-dst_city I-dst_city O 
+B-str_date I-str_date I-str_date I-str_date I-str_date O O O O 
+O O O O O O O 
+O O B-or_city I-or_city I-or_city I-or_city O 
+O O O O B-dst_city I-dst_city I-dst_city O O O O O O O O O O O O O O O O O O 
+O O O O O O O O O O O O O O O O O O O B-dst_city I-dst_city I-dst_city I-dst_city O O 
+O O O O O O O O O O O O O O O B-seat I-seat O O B-dst_city I-dst_city I-dst_city O O O O O O O O O 
+O O O O 
+O O O B-str_date I-str_date I-str_date I-str_date I-str_date O O O O O O O O 
+O O O O O O O O 
+O O O O O O O B-or_city I-or_city I-or_city I-or_city O O O O B-dst_city I-dst_city I-dst_city O 
+O O O O O O 
+O O O O O O O O O O B-category I-category I-category O O O O O O 
+B-spa I-spa O O O O 
+O O B-seat I-seat O O O O 
+O O O O O O O 
+O O O O O O 
+O O 
+O O O O O O B-min_duration I-min_duration I-min_duration O 
+O O O O O O O O O O O O O O B-dst_city I-dst_city 
+O O O 
+O O O O O O O O O O O O 
+O O O B-or_city I-or_city O B-dst_city I-dst_city I-dst_city 
+O O B-n_adults 
+O O O O O O O O O O O O O O O O 
+O O O O O 
+O O O 
+O O O O O B-or_city I-or_city O 
+O O O O B-dst_city I-dst_city I-dst_city I-dst_city O O O O 
+O O O O O O O O O O O O B-ref_anaphora I-ref_anaphora I-ref_anaphora O B-dst_city I-dst_city I-dst_city I-dst_city O O 
+O O O 
+O O O O O 
+O O O O B-ref_anaphora I-ref_anaphora I-ref_anaphora I-ref_anaphora I-ref_anaphora I-ref_anaphora O O O O 
+O O O O O O O 
+O O O O O O B-budget I-budget I-budget I-budget I-budget O O O O 
+O O O 
+O O O B-dst_city I-dst_city B-max_duration I-max_duration O 
+O O O O O O O O O O O O O O O O O B-dst_city I-dst_city O 
+O O O O O O O O O 
+O B-dst_city I-dst_city I-dst_city I-dst_city O O 
+B-or_city I-or_city I-or_city O B-dst_city I-dst_city I-dst_city I-dst_city O O 
+B-str_date I-str_date I-str_date I-str_date I-str_date I-str_date I-str_date 
+O O O O O O O O O O O O O O O O O O O B-or_city I-or_city I-or_city O B-dst_city I-dst_city I-dst_city I-dst_city O O 
+O O O O O O O O O B-dst_city I-dst_city O 
+O O O 
+O O B-or_city I-or_city I-or_city I-or_city O B-n_adults I-n_adults I-n_adults I-n_adults I-n_adults I-n_adults I-n_adults I-n_adults I-n_adults I-n_adults I-n_adults I-n_adults I-n_adults 
+O O O O O O O O O O B-dst_city I-dst_city I-dst_city I-dst_city O O O O O O O O 
+O O O O O O O O O O O O O O O O O B-or_city I-or_city I-or_city O O O 
+O O O O O O O O O O O O O O O O O O O O O O O O O O 
+B-or_city I-or_city I-or_city O B-dst_city I-dst_city I-dst_city O O 
+O O O 
+O O 
+O O O O O O O O O O O O O O B-dst_city I-dst_city O O 
+O O O O O O O O O O O B-dst_city I-dst_city I-dst_city 
+O O O O B-or_city I-or_city I-or_city I-or_city O O O 
+B-dst_city I-dst_city I-dst_city I-dst_city O O O O O O O O O O O O O O O O O 
+O O O O O O O B-str_date I-str_date I-str_date I-str_date I-str_date O B-end_date I-end_date I-end_date I-end_date I-end_date O 
+O O O O O O O O O O O O O O O O O O O B-dst_city I-dst_city O 
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+O O 
+O O O B-or_city I-or_city I-or_city I-or_city O O O O 
+O O O 
+O O O B-or_city I-or_city O 
+O O O O O O O O O O O O O O O O O O O O O O O O 
+B-dst_city I-dst_city I-dst_city O O O O O O O O O O O 
+O O O O O O O 
+O O O O O O O O O O O O B-dst_city I-dst_city O O O O O O O O O O O O O 
+O O O O O B-or_city I-or_city I-or_city O O O O O 
+O O O O O O 
+O O 
+B-or_city I-or_city I-or_city O B-dst_city I-dst_city I-dst_city I-dst_city O 
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-ref_anaphora I-ref_anaphora I-ref_anaphora I-ref_anaphora O O O O 
+O O 
+O O B-n_adults O 
+O O O O O O B-or_city I-or_city I-or_city I-or_city B-dst_city I-dst_city I-dst_city I-dst_city 
+B-dst_city I-dst_city I-dst_city I-dst_city O 
+O O O O O O O O B-or_city I-or_city I-or_city I-or_city O B-dst_city I-dst_city I-dst_city O 
+B-or_city I-or_city I-or_city I-or_city 
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+O O O O O O O O O O O O O O O B-dst_city I-dst_city I-dst_city I-dst_city O B-dst_city I-dst_city I-dst_city O O O O O O O O O O O O O O O O O O O O O O O 
+O O O B-dst_city I-dst_city I-dst_city O O O O 
+O O O O 
+O O O O O 
+O O O O O O O O 
+O O 
+O O O O O B-str_date I-str_date I-str_date I-str_date I-str_date O B-end_date I-end_date I-end_date I-end_date O O O O O O O O O 
+O O O O O O O O O O O O O 
+B-or_city I-or_city I-or_city 
+O O O O O O B-dst_city I-dst_city O O O O O O O O O O 
+O O O O O B-or_city I-or_city I-or_city O 
+O O O O O O B-ref_anaphora O O O O O O O O O O O O O O O O O O O 
+O O O O O O O O B-gst_rating I-gst_rating I-gst_rating I-gst_rating I-gst_rating I-gst_rating B-dst_city I-dst_city O O O O O O 
+O O O B-max_duration I-max_duration I-max_duration O O O O O O O O O 
+O O O 
+O B-dst_city I-dst_city I-dst_city O O O O O O O O O O 
+O O O O O O O O O O O O O O O O O B-dst_city I-dst_city O O 
+O O O O O O O O O O B-dst_city I-dst_city I-dst_city O O O O B-category I-category I-category O O O O 
+O O 
+O O O 
+O O O O O O O O O O O B-or_city I-or_city I-or_city O O O O O B-dst_city I-dst_city O O 
+O O O O 
+B-str_date I-str_date I-str_date 
+O O O O B-category I-category I-category 
+O O O O O O O 
+O O O O O B-dst_city I-dst_city I-dst_city I-dst_city I-dst_city O B-category I-category I-category O O O O O O 
+O O O O O O O 
+O O O 
+O O O O O O B-dst_city I-dst_city I-dst_city I-dst_city I-dst_city O O O B-or_city I-or_city 
+O B-intent 
+O O O O O O O O O O O B-dst_city I-dst_city O O O 
+O O O O O O O O O O O O O O O O O O O O O O O O O B-dst_city I-dst_city I-dst_city I-dst_city O O O 
+O O O O O O O O O O O O B-gst_rating I-gst_rating O 
+O O O 
+B-dst_city I-dst_city I-dst_city I-dst_city O O O O O O O O O O 
+O O O O B-dst_city I-dst_city O O O O 
+O O O O O O O O O O O O O O O O O B-dst_city I-dst_city I-dst_city O B-or_city I-or_city I-or_city O O O O O O O 
+O O O O O O O O O O O O O B-dst_city I-dst_city I-dst_city O O B-or_city I-or_city O O O O 
+O O O O O O B-or_city I-or_city I-or_city I-or_city I-or_city O O O O O O O O 
+O O O O O O O O O O O O B-budget I-budget I-budget I-budget I-budget I-budget I-budget I-budget O O O O 
+O O O 
+O O O O B-or_city I-or_city O 
+O O O O O O O B-dst_city I-dst_city I-dst_city I-dst_city O O O O O O B-str_date I-str_date I-str_date I-str_date I-str_date O B-end_date I-end_date I-end_date I-end_date I-end_date O O O O O O O O 
+O O O O O O O O B-dst_city I-dst_city I-dst_city I-dst_city O 
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-dst_city I-dst_city I-dst_city I-dst_city I-dst_city O 
+O O O O O O O O 
+O O O O O O O O O O 
+B-n_adults 
+B-or_city I-or_city O B-dst_city I-dst_city I-dst_city I-dst_city O O O O 
+B-or_city I-or_city I-or_city I-or_city O B-dst_city I-dst_city I-dst_city I-dst_city I-dst_city O O 
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-or_city I-or_city O B-dst_city I-dst_city I-dst_city I-dst_city I-dst_city O O O O O O O 
+O O B-intent O 
+B-dst_city I-dst_city I-dst_city O O O O 
+O O O O O O O O O O O B-or_city I-or_city I-or_city O O O O O O O O O O O B-dst_city I-dst_city O 
+O O O 
+B-str_date I-str_date I-str_date I-str_date I-str_date O B-end_date I-end_date I-end_date I-end_date I-end_date O O O O O O 
+O O O O O O O O O O O B-dst_city I-dst_city O 
+O O O O O O O O O O B-vicinity I-vicinity O O O O O O O 
+O O O O B-intent O 
+O B-category I-category I-category O O O O O O O O O O O O O O O O O O 
+O O O O O O O O O O 
+O O O 
+O O O O O O O O O B-end_date I-end_date O O O 
+O O O O O B-max_duration I-max_duration 
+O O B-intent 
+O O O O B-or_city I-or_city O O O 
+O O O O O 
+O O O O O O O O O 
+O B-dst_city I-dst_city I-dst_city O O O O O O 
+O O O O O O O O O O O B-dst_city I-dst_city I-dst_city I-dst_city O 
+O O 
+B-budget I-budget I-budget I-budget I-budget O O O O O O O 
+O O O O O O O O O 
+O O O 
+O O O O B-dst_city I-dst_city I-dst_city I-dst_city I-dst_city I-dst_city I-dst_city O 
+O O O O O O O O O O O 
+O O O O O 
+O O O O B-dst_city I-dst_city I-dst_city I-dst_city I-dst_city O O O O O O O 
+O O O B-dst_city I-dst_city O O O O O O O O O 
+O O O O 
+O O O O O O O O O O O O O O O O O O 
+O O O O B-or_city I-or_city I-or_city I-or_city O B-dst_city I-dst_city I-dst_city O O O O O 
+O O O O O O O O 
+B-or_city I-or_city I-or_city I-or_city 
+B-dst_city I-dst_city I-dst_city I-dst_city O O O O O O 
+O O O O O B-str_date I-str_date I-str_date I-str_date O O O O O O 
+O O O O O O O 
+O O O O O O O O O O O O O O O O O O O O O B-budget I-budget I-budget I-budget O O O O O O O O B-or_city I-or_city I-or_city O B-dst_city I-dst_city O 
+O O O O O O O O O O O O O O O O O O O B-dst_city I-dst_city I-dst_city I-dst_city O 
+O O B-or_city I-or_city I-or_city 
+O O O 
+B-or_city I-or_city I-or_city 
+O O O O O O O O O O O 
+O O O O O O O O 
+B-dst_city I-dst_city I-dst_city 
+B-dst_city I-dst_city I-dst_city O O O O 
+O O O O O O O O O O O O O O B-dst_city I-dst_city I-dst_city O O 
+O O O O 
+O O O B-str_date I-str_date I-str_date I-str_date I-str_date O B-end_date I-end_date I-end_date I-end_date O O 
+O O O O 
+B-str_date I-str_date I-str_date I-str_date O 
+O O O O O O O O O O O O O O O O O O O O B-dst_city I-dst_city O 
+O O O O O O O O 
+O O O O O O 
+O O O O B-dst_city I-dst_city 
+O O O O O O O O O O 
+O 
+O O O O O O O O O O O O O O O O B-dst_city I-dst_city I-dst_city O O O O O O O O O 
+O O O O O B-ref_anaphora I-ref_anaphora I-ref_anaphora 
+O O O B-intent O O O 
+O O O O 
+O O 
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-or_city I-or_city I-or_city I-or_city O O O O O O O O O O O O O 
+O O 
+B-budget I-budget I-budget I-budget I-budget I-budget 
+O O O O O B-dst_city I-dst_city I-dst_city O O O O O O O 
+O O O O O O O 
+O O O O O O O O O O O O O 
+O B-or_city I-or_city O O 
+O O O O O O O O O O O O O B-dst_city I-dst_city O O O O 
+O O O O O O 
+O O O O O O O O O O O O 
+O O O 
+O O O B-or_city I-or_city I-or_city O 
+O O O O O O O O 
+O O O O O O O O O B-dst_city I-dst_city O O O O O 
+O O O 
+O O O B-dst_city I-dst_city I-dst_city I-dst_city O O O O O 
+O O O 
+O O O O B-or_city I-or_city I-or_city O 
+O O O O O 
+O O O O O B-str_date I-str_date I-str_date I-str_date O O O O O O O O O O O O O O O O O O B-end_date I-end_date I-end_date I-end_date I-end_date O O O O O 
+O O O O O B-dst_city I-dst_city I-dst_city O 
+O O O O O O O B-dst_city I-dst_city I-dst_city O O O O O O 
+O O O O O O O O 
+B-or_city I-or_city O O O O O B-end_date I-end_date I-end_date I-end_date O O O 
+O O O O O B-category I-category I-category O O 
+O O O B-dst_city I-dst_city I-dst_city I-dst_city O O O O 
+B-duration I-duration I-duration O O O O O O O O O O O 
+B-seat I-seat O O O 
+O O O O 
+O O O O O B-dst_city I-dst_city I-dst_city O O O 
+O O O O 
+O O O O O O O O O O 
+B-dst_city I-dst_city I-dst_city O 
+O O O O O O O O O O O O O O 
+O O 
+O O B-dst_city I-dst_city O O 
+O O O O O O 
+B-seat I-seat O 
+O O O O O B-str_date O O B-dst_city I-dst_city I-dst_city I-dst_city O O O O O B-or_city I-or_city O 
+B-n_adults I-n_adults I-n_adults O O O O O O O O O O O O O O O O O O 
+O O O O B-ref_anaphora I-ref_anaphora I-ref_anaphora O 
+O O O O B-seat I-seat O O O O 
+O O O O 
+B-ref_anaphora I-ref_anaphora 
+O O O O O O O O B-dst_city I-dst_city I-dst_city 
+O O O O O O O O O O O O 
+B-dst_city I-dst_city O O O O 
+B-dst_city I-dst_city O O 
+O O O O O O O O O O O 
+O O O O O O O B-seat I-seat O O 
+O O O O O O O O 
+O O O 
+B-budget I-budget 
+O O O O O O O O O O O 
+O O O O O 
+O O O B-dst_city I-dst_city I-dst_city I-dst_city O O 
+O O O O O O O O O O O 
+O O O O O O O O 
+B-dst_city I-dst_city O O B-category O O O O O O 
+O O O O O O O O O O B-dst_city I-dst_city I-dst_city O O O 
+O O B-dst_city I-dst_city I-dst_city I-dst_city 
+O O O O O O O O O O B-ref_anaphora I-ref_anaphora O O O O O O O 
+O O O O O 
+B-duration I-duration O O O O 
+O O O O O O O O O O O O O 
+B-or_city I-or_city I-or_city 
+O O O O O O O B-dst_city I-dst_city I-dst_city I-dst_city 
+O O O O O O O O O O O B-dst_city I-dst_city I-dst_city I-dst_city O O O O 
+B-dst_city I-dst_city I-dst_city O O O O O O 
+B-ref_anaphora I-ref_anaphora O O O O O O 
+O O O O B-ref_anaphora I-ref_anaphora I-ref_anaphora O O O O O O O O O O B-intent 
+O O O O O O O O 
+O O O O O O O O O B-ref_anaphora I-ref_anaphora I-ref_anaphora I-ref_anaphora O O O O O 
+O O O O 
+B-str_date I-str_date O O O O 
+O O B-intent 
+O O O O 
+O O O O O O O O O O B-dst_city I-dst_city I-dst_city I-dst_city 
+O O O B-n_adults O O O O B-n_children O O O O O O 
+O B-intent 
+O O O O O O O O O O O B-dst_city I-dst_city O O O O O 
+O O O O O O O 
+B-dst_city I-dst_city O O 
+O O O O 
+B-or_city I-or_city I-or_city 
+B-str_date I-str_date I-str_date I-str_date O O 
+O O B-category I-category O O O O 
+O O O O O O 
+O O B-dst_city I-dst_city I-dst_city I-dst_city 
+O O O O B-dst_city I-dst_city I-dst_city O O 
+O O O O O O O O O B-min_duration I-min_duration O O B-str_date I-str_date I-str_date I-str_date I-str_date O B-end_date I-end_date I-end_date I-end_date 
+B-seat I-seat O O O O 
+O O O 
+O O O 
+O O O O O O O O O 
+O O O 
+O O O O O O O O O O O B-dst_city I-dst_city I-dst_city I-dst_city O 
+O O O O B-category I-category I-category O O O 
+O O O O B-dst_city I-dst_city I-dst_city I-dst_city O O O O O 
+O O O O O O O O O O O 
+O O O O O O O 
+O O O O B-dst_city I-dst_city O O O O O 
+O O O O O O O O O B-dst_city I-dst_city I-dst_city O O O O 
+O O B-or_city I-or_city O B-dst_city I-dst_city I-dst_city I-dst_city I-dst_city O O 
+O O O O 
+O O O 
+O O O O O O O O O O O O O O O O O B-dst_city I-dst_city I-dst_city O O 
+O O O O 
+O O O O B-dst_city I-dst_city O 
+O O B-dst_city I-dst_city I-dst_city I-dst_city I-dst_city O O O O O 
+O O O O O O O O O O O O O O O O O O O O O B-str_date I-str_date O O O O O O B-end_date I-end_date I-end_date I-end_date O O O O O O O O O O O O O 
+O O O O O O 
+O O O B-dst_city I-dst_city I-dst_city O O O O O O O O O 
+O O O 
+O O 
+O O B-or_city I-or_city O B-dst_city I-dst_city I-dst_city O O 
+B-or_city I-or_city O B-dst_city I-dst_city I-dst_city I-dst_city O O O O O O 
+O O O O O B-category I-category I-category O O O 
+O O O O 
+O O 
+O O O O O O O O B-dst_city I-dst_city I-dst_city I-dst_city O O O O O 
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-dst_city I-dst_city O O O O O 
+O O O B-dst_city I-dst_city O O O O 
+O O 
+B-or_city I-or_city 
+O O O O O O O O O O O O O O O O B-dst_city I-dst_city O O O O O 
+O O O O 
+B-or_city I-or_city O O O 
+O O O O B-or_city I-or_city O B-dst_city I-dst_city O O O O O 
+O O O O O B-dst_city I-dst_city I-dst_city I-dst_city I-dst_city I-dst_city O O O O O O 
+O O O O O O O O O O O O O O O O O O O O O O O 
+O O O B-gst_rating I-gst_rating O O O O O O 
+O O O O O O O O B-dst_city I-dst_city O 
+O O O O B-or_city I-or_city I-or_city O O O O O O 
+O B-or_city I-or_city I-or_city O B-dst_city I-dst_city I-dst_city O O O O 
+B-dst_city I-dst_city I-dst_city I-dst_city I-dst_city I-dst_city I-dst_city O O O O O O O 
+O O 
+O O O O O O O O O O O O O O O B-dst_city I-dst_city I-dst_city I-dst_city I-dst_city 
+O O O O O O O O O O O O O O O O O O O 
+O O O O O O O O 
+O O O 
+O 
+B-duration I-duration I-duration O O O O O O O O O O O O O O O 
+B-dst_city I-dst_city I-dst_city I-dst_city I-dst_city I-dst_city I-dst_city O O 
+O O O 
+O O O 
+O O O B-or_city I-or_city O B-dst_city I-dst_city I-dst_city I-dst_city I-dst_city I-dst_city 
+O B-str_date I-str_date I-str_date I-str_date O O O 
+O O 
+O O O O O O O O B-dst_city I-dst_city B-category I-category I-category O O O O O O O 
+O O O O O O O O O O O B-dst_city I-dst_city I-dst_city I-dst_city B-category I-category I-category O O O O O O O 
+O O B-dst_city I-dst_city I-dst_city B-category I-category I-category O O O O 
+O O B-dst_city I-dst_city I-dst_city B-category I-category I-category O O O O O O 
+O O O B-dst_city I-dst_city I-dst_city I-dst_city I-dst_city B-category I-category I-category O O O O 
+O O O B-dst_city I-dst_city I-dst_city O O O O 
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+O O O O 
+B-n_adults 
+O O 
+O O 
+O O O O O O B-ref_anaphora I-ref_anaphora O O O O O O 
+O O O O O O O O O O O O B-intent O 
+O O 
+O O B-str_date I-str_date I-str_date I-str_date O O 
+O O O O O O O O B-category I-category I-category O O O 
+O O O O B-dst_city I-dst_city I-dst_city O 
+O O O O O O O 
+O 
+B-or_city I-or_city I-or_city I-or_city 
+O B-price I-price O O O 
+O O O O O O O O O O O 
+O B-or_city I-or_city I-or_city O B-dst_city I-dst_city I-dst_city 
+O O O O O B-or_city I-or_city I-or_city I-or_city 
+O O O O O O B-dst_city I-dst_city O O O O O 
+O O O O O B-or_city I-or_city I-or_city 
+O O O O O O O O O O O O O O O O O 
+O O O O O O O O B-dst_city I-dst_city O 
+O O 
+O O O B-or_city I-or_city I-or_city I-or_city O B-dst_city I-dst_city I-dst_city 
+O O O O O O O O O 
+O O O O O O O O O B-dst_city I-dst_city I-dst_city I-dst_city I-dst_city O O O O O 
+O O B-dst_city I-dst_city I-dst_city I-dst_city I-dst_city I-dst_city I-dst_city 
+O O O O O O O O O 
+O B-max_duration I-max_duration O 
+O O O 
+O O O O O B-or_city I-or_city O O O B-or_city I-or_city 
+O O O O O O O O O O O B-dst_city I-dst_city I-dst_city I-dst_city 
+O 
+O O O O O O O O O B-dst_city I-dst_city I-dst_city I-dst_city O O O 
+O O O O O B-dst_city I-dst_city I-dst_city O O O O 
+B-duration I-duration 
+O O 
+B-budget I-budget I-budget I-budget 
+O O O O O O O O O O O O O B-ref_anaphora O O O 
+O O O O O O B-intent O O 
+O O O O O O O O 
+O O 
+O O O O B-gst_rating I-gst_rating I-gst_rating O O O O 
+O O O O O O B-dst_city I-dst_city I-dst_city O O 
+O B-dst_city I-dst_city I-dst_city I-dst_city O O O O O O O 
+O O O O B-dst_city I-dst_city I-dst_city I-dst_city I-dst_city O O O O 
+O O O O B-dst_city I-dst_city O O O 
+O O O O B-dst_city I-dst_city I-dst_city I-dst_city O O O 
+O O O O O O O O B-ref_anaphora I-ref_anaphora O O O 
+O O O O O O O O O O O O O O O O O B-dst_city I-dst_city I-dst_city I-dst_city O O O O O 
+O O O B-dst_city I-dst_city O O O O O O O 
+O O O O 
+O O O 
+B-n_adults I-n_adults I-n_adults 
+O O 
+O O B-n_adults O O O B-n_children I-n_children O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+O O O B-budget I-budget I-budget I-budget I-budget I-budget O O O O O O O O O O O O O O O O O O O B-max_duration I-max_duration O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+O O O B-dst_city I-dst_city I-dst_city I-dst_city O O O O 
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+B-budget I-budget 
+O O O B-or_city I-or_city I-or_city O B-dst_city I-dst_city B-budget I-budget I-budget I-budget I-budget I-budget O O 
+O O O O B-n_adults O O O 
+O O O O O O O O O O O O O O O B-dst_city I-dst_city I-dst_city I-dst_city I-dst_city I-dst_city O O O O O O O O 
+O O O O 
+O O O O O O O O O O O O O O O B-ref_anaphora I-ref_anaphora O O O O O 
+B-seat I-seat O 
+O O O O O O O 
+O O O O O B-category I-category I-category O O O O 
+O O O O O O O O B-dst_city I-dst_city I-dst_city O O 
+O O B-n_adults O 
+O O O O O O O 
+O O O B-or_city I-or_city O B-dst_city I-dst_city O O 
+O O O O O O O O B-dst_city I-dst_city O O 
+O O O O O O O O B-dst_city I-dst_city I-dst_city I-dst_city O O O O O O O O 
+O O O O O O O O O O O O O O O O O O O O O 
+O O O O O O O O O O O B-budget I-budget I-budget I-budget I-budget I-budget O O O O O O O O O O O O 
+O O O O O O O O O O O O O O O O 
+O O O B-end_date I-end_date I-end_date I-end_date B-n_children I-end_date I-end_date I-end_date O O O O O O O O O O 
+O O O O O O B-dst_city I-dst_city I-dst_city O 
+O O O 
+O O O O O O O O O O O O 
+O O O O O O O B-dst_city I-dst_city O O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+O O O B-dst_city I-dst_city B-category I-category O O O O O O O O O O O O O O O O O O O O 
+B-seat I-seat O 
+O O O O O O O O O O O O O O 
+O O O O O O O O O O O O O B-dst_city I-dst_city O O O O O O O O O O O O O O O O O O 
+O O O O O O O O O O O O O O O O O O O O O O B-dst_city I-dst_city O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+O B-intent 
+O O O 
+O O O O O O O O O O O O O O B-dst_city I-dst_city O O O B-category O O O O O O 
+O O O O 
+O O O O O O O O O B-str_date I-str_date I-str_date I-str_date I-str_date O B-end_date I-end_date I-end_date I-end_date I-end_date O O O O O O 
+O O O O O O O O O O O O B-dst_city I-dst_city O O 
+O O O O O B-dst_city I-dst_city O O O O O O O O O O O O O O 
+B-budget I-budget I-budget I-budget I-budget O O O O 
+O O O O O B-dst_city I-dst_city I-dst_city 
+O O B-dst_city I-dst_city 
+O O O 
+O O O O O B-n_adults O O O O B-or_city I-or_city I-or_city I-or_city O O O O O O O O O O O O O O 
+B-str_date I-str_date I-str_date I-str_date I-str_date O O B-end_date I-end_date I-end_date O O O O O 
+O O O O O O O O O O O O O O B-dst_city I-dst_city O O O O O O O O O O O O O 
+O O O O O B-dst_city I-dst_city I-dst_city I-dst_city O O O O 
+B-seat I-seat O O O O O O O O O O 
+O O O O 
+O O O O O O O O O O O O O O O O B-intent O O O 
+O O 
+O O O O O O O O O O O B-dst_city I-dst_city I-dst_city O O O O 
+O O O O 
+O O O O O O O O B-or_city I-or_city I-or_city I-or_city O B-dst_city I-dst_city I-dst_city I-dst_city O O O O 
+O O B-dst_city I-dst_city O O O O 
+B-seat I-seat O O 
+O O O O 
+O O O O 
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-dst_city I-dst_city I-dst_city O 
+B-seat I-seat O 
+O O O 
+O O O O O O O O O O O O O O O O B-or_city I-or_city I-or_city I-or_city O 
+B-dst_city I-dst_city I-dst_city I-dst_city O O O O O B-str_date I-str_date I-str_date I-str_date I-str_date O O O O O O 
+O O O O O B-budget I-budget I-budget I-budget I-budget I-budget O O O O O O O O O O O O O O O O O O O O O O O 
+O O O O O B-or_city I-or_city I-or_city I-or_city I-or_city O O O O 
+O O O O O B-or_city I-or_city I-or_city I-or_city O O B-dst_city I-dst_city O 
+O B-or_city I-or_city I-or_city I-or_city I-or_city O B-dst_city I-dst_city O 
+O O O O 
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-dst_city I-dst_city I-dst_city I-dst_city I-dst_city I-dst_city I-dst_city O O O O O O O 
+O O O O O O O O O O 
+B-or_city I-or_city 
+O O O O O O B-budget I-budget I-budget I-budget I-budget I-budget I-budget O O O O O O 
+O O O O O O O O O O O O 
+O O O 
+O O O B-or_city I-or_city I-or_city I-or_city 
+O O O O O O O O B-dst_city I-dst_city I-dst_city I-dst_city O O O O O 
+O O O O O O O O O O O B-dst_city I-dst_city I-dst_city O O O O 
+O O O O O O O O O O O O O O O O B-end_date I-end_date I-end_date I-end_date O 
+O O O O O B-budget I-budget I-budget I-budget I-budget I-budget B-category I-category I-category O O 
+O O O O 
+B-dst_city I-dst_city O 
+O O O O O O O O O O O O O O O O O O O O O B-dst_city I-dst_city O O O O O O O O 
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-dst_city I-dst_city I-dst_city O O 
+O O O O O B-dst_city I-dst_city I-dst_city 
+O O O O O O O B-dst_city I-dst_city O O O O O O O O O 
+O O O B-seat I-seat O O O O O O 
+O O O O O O O O O O O O 
+O O O B-intent O O O O O O O O O O O O O O O O O O O O O O O O B-or_city I-or_city I-or_city I-or_city O B-dst_city I-dst_city 
+B-str_date I-str_date I-str_date I-str_date I-str_date I-str_date 
+O O O O O O O O O O O O O B-n_adults O O O O 
+O O O O O O O O O O O O O O O O O O O O O O O O O O O B-dst_city I-dst_city O O O O O O B-or_city I-or_city I-or_city I-or_city O O O O 
+B-dst_city I-dst_city O O O O O O O O O O O O O O O O O O O O O O O O O 
+O O O O O O O O O O O O O O O O O O O O O O O 
+O O O B-dst_city I-dst_city I-dst_city O O O O O B-or_city I-or_city I-or_city I-or_city O O O O 
+O O O O B-str_date I-str_date I-str_date I-str_date I-str_date I-str_date I-str_date I-str_date I-str_date I-str_date I-str_date I-str_date I-str_date O B-end_date I-end_date I-end_date I-end_date I-end_date I-end_date I-end_date I-end_date I-end_date I-end_date I-end_date I-end_date I-end_date I-end_date O O O O O O 
+O O O B-or_city I-or_city I-or_city I-or_city O B-dst_city I-dst_city I-dst_city I-dst_city O 
+O O B-ref_anaphora O O O O O B-or_city I-or_city I-or_city I-or_city I-or_city I-or_city B-dst_city I-dst_city I-dst_city O 
+O O O O O O O O O O B-or_city I-or_city I-or_city I-or_city I-or_city I-or_city B-dst_city I-dst_city I-dst_city I-dst_city O O 
+O O O O O O O B-dst_city I-dst_city 
+O B-dst_city I-dst_city 
+O O O O O B-or_city I-or_city I-or_city I-or_city 
+O O O O 
+O O O O O O O O O O O O O O O O O O 
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+B-budget I-budget I-budget I-budget I-budget I-budget 
+O O O O O O O O O O O O O O B-or_city I-or_city I-or_city O B-dst_city I-dst_city O O O O 
+B-or_city I-or_city I-or_city O B-dst_city I-dst_city I-dst_city O O O O 
+O O O O O O B-dst_city I-dst_city I-dst_city O O O O 
+O O O O O O O O O O O O O O O O O O O O O O O O 
+O O O O O O O O O O O O 
+O O O O O O 
+O O O O O O O 
+O O O O O O O O O O O O O B-dst_city I-dst_city I-dst_city O O O O O O O O O O O O O 
+B-n_children 
+O O O O O O O O O O O O O O O O O O O O O B-dst_city I-dst_city I-dst_city I-dst_city O O O O O 
+O O O O O O O O O O O O O O O O 
+O O O O O O O B-str_date I-str_date I-str_date I-str_date I-str_date O O O O O O O O B-end_date I-end_date I-end_date O O O O O O O 
+O O B-ref_anaphora I-ref_anaphora I-ref_anaphora I-ref_anaphora B-count_name I-count_name I-count_name I-count_name I-count_name O O 
+O O O O O O O O 
+O O O O O O O O B-dst_city I-dst_city B-seat I-seat O O 
+O O O 
+O O O O O O O B-dst_city I-dst_city I-dst_city I-dst_city I-dst_city 
+O O O O 
+O O 
+O O O O O B-dst_city I-dst_city O O 
+O O O 
+O O O O O O O B-or_city I-or_city I-or_city 
+O 
+O O O O B-or_city I-or_city I-or_city O B-dst_city I-dst_city I-dst_city I-dst_city I-dst_city I-dst_city I-dst_city O O O O O O O O O 
+O O O O O O O O 
+O O O O O B-dst_city I-dst_city I-dst_city O O O O O 
+O O B-or_city I-or_city 
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-dst_city I-dst_city O O 
+O O O O O O O O 
+B-dst_city I-dst_city O B-or_city I-or_city I-or_city O 
+B-or_city I-or_city I-or_city 
+O O O O O B-duration I-duration I-duration O 
+O O B-max_duration I-max_duration O O O O 
+O O O O O O O O O B-or_city I-or_city I-or_city O O O O B-dst_city I-dst_city I-dst_city O O O O O O O 
+O O O O O O O O 
+O O O 
+O O O O O B-dst_city I-dst_city I-dst_city I-dst_city O O O O O O O O O O O B-max_duration I-max_duration O O 
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-dst_city I-dst_city I-dst_city 
+B-dst_city I-dst_city I-dst_city I-dst_city O 
+O O O O O O O O O O O B-dst_city I-dst_city I-dst_city I-dst_city O O O O 
+O O 
+O O O O 
+O O O O O O O O O O O O O B-dst_city I-dst_city I-dst_city I-dst_city I-dst_city O O 
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-dst_city I-dst_city O O 
+O O O O O O O 
+B-str_date I-str_date 
+O O O O B-dst_city I-dst_city I-dst_city I-dst_city O O O O O O 
+O B-or_city I-or_city O O O O 
+O O O 
+B-dst_city I-dst_city O O O O O O O O O O O O O O 
+B-or_city I-or_city I-or_city I-or_city 
+O O O O O O B-budget I-budget I-budget I-budget I-budget I-budget O O O O O O O O O O O O O O O O 
+O O O B-dst_city I-dst_city I-dst_city I-dst_city I-dst_city I-dst_city O O O O O O O O O O O O O O O O O O O 
+O O O O O O B-duration I-duration O O O O 
+O O O O O O O O O O O O O O O O O O O O O O O O O O 
+O O 
+B-or_city I-or_city I-or_city I-or_city O O O O O B-dst_city I-dst_city I-dst_city I-dst_city B-max_duration I-max_duration I-max_duration I-max_duration O 
+B-str_date I-str_date I-str_date I-str_date I-str_date I-str_date I-str_date I-str_date I-str_date I-str_date 
+O O B-or_city I-or_city I-or_city O O O O O O O O O O B-n_adults I-n_adults I-n_adults I-n_adults I-n_adults I-n_adults 
+O O O O O O O O O O O O B-or_city I-or_city I-or_city I-or_city O O O 
+O O O O O O O O O O O O O O O O B-category O O O O O 
+O O O 
+O O 
+B-or_city I-or_city I-or_city 
+O O O O 
+B-or_city I-or_city I-or_city O O O O O O O O 
+O O O O O O O O O 
+B-or_city I-or_city I-or_city I-or_city O B-dst_city I-dst_city I-dst_city I-dst_city O O O O 
+O O O O O B-dst_city I-dst_city I-dst_city O O 
+O O O 
+O O O O O O O O O O O O O O B-or_city I-or_city I-or_city O O 
+O O O O O O O O O O O O 
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-budget I-budget I-budget I-budget I-budget O 
+O O O O O O O O 
+O O B-or_city I-or_city O B-dst_city I-dst_city O 
+O O O O O O O O O O O O O O O B-or_city I-or_city O O B-dst_city I-dst_city O O 
+O O O O O O O O O B-or_city I-or_city O B-dst_city I-dst_city I-dst_city 
+B-or_city I-or_city O O O O O O O O B-dst_city I-dst_city I-dst_city I-dst_city I-dst_city I-dst_city I-dst_city O O O O O O O O O O O 
+O O O O O O O B-dst_city I-dst_city I-dst_city I-dst_city 
+O O O O O O O O O O O O O O B-seat I-seat O O O O O O O O B-ref_anaphora I-ref_anaphora O O O O O O O O O O O O 
+O O O O O O O O B-dst_city I-dst_city O O O O O O O O O 
+O O O O O O O O O O O O O O O O O O B-dst_city I-dst_city I-dst_city O 
+O O 
+O O O O 
+O O O O O B-or_city I-or_city O O B-dst_city I-dst_city O O O 
+O O O O O O O O O B-str_date I-str_date I-str_date I-str_date I-str_date O B-end_date I-end_date I-end_date I-end_date I-end_date O O O 
+O O O B-ref_anaphora I-ref_anaphora I-ref_anaphora 
+O O O O O O O O O O O O O O O O O O O O B-dst_city I-dst_city I-dst_city I-dst_city O O O O 
+O O O O O O O O O O O O O O O B-dst_city I-dst_city I-dst_city I-dst_city O O 
+O O O O O O O O B-or_city I-or_city I-or_city I-or_city O B-dst_city I-dst_city I-dst_city O O 
+O O O 
+B-n_adults I-n_adults I-n_adults I-n_adults I-n_adults 
+O O O O B-str_date I-str_date I-str_date I-str_date O B-end_date I-end_date I-end_date I-end_date I-end_date O O O O O 
+O O O O O O O O O O O 
+O O O O O O O O O O O O O O O O O B-str_date I-str_date O O O O O O O O O O O O O O O 
+O B-dst_city I-dst_city O O O O O 
+O O O O O O O O B-min_duration I-min_duration O 
+O O O O O O O O O B-dst_city I-dst_city I-dst_city 
+O O O 
+O O O O O O O O O B-dst_city I-dst_city I-dst_city B-name I-name 
+B-dst_city I-dst_city O O O O O O O O O O O 
+O O O O 
+O O O O O O O O O O O O 
+O O O B-budget I-budget I-budget I-budget I-budget I-budget I-budget O 
+O O O O O O O O O O O O O O O O O B-dst_city I-dst_city I-dst_city O O O O O O 
+O O O O O O B-dst_city I-dst_city I-dst_city B-intent O 
+O O 
+O O O O O O B-dst_city I-dst_city O O O O 
+B-ref_anaphora I-ref_anaphora O 
+O O O O 
+O O O O O O B-or_city I-or_city I-or_city O B-dst_city I-dst_city O O O O O 
+O O O O O O O O O O O O B-dst_city I-dst_city O O O O O 
+O O O O B-budget I-budget O O O B-dst_city I-dst_city O O B-category I-category I-category O O O O 
+O O O 
+B-n_adults I-n_adults I-n_adults 
+O B-intent O 
+B-str_date I-str_date I-str_date I-str_date I-str_date O O 
+O O O O O O B-category I-category I-category O O 
+O O B-dst_city I-dst_city O O O O O O O O O O O O 
+O O O O O B-dst_city I-dst_city I-dst_city O O O O O 
+O B-dst_city I-dst_city I-dst_city I-dst_city I-dst_city O O O O 
+B-dst_city I-dst_city O O O 
+O O O 
+O O O B-or_city I-or_city I-or_city I-or_city I-or_city I-or_city I-or_city O O O O O O B-str_date I-str_date I-str_date I-str_date O B-end_date I-end_date O O B-dst_city I-dst_city I-dst_city I-dst_city O 
+O O O O O O O O O O O O 
+O O B-or_city I-or_city I-or_city I-or_city O O O O O 
+O O O O O O O O O 
+O O O O B-str_date I-str_date I-str_date I-str_date I-str_date O O O O O 
+O O O O O B-dst_city I-dst_city I-dst_city I-dst_city I-dst_city O 
+O O O O O O 
+O O 
+O O O 
+O O O O B-or_city I-or_city I-or_city I-or_city O O O 
+O O O O O O O O O O O O O O O O 
+B-or_city I-or_city I-or_city 
+B-budget I-budget I-budget I-budget 
+B-seat I-seat O O O O 
+B-or_city I-or_city I-or_city 
+O O O O O O O B-or_city I-or_city I-or_city O O O O 
+O O O O O B-seat I-seat O O O O O 
+B-str_date I-str_date I-str_date I-str_date O O 
+O O O O O O O O O O O O O O O O O O O O O O O B-dst_city I-dst_city I-dst_city I-dst_city B-category I-category I-category O O O 
+O O O O O O 
+O O O O O O O O O 
+O O 
+B-budget I-budget I-budget I-budget I-budget I-budget 
+O B-dst_city I-dst_city O O O O 
+B-ref_anaphora O O O O O 
+O O O O O O O O O 
+O O O B-dst_city I-dst_city I-dst_city I-dst_city O O O O O O O O 
+O O O O O O O O O B-dst_city I-dst_city I-dst_city O 
+B-seat I-seat 
+O O O O O O O O O 
+O O O O O O B-dst_city I-dst_city I-dst_city I-dst_city O 
+O O O O 
+O O O O O O O B-dst_city I-dst_city O O 
+O O O B-category I-category I-category O O O B-dst_city I-dst_city O O O O O 
+O O O O O O O O B-seat I-seat O O 
+O O O O O O O O O O O O B-dst_city I-dst_city I-dst_city I-dst_city O O O O O O 
+O O O O O O O O B-dst_city I-dst_city O O 
+O O O O O O O B-seat I-seat O O O O B-str_date I-str_date I-str_date I-str_date I-str_date O O O O O O 
+O O O O O O B-seat I-seat O O O 
+O O O O O B-dst_city I-dst_city I-dst_city O O O O O O O O O 
+B-dst_city I-dst_city I-dst_city I-dst_city O O O O O O O O O O 
+O B-dst_city I-dst_city I-dst_city I-dst_city I-dst_city I-dst_city I-dst_city I-dst_city I-dst_city I-dst_city I-dst_city I-dst_city I-dst_city O O O B-amenities I-amenities O O O O O O 
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-intent 
+B-seat I-seat O O O O 
+O O O 
+O O O O O O 
+O O O O O O O B-dst_city I-dst_city I-dst_city I-dst_city O O O O O O O B-str_date I-str_date O B-end_date I-end_date I-end_date I-end_date I-end_date O O O 
+O O O O O O O O O O O O O O O O O O O O O O O B-dst_city I-dst_city I-dst_city I-dst_city I-dst_city O O O O O 
+O O O O O O O 
+B-n_adults 
+O O O O O 
+O O 
+B-or_city I-or_city I-or_city O O O O O O B-dst_city I-dst_city O O O O O 
+O O O O O O B-dst_city I-dst_city O O O O O O O O 
+O O O O O O B-dst_city I-dst_city O 
+B-dst_city I-dst_city I-dst_city I-dst_city O O O O O O O 
+O B-dst_city I-dst_city I-dst_city O O O O 
+B-dst_city I-dst_city I-dst_city I-dst_city I-dst_city O 
+O O O O O O O O O O O O O O B-dst_city I-dst_city O O O O O O O 
+O O O O O O O O B-dst_city I-dst_city I-dst_city O O O O 
+O O O B-intent 
+B-seat I-seat O 
+O O O 
+O O O O O O O O O O B-or_city I-or_city O 
+O O O O O O O O O O O O O O O O O O O O O O O 
+O O O O O O O O O O 
+B-dst_city I-dst_city O O 
+B-dst_city I-dst_city O O 
+O O O O B-or_city I-or_city I-or_city I-or_city O O O O O O 
+B-n_adults 
+O O O O O O O O B-str_date I-str_date I-str_date I-str_date I-str_date I-str_date O O O O 
+O O O O O O O O O O O B-str_date I-str_date O B-end_date I-end_date I-end_date I-end_date I-end_date O O O O 
+O O O O O O O O O O B-duration I-duration I-duration O O O O O O 
+B-seat I-seat O 
+O O O 
+O O O O O B-dst_city I-dst_city I-dst_city I-dst_city 
+O O 
+O O O B-ref_anaphora O O O 
+B-dst_city I-dst_city I-dst_city I-dst_city O O O O 
+O O O O O O O O O O O O O B-dst_city I-dst_city O O O O 
+O O O O O O 
+B-dst_city I-dst_city O O O O O O O 
+O O O O O O O O O O O O O O O O O O O O O B-dst_city I-dst_city O 
+O O O B-n_adults I-n_adults I-n_adults I-n_adults I-n_adults I-n_adults I-n_adults O O O O O O O O O O B-n_children I-n_children I-n_children I-n_children O 
+O O O 
+O O O O O O O O O O O O O O O B-or_city I-or_city I-or_city I-or_city I-or_city I-or_city I-or_city O 
+O O O 
+O O O O O O O B-or_city I-or_city I-or_city O O B-dst_city I-dst_city O O 
+O O O O O O O O O 
+O O O O O O 
+O O O O O O 
+O O O B-dst_city I-dst_city I-dst_city 
+O O O O O O O O O O B-intent 
+O O O O O O O O O 
+B-dst_city I-dst_city O 
+B-or_city I-or_city I-or_city O O O O O O O O O 
+B-budget I-budget I-budget I-budget 
+B-str_date I-str_date I-str_date I-str_date O O O B-end_date I-end_date I-end_date I-end_date I-end_date O O 
+O O O O O O O B-or_city I-or_city I-or_city O O O O O 
+B-dst_city I-dst_city I-dst_city I-dst_city I-dst_city O O O O 
+O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+O O O O O O O O O O O B-or_city I-or_city O B-dst_city I-dst_city 
+B-dst_city I-dst_city I-dst_city O O O O O O O 
+O O O O O O B-dst_city I-dst_city I-dst_city I-dst_city I-dst_city O 
+O O O O O 
+O O O O O O B-dst_city I-dst_city I-dst_city O O 
+O O O O O O 
+O O O O O O 
+O O O 
+O O O 
+O O O O B-max_duration I-max_duration I-max_duration O O 
+O O O B-str_date I-str_date O B-end_date I-end_date I-end_date I-end_date 
+O O O O O O O O O O O O O O O O 
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+O O O 
+O O O O O O O O O O O O O B-or_city I-or_city I-or_city O O O 
+O O O O O O O O B-dst_city I-dst_city I-dst_city I-dst_city O O O O O 
+O O O O O B-or_city I-or_city I-or_city O 
+O O O O O O O B-duration I-duration I-duration O O O O O O O O B-seat I-seat O O O O 
+O O O O B-seat I-seat O O 
+O O O O O O O O O O O O O O O 
+O O O O O O O O 
+O O O O O O O O O O O B-seat I-seat O O O 
+O O O O O 
+B-or_city I-or_city I-or_city 
+B-category I-category I-category O O O B-dst_city I-dst_city I-dst_city I-dst_city O 
+O O O O O O O O O O B-dst_city I-dst_city I-dst_city I-dst_city I-dst_city O O O O 
+B-or_city I-or_city I-or_city I-or_city B-dst_city I-dst_city I-dst_city O O O O 
+B-dst_city I-dst_city I-dst_city O O O O O O O 
+B-or_city I-or_city I-or_city 
+O O O B-str_date I-str_date I-str_date I-str_date O O O O B-ref_anaphora I-ref_anaphora O O 
+O O O O 
+O O O B-or_city I-or_city I-or_city O 
+B-n_adults I-n_adults I-n_adults O 
+B-dst_city I-dst_city I-dst_city I-dst_city O O O O O O 
+O O O O O O O O O O O O O O O B-dst_city I-dst_city 
+O O O O O O O O O O O O O O O O O O B-dst_city I-dst_city I-dst_city I-dst_city I-dst_city O O O 
+O O O 
+O O O B-str_date I-str_date I-str_date I-str_date I-str_date O B-end_date I-end_date I-end_date I-end_date O O O 
+O O B-dst_city I-dst_city I-dst_city O O O O O O O O O 
+B-or_city I-or_city I-or_city I-or_city O O O B-n_adults O O O O O O 
+O O O O O O O O O O B-dst_city I-dst_city I-dst_city I-dst_city O O 
+O O O O 
+O O 
+O O O O O O O O O O O O O B-dst_city I-dst_city I-dst_city I-dst_city O O O O O 
+O O O O O O O O O 
+O O B-dst_city I-dst_city I-dst_city I-dst_city 
+B-dst_city I-dst_city O 
+O O O O O O O B-category O O O O O O O O 
+O O O O O B-dst_city I-dst_city 
+O O B-dst_city I-dst_city I-dst_city I-dst_city O O O B-category I-category O O O O 
+B-budget I-budget I-budget I-budget 
+O O B-str_date I-str_date I-str_date I-str_date O O O O O 
+B-dst_city I-dst_city I-dst_city I-dst_city I-dst_city O O 
+O O B-dst_city I-dst_city I-dst_city O O 
+O O O O O 
+O O O O O O B-dst_city I-dst_city O O O B-category O O O O O O O O 
+O O O O B-n_adults O 
+O O B-dst_city I-dst_city O O O 
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-intent O 
+B-budget I-budget I-budget I-budget 
+O O O O O O O O 
+O O O O O O O O O O O O O 
+O O O O 
+O B-budget I-budget I-budget O 
+O O O O O O B-duration I-duration I-duration O O O O O O O O O 
+O O B-intent 
+O O O O O O 
+O O O O B-or_city I-or_city O O O O O O O B-str_date I-str_date I-str_date I-str_date I-str_date O B-end_date I-end_date I-end_date I-end_date I-end_date O O O O 
+O O O O O B-dst_city I-dst_city O O O O O O O 
+O O O B-duration I-duration O O O O O O O O O 
+O O O O B-seat I-seat O O 
+O O O O O O 
+B-dst_city I-dst_city I-dst_city I-dst_city O O O O O O O O O O O 
+O O O O O O B-dst_city I-dst_city O O B-category I-category I-category O O O O O O 
+O O O O O 
+B-n_adults I-n_adults I-n_adults I-n_adults I-n_adults 
+O O O O O 
+O O O O 
+O O O O O O 
+O O B-budget I-budget I-budget I-budget I-budget I-budget O 
+B-dst_city I-dst_city O O O O O O O O O O O O O O O O 
+O O O O O O 
+O O O O O O O B-budget I-budget I-budget I-budget I-budget I-budget O 
+O O O O O O O B-or_city I-or_city O O O O O O O O O O O O O O 
+O O O O O O O O O O O O O O O O O O 
+O O O 
+O O B-or_city I-or_city 
+O O O B-dst_city I-dst_city 
+B-seat I-seat O O 
+O O 
+B-dst_city I-dst_city I-dst_city I-dst_city O O O O O O O O 
+O O O O O O 
+O O O O 
+B-n_adults 
+B-str_date I-str_date I-str_date I-str_date I-str_date O B-end_date I-end_date I-end_date I-end_date 
+B-category I-category I-category O O O 
+B-seat I-seat 
+O O 
+O B-or_city I-or_city I-or_city O O O O B-str_date I-str_date I-str_date I-str_date O B-end_date I-end_date I-end_date I-end_date I-end_date 
+O O O O O O O O 
+O O O O O O O O O O O O O O O O O O B-dst_city I-dst_city I-dst_city B-or_city I-or_city I-or_city O O 
+B-budget I-budget I-budget I-budget I-budget I-budget 
+O O O B-category I-category 
+O O O O 
+O O O B-category O O O O O O 
+O 
+O O O O O O O O O B-dst_city I-dst_city 
+B-or_city I-or_city O O 
+O O O O O O O O O O O O O O B-dst_city I-dst_city I-dst_city I-dst_city I-dst_city O 
+O O O O O O B-dst_city I-dst_city O O O O O 
+O O O O O O O O O O O O O O O O B-str_date I-str_date I-str_date I-str_date I-str_date O O O O O O O O B-end_date I-end_date I-end_date I-end_date I-end_date I-end_date I-end_date I-end_date O O O 
+O O O O B-count I-count I-count I-count I-count O O 
+B-n_adults 
+O O O O O O O O O O O O O O O O O O O O O O O O O B-dst_city I-dst_city I-dst_city I-dst_city O O O O O O O O O O O O O O O O 
+O O O B-budget I-budget I-budget I-budget I-budget I-budget 
+O O O O O O 
+B-n_adults 
+O O O O O B-dst_city I-dst_city O O 
+O O O O O 
+O O O B-n_adults O O O O B-or_city I-or_city I-or_city O O O 
+O O O O 
+O O O O O O O O O O O O O O O O O O O O O O O O O O B-dst_city I-dst_city O O O 
+O O O O O O O 
+O O O O O O B-str_date O O O O O O O O O O 
+O O O O O O B-str_date I-str_date I-str_date O B-end_date I-end_date O O O 
+O O O O O O O 
+O O O O 
+O O O O B-str_date I-str_date I-str_date O 
+O O O O O O O O O B-dst_city I-dst_city I-dst_city I-dst_city O O O O O O O 
+O O O O O O O 
+O O O O O O O O O O O O O O O O O O O O 
+O O O O O O O O O O O O O O O O O O O O O O O O O O B-dst_city I-dst_city O O O O O O O O O O O O O O O 
+O O O O O O O O O O B-dst_city I-dst_city I-dst_city O O O O O O O O O O O O B-intent O O O O O O O O O B-gst_rating I-gst_rating I-gst_rating I-gst_rating I-gst_rating I-gst_rating I-gst_rating O O O 
+O O O O O O O 
+B-str_date I-str_date O O O O O O O O O O O 
+B-or_city I-or_city I-or_city O B-dst_city I-dst_city I-dst_city I-dst_city 
+O O O O O O O O O O O O B-dst_city I-dst_city I-dst_city O 
+O O O O O B-dst_city I-dst_city I-dst_city I-dst_city O O O O O O O O O O O O O O O O O O O O O O O O O O B-or_city I-or_city I-or_city I-or_city O O O O O O O O O 
+O O O O 
+B-dst_city I-dst_city I-dst_city O O O O O O O 
+O O O O O O 
+B-str_date I-str_date I-str_date I-str_date O B-end_date I-end_date I-end_date I-end_date I-end_date 
+B-n_adults 
+O O O B-dst_city I-dst_city O O O O O 
+O O O O O B-str_date I-str_date I-str_date I-str_date I-str_date I-str_date I-str_date I-str_date O B-end_date I-end_date I-end_date I-end_date I-end_date I-end_date I-end_date I-end_date O O O O 
+O O O B-dst_city I-dst_city I-dst_city O O O O 
+O O O O O O B-dst_city I-dst_city I-dst_city I-dst_city O O O O O O 
+O O O O 
+B-or_city I-or_city I-or_city I-or_city 
+O O O 
+O O O O O O O O O O O O O O B-dst_city I-dst_city I-dst_city O O O O 
+O O O B-intent 
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-dst_city I-dst_city I-dst_city O O O O O O O O 
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+O O O O O 
+O O B-str_date O O O O O O O O O O O O O O O O O B-dst_city I-dst_city O O 
+O O O O O O O O O O B-ref_anaphora I-ref_anaphora I-ref_anaphora I-ref_anaphora O O O 
+O O O O O O O O O O O O O B-dst_city I-dst_city O O O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+O O O O O O O O O O O O O O O O O B-dst_city I-dst_city O 
+O O O O 
+O O O 
+O O O O O O O 
+O O O B-dst_city I-dst_city I-dst_city I-dst_city O O O O O O 
+O O O O 
+O O O O O O O B-or_city I-or_city I-or_city I-or_city O O O 
+O O O O O O B-dst_city I-dst_city I-dst_city I-dst_city I-dst_city I-dst_city 
+O O O B-dst_city I-dst_city O O 
+B-dst_city I-dst_city O O O 
+B-dst_city I-dst_city I-dst_city I-dst_city 
+B-category I-category I-category O O O O O O O O O O O O O B-dst_city I-dst_city I-dst_city I-dst_city O O O O 
+O O O O O O O B-dst_city I-dst_city O O O O O O O O O O O O 
+O O O O O 
+O O O O O O O O O O O O O B-or_city I-or_city I-or_city I-or_city O O O O O O O O O B-budget I-budget I-budget I-budget I-budget I-budget O O O O O O O O 
+O O O O O O O O O O O O 
+O O O O O O O O O O O O O O O O O O O O O O O O B-dst_city I-dst_city I-dst_city O O O O O O O O O O O O O O O O O O O O O O B-or_city I-or_city O O O O O O O O O O O O O O O O O O O O 
+O O O O O O O O O O O 
+O O O B-budget I-budget I-budget I-budget I-budget I-budget 
+B-n_adults 
+O O O O O O O O O O O B-dst_city I-dst_city I-dst_city I-dst_city O O O O O O O O O O O O O 
+O O O O O O O O O O O O O O O O O B-or_city I-or_city I-or_city I-or_city I-or_city I-or_city I-or_city O O O O O O O O O O O O O O O O O O O 
+O O O O O O O O O O O O O O O O O O O O B-budget I-budget I-budget I-budget I-budget I-budget I-budget I-budget I-budget O O O 
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-dst_city I-dst_city I-dst_city I-dst_city O O O 
+O O O O B-dst_city I-dst_city I-dst_city O 
+O O O O O O O 
+O O O O O O O O O O O O O O O O 
+O O O O O O O O O O O O B-dst_city I-dst_city O O O 
+O O O O O O O B-dst_city I-dst_city I-dst_city I-dst_city O O O O 
+O O O O B-or_city I-or_city O O O 
+O O O O O 
+O O 
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+B-budget I-budget I-budget I-budget I-budget I-budget 
+B-str_date I-str_date I-str_date I-str_date 
+B-or_city I-or_city I-or_city 
+O O O O O O B-str_date I-str_date I-str_date I-str_date I-str_date I-str_date I-str_date I-str_date O B-end_date I-end_date I-end_date I-end_date I-end_date I-end_date I-end_date I-end_date O 
+O O O B-n_adults O 
+O O O O O O O O O O O O O O O O O 
+O O O O O O O O O 
+O O O O O O B-dst_city I-dst_city I-dst_city O O O O O O O O O O 
+O O O O O O O O O O O O O O O O O O O O O O O O O O 
+O O O O O O O O O O O O O O O O O B-or_city I-or_city I-or_city O O B-dst_city I-dst_city I-dst_city I-dst_city O O O O O O O O O O O O O O O O O O O O O O O O 
+O B-or_city I-or_city I-or_city O O O O O O O O O O O O O O O B-dst_city I-dst_city O O O O 
+O O O O O O O O B-str_date I-str_date I-str_date I-str_date O B-end_date I-end_date I-end_date O O O B-or_city I-or_city I-or_city I-or_city O O O O O O O O O O B-dst_city I-dst_city I-dst_city I-dst_city O O O O O O O O O 
+O O O O O O O O B-budget I-budget I-budget I-budget I-budget I-budget I-budget I-budget I-budget I-budget I-budget O O O O O O O O O O O O O O B-dst_city I-dst_city I-dst_city O O O O O O O O O O O O O 
+O O O O O O O B-dst_city I-dst_city 
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-dst_city I-dst_city I-dst_city I-dst_city O O O O O O O O O O O O 
+O O B-ref_anaphora O O O B-dst_city I-dst_city I-dst_city I-dst_city O O 
+O O O O O O 
+O O O B-or_city I-or_city O O 
+B-max_duration I-max_duration O O O B-duration I-duration O O O O O O O O O O O O 
+O O O O O O O O O O O O O O O O O O O O O O B-dst_city I-dst_city I-dst_city O O O O 
+O O O O O O O O O O O O O O O O O O O 
+O O O O O O O O O 
+O O O B-category I-category I-category I-category I-category I-category O O O O 
+O O 
+B-or_city I-or_city 
+B-budget I-budget I-budget I-budget I-budget I-budget 
+O B-n_adults O O O O O O O O O 
+B-str_date I-str_date I-str_date I-str_date I-str_date O O O O O O O O O O B-end_date I-end_date I-end_date I-end_date I-end_date O O O O O 
+B-seat I-seat O 
+O O O O O O O O 
+O O B-or_city I-or_city O 
+O O O O O O B-budget I-budget I-budget I-budget I-budget I-budget I-budget O O O 
+O O B-end_date I-end_date I-end_date I-end_date I-end_date I-end_date I-end_date I-end_date 
+O O O O O O O O O O O O B-category I-category I-category O O O O 
+O O O O O O O O O 
+O O O O O O O 
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-dst_city I-dst_city I-dst_city I-dst_city O 
+O O O O O O O O 
+O O O B-n_adults O O O O O 
+O O O O O O O B-dst_city I-dst_city I-dst_city I-dst_city O B-category I-category I-category O O O 
+O O O B-dst_city I-dst_city I-dst_city 
+B-ref_anaphora O B-dst_city I-dst_city I-dst_city I-dst_city O O O 
+O O O O O O O B-dst_city I-dst_city I-dst_city 
+O O O O O O O 
+O O O B-dst_city I-dst_city I-dst_city B-name I-name I-name I-name I-name I-name O O B-intent O 
+O O 
+O O O B-n_adults I-n_adults I-n_adults I-n_adults O B-n_children I-n_children O O O O 
+O O O O O O B-min_duration I-min_duration O O O O 
+O O O O 
+B-dst_city I-dst_city I-dst_city O O 
+O O O O O O B-or_city I-or_city I-or_city I-or_city O O O 
+B-or_city I-or_city I-or_city O 
+B-budget I-budget I-budget I-budget 
+B-str_date I-str_date I-str_date I-str_date I-str_date 
+B-end_date I-end_date I-end_date I-end_date I-end_date 
+O O O O O O O O 
+O O O B-max_duration I-max_duration I-max_duration I-max_duration O O O O O O O 
+O O O O 
+B-dst_city I-dst_city 
+O O O O O O O O O O O O O O O O O O O O B-dst_city I-dst_city I-dst_city I-dst_city I-dst_city I-dst_city I-dst_city O 
+O O O O O O O O O O O O O B-or_city I-or_city I-or_city I-or_city O O O 
+B-dst_city I-dst_city I-dst_city I-dst_city 
+O O O O O O O O O B-or_city I-or_city I-or_city 
+B-n_adults 
+O B-dst_city I-dst_city I-dst_city I-dst_city I-dst_city O O O B-duration I-duration O 
+O O O O O O O O O O 
+O B-dst_city I-dst_city I-dst_city O O O O 
+B-or_city I-or_city O B-dst_city I-dst_city I-dst_city I-dst_city 
+B-or_city I-or_city O B-dst_city I-dst_city I-dst_city 
+O O O O O O O B-ref_anaphora I-ref_anaphora I-ref_anaphora I-ref_anaphora I-ref_anaphora I-ref_anaphora O 
+O O O O O O B-or_city I-or_city I-or_city I-or_city O O O O O O O O O O O O O O O B-str_date I-str_date I-str_date I-str_date O O B-end_date I-end_date I-end_date I-end_date I-end_date I-end_date O O 
+O O O O O O O O O O O O O O O O B-intent O O O O O O O O O O O O O O O O B-n_adults I-n_adults I-n_adults I-n_adults I-n_adults I-n_adults O O O B-dst_city I-dst_city O O B-end_date I-end_date I-end_date O O O O B-or_city I-or_city O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+B-dst_city I-dst_city O O 
+B-ref_anaphora I-ref_anaphora I-ref_anaphora O O O O O O O 
+O O O O O O B-intent 
+O O O O B-or_city I-or_city I-or_city I-or_city O O 
+O O B-str_date I-str_date I-str_date I-str_date I-str_date O O O O O O 
+O O B-seat I-seat O 
+O O O O O O O 
+B-n_adults I-n_adults I-n_adults I-n_adults I-n_adults I-n_adults I-n_adults 
+O O O O B-or_city I-or_city O O O O O O 
+O O 
+O O O O B-str_date I-str_date I-str_date 
+O O O O B-dst_city I-dst_city I-dst_city O O B-ref_anaphora O B-intent 
+O O O B-dst_city I-dst_city I-dst_city I-dst_city O O O O O O O O O 
+O O B-n_adults O O O O O O O O O O O O O O O O O O O O 
+B-budget I-budget I-budget I-budget 
+B-str_date I-str_date I-str_date I-str_date I-str_date 
+O O O O O B-or_city I-or_city I-or_city I-or_city O O 
+O O O O B-dst_city I-dst_city I-dst_city I-dst_city O O O 
+B-or_city I-or_city 
+O O O O O O O O O O O O O 
+B-dst_city I-dst_city I-dst_city 
+O O B-n_adults O O 
+O O O O O O O O B-dst_city I-dst_city O O 
+O O O O O O O O B-dst_city I-dst_city O O O O 
+O O O 
+B-or_city I-or_city 
+O O B-or_city I-or_city O 
+B-dst_city I-dst_city I-dst_city O O O O 
+O O O O B-dst_city I-dst_city I-dst_city I-dst_city O 
+O O O O O O O O O O O O O O O O O O O B-duration I-duration I-duration O O O 
+O O O O O O O O 
+O O O O B-dst_city I-dst_city O O O O O O O O O O O O O O 
+O O O O O B-duration I-duration I-duration O O 
+O O O O O O O O O O O O O O O B-dst_city I-dst_city O B-duration I-duration I-duration O O O O 
+O O B-duration I-duration O 
+B-category I-category I-category O B-name I-name O O 
+O O O O O O O O O O O O O O O O O O O O O B-duration I-duration I-duration O B-dst_city I-dst_city O O O O O 
+O O O O O O O 
+O O O O O O O O O O O O O O O O O O O O O O B-or_city I-or_city O O O O O O B-budget I-budget I-budget I-budget I-budget 
+O O O O 
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+B-str_date I-str_date I-str_date I-str_date O B-end_date I-end_date I-end_date O O O O O O O 
+B-ref_anaphora O O O O O O 
+O O O O O O O O O O O O O B-dst_city I-dst_city I-dst_city I-dst_city O O O 
+O O O 
+O O O O O O O O O O O 
+O O B-or_city I-or_city O 
+B-dst_city I-dst_city O O 
+O O O O O O O O O O O O O O B-str_date I-str_date O O O 
+O O O O O O O B-name I-name O B-duration I-duration O O O O O O O O O O O O O 
+O O O O O O O 
+O O O O O O O 
+O O 
+O O B-dst_city I-dst_city O O 
+O O O O O O B-dst_city I-dst_city I-dst_city I-dst_city O O O 
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+O O O O O O O O O O B-dst_city I-dst_city O 
+O O O B-n_adults I-n_adults I-n_adults I-n_adults I-n_adults I-n_adults O B-n_children I-n_children I-n_children I-n_children I-n_children O 
+B-or_city I-or_city O 
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+B-dst_city I-dst_city I-dst_city O O O O 
+O O O B-max_duration I-max_duration O O O O O 
+O O O O O O 
+O O O O O O O O O B-category I-category I-category O O O O O 
+O O O B-or_city I-or_city I-or_city O O O O O O O O O O O O O O O O O 
+O O O O O 
+O B-or_city I-or_city I-or_city I-or_city O B-dst_city I-dst_city I-dst_city I-dst_city O O O O 
+O O O O 
+O O O B-dst_city I-dst_city I-dst_city I-dst_city O 
+O O O O B-duration I-duration O O O O 
+O O O O O O O O O O O O O O O O O O O O O O O O O O B-dst_city I-dst_city I-dst_city O 
+O O O O O O B-max_duration I-max_duration O O O O O O 
+B-dst_city I-dst_city I-dst_city I-dst_city O O B-duration I-duration O O O 
+O O O O O O O 
+O O O O O O O O O O O 
+O O O O O O O B-intent 
+O O O O O O 
+B-budget I-budget I-budget I-budget 
+O O O B-str_date I-str_date O O O O O 
+O O O O O O O O O O O O O O O 
+B-str_date I-str_date I-str_date I-str_date I-str_date 
+O O B-or_city I-or_city O O O O O O 
+O B-or_city I-or_city I-or_city O B-dst_city I-dst_city I-dst_city O O O O 
+O B-or_city I-or_city O B-dst_city I-dst_city I-dst_city O 
+O O O O O O O O O B-str_date I-str_date I-str_date O O O O O O O O O O O O O 
+O O O O O O O O O O B-or_city I-or_city I-or_city 
+O B-dst_city I-dst_city I-dst_city O O O O 
+O O O B-dst_city I-dst_city I-dst_city O O O O 
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+O O O O B-duration I-duration O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-category I-category I-category O O B-dst_city I-dst_city I-dst_city O O 
+O O O O O B-dst_city I-dst_city I-dst_city I-dst_city O O O O 
+O O B-dst_city I-dst_city B-category I-category I-category O O 
+O O O O O O O O O O B-dst_city I-dst_city O O O O O O 
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+O O O O O O O O O O O O O O O O O O O O O O O O O 
+O O O O O O O O B-dst_city I-dst_city I-dst_city O O B-str_date I-str_date I-str_date I-str_date I-str_date I-str_date I-str_date O O 
+O O O O O O O O 
+O O O O O O O 
+O O O O B-dst_city I-dst_city O O O O 
+O O O 
+O O O B-dst_city I-dst_city I-dst_city I-dst_city I-dst_city I-dst_city I-dst_city I-dst_city I-dst_city I-dst_city I-dst_city O 
+O O O O O B-or_city I-or_city I-or_city I-or_city O O O O O O O O O O O O O O O O O O 
+O O O O O O O O O O B-or_city I-or_city I-or_city I-or_city I-or_city O B-dst_city I-dst_city I-dst_city I-dst_city I-dst_city O O 
+O O O B-dst_city I-dst_city I-dst_city I-dst_city I-dst_city I-dst_city I-dst_city I-dst_city I-dst_city I-dst_city I-dst_city O O O O B-or_city I-or_city I-or_city I-or_city O 
+O O O O 
+O O O O O O O O O O O O O O O O O O O O 
+O O O O O O O O 
+O O O O O O B-dst_city I-dst_city O O O O O O O 
+O O O 
+B-or_city I-or_city 
+O O O O O O O O O O O O O O O O O B-dst_city I-dst_city I-dst_city 
+O O O O O O O O O O B-dst_city I-dst_city I-dst_city O O O 
+B-or_city I-or_city I-or_city I-or_city I-or_city I-or_city 
+O B-str_date I-str_date I-str_date I-str_date O B-end_date I-end_date I-end_date I-end_date I-end_date 
+O O O O O O O O O B-dst_city I-dst_city O O O 
+O O O 
+B-or_city I-or_city 
+O O O 
+O O O O O O O O O O B-dst_city I-dst_city I-dst_city O O O O 
+O O O O O O B-duration I-duration I-duration O O O O 
+O O O O O B-duration I-duration I-duration O O O O O 
+O O O O O O O O O O B-intent O B-duration I-duration I-duration 
+O O O O O O O O O O O 
+O 
+O O O O O B-dst_city I-dst_city I-dst_city I-dst_city I-dst_city I-dst_city I-dst_city O O O O 
+O O 
+O O O O O O O B-dst_city I-dst_city O O O 
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+O O O O B-dst_city I-dst_city 
+B-budget I-budget I-budget I-budget 
+B-duration I-duration I-duration O O O O O O O O O O O O O O O O O 
+B-seat I-seat 
+O O O 
+O O O O O O O O O O 
+O O O O O O 
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+B-dst_city I-dst_city I-dst_city I-dst_city O O O O 
+O O O O O O B-dst_city I-dst_city I-dst_city I-dst_city I-dst_city I-dst_city I-dst_city O O O O O O 
+O O O O O 
+O O O O B-max_duration I-max_duration O O O O O O O O O O O O O O 
+B-dst_city I-dst_city O O O O O O O 
+B-category I-category I-category O O O O 
+O O O O O O B-dst_city I-dst_city I-dst_city I-dst_city O O O 
+O O O 
+B-budget I-budget I-budget I-budget I-budget I-budget 
+O O O O O O O 
+B-str_date I-str_date I-str_date I-str_date I-str_date O B-end_date I-end_date I-end_date I-end_date I-end_date O O 
+O O O O O O O B-dst_city I-dst_city 
+O O O O O O O O O O B-dst_city I-dst_city I-dst_city O 
+O O O O O O O O B-dst_city I-dst_city I-dst_city O 
+O O O O B-or_city I-or_city O O O O O O 
+O O O O B-or_city I-or_city O B-dst_city I-dst_city I-dst_city I-dst_city O O O O 
+O O O O O O O O O O O O 
+B-or_city I-or_city I-or_city I-or_city O 
+B-str_date I-str_date I-str_date I-str_date I-str_date I-str_date I-str_date O 
+O O O O O O O O B-dst_city I-dst_city O O O O O O O O O O O O O O O 
+O O O O O O O O O B-dst_city I-dst_city I-dst_city O O 
+B-str_date I-str_date I-str_date I-str_date I-str_date I-str_date I-str_date I-str_date I-str_date I-str_date I-str_date I-str_date I-str_date I-str_date 
+O O O O O O O O O O O O O O O 
+O O O O O O B-duration I-duration I-duration O 
+O O O O 
+O O O O O O O O O O B-or_city I-or_city I-or_city I-or_city I-or_city I-or_city I-or_city O O O O O O O B-dst_city I-dst_city I-dst_city I-dst_city O 
+O O O O O B-dst_city I-dst_city I-dst_city O O O O O O O O O O O B-n_children I-n_children O O O O 
+O O O 
+O B-or_city I-or_city I-or_city I-or_city O O B-dst_city I-dst_city I-dst_city 
+O O O O O O B-n_adults 
+O B-dst_city I-dst_city O O O O 
+O B-dst_city I-dst_city I-dst_city I-dst_city O O O O 
+O O O O O O O O O B-or_city I-or_city I-or_city I-or_city O 
+B-budget I-budget I-budget I-budget 
+O O 
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+O O O 
+O O O 
+O O B-or_city I-or_city I-or_city 
+O O O B-dst_city I-dst_city I-dst_city O O O O O O O B-str_date I-str_date I-str_date I-str_date I-str_date I-str_date I-str_date I-str_date O B-end_date I-end_date I-end_date I-end_date I-end_date I-end_date I-end_date I-end_date O O O O O O O O O O O O O O O O 
+O O B-dst_city I-dst_city O O O O O O O 
+O O O O O O O O O O O O B-dst_city I-dst_city O O O O 
+O O O O O O O O 
+O O O O O O O O O O O O O O 
+O O O O O O O O O O O O O O 
+O O O O O B-seat I-seat O O O O O 
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+O B-str_date I-str_date I-str_date O B-end_date I-end_date 
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-str_date I-str_date I-str_date O O O O O O O O O O O O O O O B-dst_city I-dst_city O O 
+O O O O O 
+O O O B-duration I-duration O O O O O O O O O O O O O O O O O O O O O O 
+O O O O O O O O B-seat I-seat O O O O B-seat I-seat O O O 
+O O O 
+B-n_adults 
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+B-dst_city I-dst_city I-dst_city O O O 
+O O O O 
+B-str_date I-str_date I-str_date I-str_date I-str_date I-str_date 
+O O O O O O O 
+O O O O O O O O O O O O O O O O O B-dst_city I-dst_city I-dst_city O B-or_city I-or_city I-or_city I-or_city O O O O O O O O O O O O O O O O O O 
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-budget I-budget I-budget I-budget O O O O O B-or_city I-or_city I-or_city I-or_city B-dst_city I-dst_city I-dst_city O O O O O 
+O O O O O O O O O O O O O B-dst_city I-dst_city I-dst_city O 
+O O O O O O O O O O B-dst_city I-dst_city I-dst_city O O O O O O O O O O O 
+O O O O O O O O O O O O O O O O O B-dst_city I-dst_city I-dst_city O 
+O O O O O O O O O O O O 
+O O O O O O O 
+O O O 
+O B-dst_city I-dst_city I-dst_city I-dst_city O O O O 
+B-dst_city I-dst_city I-dst_city O 
+O O O O O O O 
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-dst_city I-dst_city I-dst_city I-dst_city O O O O O O O O 
+O O O O O O O O O O O O O O B-ref_anaphora O O O 
+O O O O O 
+O O O O O O O 
+O O O B-str_date I-str_date I-str_date I-str_date O B-end_date I-end_date I-end_date O O O O 
+O O O O O O O O O O O O O B-or_city I-or_city I-or_city I-or_city O O B-dst_city I-dst_city I-dst_city I-dst_city I-dst_city O O O O O O O 
+O O O 
+O O O O O O O O O B-duration I-duration O O O O O O O O 
+O O O 
+O O O O O O O O O O O O O O O O O O O O B-dst_city I-dst_city I-dst_city O O O O O O O 
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+O O O B-or_city I-or_city O O O O O O O B-dst_city I-dst_city I-dst_city I-dst_city O 
+O O O O O O O O O O O O O O O O O O O O O O O 
+B-duration I-duration 
+O O B-seat I-seat O O O 
+O O O O 
+O O B-or_city I-or_city O O O O O O B-n_children I-n_children I-n_children O O O O 
+B-budget I-budget I-budget I-budget I-budget I-budget 
+B-duration I-duration O O O O O B-duration I-duration I-duration O O 
+O O O 
+O O O O O B-seat I-seat O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-intent O 
+O O O O O O O O O O O O O 
+O O O O 
+O O O O O B-dst_city I-dst_city O O O O O 
+O O O O 
+B-or_city I-or_city O O O B-dst_city I-dst_city I-dst_city O 
+O O O O O B-budget I-budget O O O O O 
+O O O O O O O O O O O O O O O O O 
+O O O 
+B-or_city I-or_city I-or_city I-or_city O 
+B-dst_city I-dst_city I-dst_city I-dst_city O 
+B-dst_city I-dst_city I-dst_city O 
+O O O O B-dst_city I-dst_city I-dst_city O O O O 
+O O O O O O O O O B-duration I-duration I-duration O B-dst_city I-dst_city I-dst_city I-dst_city O O O O O O O O O O O 
+B-name I-name I-name I-name I-name I-name I-name O 
+O O O O O O O O O O O O O O O 
+O O O O O O O O O O O O O O 
+O O O O B-ref_anaphora O O O O O O O O O O O O O O O O O O O O O O O O O 
+O O O O O O O O B-dst_city I-dst_city I-dst_city I-dst_city I-dst_city 
+O O O B-end_date I-end_date I-end_date O O O O O O 
+O O O O O O O O O O O O O 
+O O O O 
+B-dst_city I-dst_city I-dst_city I-dst_city O O O O 
+O O O O B-or_city I-or_city I-or_city O B-dst_city I-dst_city O 
+O O O O O O O B-or_city I-or_city I-or_city O O O 
+O O O O O B-or_city I-or_city I-or_city O O O 
+O O O O O O O O O O B-dst_city I-dst_city O O O O O O O O O O 
+O O O O O O O O B-or_city I-or_city I-or_city O O O O O O O O O O O O O O O O O O 
+O O 
+B-budget I-budget I-budget I-budget 
+O B-str_date I-str_date O B-end_date I-end_date I-end_date I-end_date O O 
+O O O O O O O O O O B-seat I-seat O O O B-seat I-seat O O 
+O O O O O O 
+B-budget I-budget O O O O O B-or_city I-or_city I-or_city O B-dst_city I-dst_city I-dst_city I-dst_city I-dst_city O O O O O 
+O O O O O O O B-or_city I-or_city I-or_city I-or_city O B-dst_city I-dst_city O O O O O 
+B-or_city I-or_city I-or_city I-or_city O B-dst_city I-dst_city I-dst_city I-dst_city I-dst_city O 
+O B-duration I-duration I-duration I-duration I-duration O O O O O O O O O O O O O O O O O O O 
+O O O O O B-seat I-seat O O O 
+O O 
+O O O O O O O O O O O O O O O O O O B-or_city I-or_city I-or_city O O O 
+O O O O O O O O 
+O O O O O O O O 
+O O O B-str_date I-str_date I-str_date O O O O O O O O O O O O O O O O O O O O O 
+O O O O O O O O O O O O O O O O O O O O O O B-duration I-duration I-duration O O O O 
+O O O O O O O O O O O O O B-duration I-duration O O O O 
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-str_date I-str_date I-str_date I-str_date I-str_date O O O O 
+O O O O 
+O O O O O B-dst_city I-dst_city I-dst_city I-dst_city O 
+O O O O O B-dst_city I-dst_city I-dst_city I-dst_city O O O O O O 
+O O O O O O O O O O O O O O O O O O O O O O 
+O O O 
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+O O O O B-or_city I-or_city I-or_city O O O 
+O O O O O 
+O O O O O O O O O 
+O O O O O B-dst_city I-dst_city I-dst_city O O O 
+O O O O O O O O O O O O O O O O O B-dst_city I-dst_city I-dst_city I-dst_city O O 
+O O O O O O O O O O O 
+B-budget I-budget I-budget I-budget 
+B-or_city I-or_city I-or_city I-or_city B-dst_city I-dst_city I-dst_city 
+O O O O O O O O O O O O O O O O O O O B-dst_city I-dst_city O O 
+O O O O O B-dst_city I-dst_city I-dst_city I-dst_city O O 
+B-str_date I-str_date O O O O O B-end_date I-end_date I-end_date O O O O O O 
+B-dst_city I-dst_city O O 
+O O O O O O O O O O O O O O O O O O O O O O O O O O O B-end_date I-end_date I-end_date O O O O 
+O O O O O O O O O O O O O O O B-or_city I-or_city O B-dst_city I-dst_city I-dst_city O O O 
+O O O B-dst_city I-dst_city O 
+O O O O O O O O O O O O B-dst_city I-dst_city I-dst_city I-dst_city I-dst_city O O O O O 
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-dst_city I-dst_city I-dst_city I-dst_city O O O O O 
+O O O O O O O O O O O O B-intent O 
+O O O O O O O O O O O O O O O 
+B-dst_city I-dst_city I-dst_city I-dst_city O O O O O O O O O O O O O O O O O O 
+O O O O O B-or_city I-or_city I-or_city I-or_city O O O O O O B-dst_city I-dst_city I-dst_city I-dst_city O 
+O O O O O O O B-or_city I-or_city O B-dst_city I-dst_city O O O O O O 
+O O O O O O O O O B-or_city I-or_city I-or_city I-or_city O B-dst_city I-dst_city O O O O O O O O O O O O O O O O O O O 
+O O 
+O O O O O O O O O O O O O O O O O 
+O O O O O O O O O O O O O O O O O O 
+O O O O B-or_city I-or_city I-or_city I-or_city O O O O B-budget I-budget I-budget I-budget I-budget I-budget O O O O O O O O O O O O 
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-budget I-budget I-budget I-budget I-budget I-budget O O O O O O O O O O O 
+O O O O O O O O O O O O O O O O O O O B-str_date I-str_date I-str_date I-str_date I-str_date O B-end_date I-end_date I-end_date I-end_date O O O B-dst_city I-dst_city 
+O O O O O O O O O O O O O O O O O O O O O 
+O O 
+O O O O O O O O O O O O B-dst_city I-dst_city I-dst_city I-dst_city I-dst_city O O 
+O O O O O O O O O B-dst_city I-dst_city 
+O O O O O B-ref_anaphora O O O O O O O O O O 
+O O O O O O O O O O O O O O O O O O O O O O O O O B-dst_city I-dst_city O O O O 
+B-dst_city I-dst_city O O O O 
+O O O O O O O O O B-dst_city I-dst_city O O O O O O 
+O O O O O O O O 
+O O B-n_adults O B-dst_city I-dst_city I-dst_city I-dst_city O 
+B-budget I-budget I-budget I-budget 
+O O O O O O B-str_date I-str_date I-str_date I-str_date I-str_date O B-end_date I-end_date I-end_date I-end_date I-end_date O 
+O O O B-dst_city I-dst_city I-dst_city O B-str_date I-str_date I-str_date I-str_date O O O O 
+B-or_city I-or_city I-or_city 
+O O O O B-budget I-budget I-budget I-budget I-budget I-budget O O O O O O O B-dst_city I-dst_city I-dst_city O O O B-category I-category I-category O O 
+O O O O B-dst_city I-dst_city I-dst_city O O O O O O O O O O O O O 
+O O O O O O O O 
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+O O O O O B-or_city I-or_city O O O O O O B-dst_city I-dst_city O 
+O O B-n_adults O B-budget I-budget I-budget I-budget I-budget I-budget O O O O B-dst_city I-dst_city O O O O O O O B-str_date I-str_date I-str_date I-str_date I-str_date O O O O 
+O O O O 
+O O O 
+O O O B-dst_city I-dst_city I-dst_city B-or_city I-or_city I-or_city I-or_city 
+O O O O O O O O O O O O O B-dst_city I-dst_city O 
+O O O O 
+B-or_city I-or_city I-or_city 
+O O O 
+O O 
+B-or_city I-or_city I-or_city 
+O O O O O O O O O 
+B-budget I-budget I-budget I-budget I-budget I-budget 
+O O O O O O O O O O O O 
+O O O O O O 
+O O B-budget I-budget I-budget I-budget I-budget I-budget O 
+B-budget I-budget I-budget I-budget 
+O O O O B-budget I-budget I-budget I-budget B-duration I-duration I-duration O O O O O O O 
+O O O O O O O 
+O O O O O B-dst_city I-dst_city I-dst_city 
+B-or_city I-or_city I-or_city 
+O O O O B-dst_city I-dst_city I-dst_city O O O O B-n_children O O O 
+O O O O O O O O O O O O O O O O O O B-budget I-budget I-budget I-budget I-budget I-budget O 
+O O O O O O O O O O O B-dst_city I-dst_city I-dst_city O O O O O O 
+O O O O 
+B-dst_city I-dst_city I-dst_city 
+B-or_city I-or_city I-or_city I-or_city I-or_city I-or_city I-or_city 
+O O B-n_adults O O O O O 
+B-str_date I-str_date I-str_date I-str_date I-str_date I-str_date I-str_date I-str_date 
+O O O O O O O O B-str_date I-str_date 
+O O O O O B-dst_city I-dst_city I-dst_city O O B-or_city I-or_city I-or_city I-or_city I-or_city I-or_city I-or_city O O O O O O O O O O O O O O O O O O O O O 
+O O O O B-str_date O O O O B-or_city I-or_city O O B-dst_city I-dst_city I-dst_city O 
+O O O O B-or_city I-or_city I-or_city I-or_city O O O 
+O O O O O O B-dst_city I-dst_city O O O O B-or_city I-or_city I-or_city I-or_city 
+O O O O O O O O 
+B-or_city I-or_city O B-dst_city I-dst_city 
+B-budget I-budget I-budget I-budget 
+O O O O O O O O O O O O O O O 
+O O O O 
+O O O O O O O O O O O O O O O O O O O O O 
+O O O O O O O O O O O O O O O O O O O O O O 
+O O O O O O O 
+O O O O O O O O O O O O O O O O O O O 
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-dst_city I-dst_city I-dst_city I-dst_city O O O O O 
+O O O O O O O B-or_city I-or_city I-or_city I-or_city I-or_city O O 
+O O O O B-str_date I-str_date I-str_date I-str_date O O O O O O B-max_duration I-max_duration I-max_duration I-max_duration I-max_duration I-max_duration I-max_duration I-max_duration O O O O O O O O O 
+O O O O O O O O O O O O O O O O O 
+O O O O O O O O O O O O O O O O O O 
+O O B-dst_city I-dst_city O O O O O O B-dst_city I-dst_city O O O O O B-dst_city I-dst_city I-dst_city O O O O O O O O O O O O O O O O O O O O O O O O B-budget I-budget I-budget I-budget I-budget I-budget O O O O O O O O O O O 
+O O O O O B-budget I-budget I-budget I-budget I-budget I-budget O O O O O O O O O O O O O O O O O O O 
+O O O O O O O O O O O O O O O O O O O B-str_date I-str_date I-str_date O O O O 
+B-budget I-budget I-budget I-budget I-budget I-budget O 
+O O O O O O O O O B-dst_city I-dst_city I-dst_city I-dst_city O O O O O O O 
+O O O O O O O O O O 
+O O O O O B-or_city I-or_city I-or_city I-or_city O O O O B-dst_city I-dst_city I-dst_city 
+O O O O B-duration I-duration I-duration O O O O 
+O O O O O O O O O O O O O O O O O O B-dst_city I-dst_city O O 
+O O O O O O O O O O O O 
+O O O O O O O O B-intent O O O O O O O O O O O O O 
+B-budget I-budget I-budget I-budget I-budget I-budget I-budget I-budget I-budget I-budget I-budget I-budget I-budget I-budget 
+B-min_duration I-min_duration 
+O O O B-dst_city I-dst_city I-dst_city I-dst_city O O O O 
+B-dst_city I-dst_city I-dst_city O O O 
+O O O O O 
+B-seat I-seat O O 
+B-or_city I-or_city I-or_city 
+O O O O B-intent O O O O 
+B-dst_city I-dst_city I-dst_city I-dst_city 
+O O O O B-or_city I-or_city I-or_city I-or_city 
+O 
+O O O O O O O O O O O B-or_city I-or_city O B-dst_city I-dst_city 
+O O O O O O O O O O O O O O O O 
+O O O O B-dst_city I-dst_city I-dst_city I-dst_city I-dst_city O O O O 
+O O O O O B-dst_city I-dst_city I-dst_city O O 
+O O O O 
+O O O O O B-or_city I-or_city I-or_city O O B-dst_city I-dst_city I-dst_city I-dst_city O O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+B-n_adults I-n_adults I-n_adults I-n_adults 
+O O O B-dst_city I-dst_city I-dst_city I-dst_city O O O O O O O O O O O O O O O O O 
+O O O O B-dst_city I-dst_city I-dst_city I-dst_city O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+O O O O O B-budget I-budget I-budget I-budget I-budget I-budget O O 
+O O O O O O O O O O O O O O O O 
+O O O 
+O O O O O O O O O O B-dst_city I-dst_city I-dst_city O O O O O O O 
+O O O O O O O O O O B-dst_city I-dst_city I-dst_city O O O O O O O O 
+B-or_city I-or_city I-or_city 
+O B-str_date I-str_date I-str_date I-str_date I-str_date O B-end_date I-end_date I-end_date I-end_date I-end_date O O O O 
+O O O O O O O 
+B-dst_city I-dst_city I-dst_city I-dst_city O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+B-dst_city I-dst_city O O O O O O O O 
+B-dst_city I-dst_city I-dst_city I-dst_city O B-intent 
+O O O O O O O O O B-dst_city I-dst_city I-dst_city I-dst_city I-dst_city I-dst_city I-dst_city O 
+O O O O 
+O O O O O O O O O O O O O O O O O O B-n_adults O O O O O O O O O O 
+B-str_date I-str_date I-str_date I-str_date I-str_date O O O 
+O O B-or_city I-or_city I-or_city I-or_city O O O O O O O O O O O B-dst_city I-dst_city I-dst_city I-dst_city 
+O O O O O O O O O O B-dst_city I-dst_city I-dst_city O O O O 
+O O B-or_city I-or_city I-or_city 
+O O O O O 
+O O O B-dst_city I-dst_city I-dst_city I-dst_city O O O 
+B-dst_city I-dst_city I-dst_city I-dst_city O O 
+O B-intent O 
+O O O O B-n_adults I-n_adults I-n_adults I-n_adults I-n_adults I-n_adults I-n_adults I-n_adults 
+O O O B-dst_city I-dst_city I-dst_city I-dst_city O O O O O O B-ref_anaphora I-ref_anaphora I-ref_anaphora I-ref_anaphora O O O O O O O O O O O O O O O 
+O O O O O O O O O O O O O O O O O O O O O O O O 
+O O O O O O O 
+B-or_city I-or_city 
+O O O O O B-dst_city I-dst_city I-dst_city I-dst_city I-dst_city O O 
+O O O O O O 
+O O O O O O O O O O O O O O O O O B-or_city I-or_city O B-dst_city I-dst_city I-dst_city O B-n_adults I-n_adults O 
+B-or_city I-or_city I-or_city O B-dst_city I-dst_city I-dst_city I-dst_city 
+B-or_city I-or_city I-or_city O B-dst_city I-dst_city 
+B-or_city I-or_city I-or_city O B-dst_city I-dst_city I-dst_city I-dst_city 
+O O B-dst_city I-dst_city I-dst_city I-dst_city O O O O O O O 
+B-seat I-seat 
+O O O 
+O O 
+B-budget I-budget I-budget I-budget I-budget I-budget 
+B-category I-category I-category O O O O O B-dst_city I-dst_city I-dst_city I-dst_city O O 
+O O O B-n_adults O B-dst_city I-dst_city I-dst_city I-dst_city B-budget I-budget I-budget I-budget I-budget I-budget O O O O O O O O O O 
+O O O O O B-dst_city I-dst_city I-dst_city I-dst_city O O O O O O O O O O O O O O O O O O O O O 
+O 
+O O O 
+O O O B-dst_city I-dst_city I-dst_city I-dst_city 
+O O O O B-n_adults O O O 
+O O O O O O O 
+O O O B-duration I-duration I-duration O O O 
+O O O 
+O O 
+B-n_adults I-n_adults I-n_adults I-n_adults I-n_adults 
+B-category I-category 
+O O O O O O O O O 
+O O O O O O O B-seat I-seat O O O O O O 
+O O O 
+B-or_city I-or_city I-or_city I-or_city I-or_city I-or_city I-or_city 
+O O O O O O O O B-category I-category I-category O O O O O O O O O O O O O 
+B-dst_city I-dst_city I-dst_city O O O O O O O O O O O O 
+O O O 
+O O B-park I-park O O O O O O 
+O O O O O O 
+B-dst_city I-dst_city I-dst_city I-dst_city 
+O O O O B-or_city I-or_city I-or_city O O 
+O O O B-str_date I-str_date I-str_date I-str_date I-str_date 
+O O O B-n_adults O B-n_children I-n_children O O O O O O O B-budget I-budget I-budget I-budget I-budget I-budget O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-dst_city I-dst_city O O O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+B-dst_city I-dst_city I-dst_city O O O O O O O O O O O O O O O O O O O 
+O O O O B-dst_city I-dst_city I-dst_city O O O O O O O O O O O O O O O O O O B-intent O O O O O O O 
+O O O 
+O O O 
+O O B-or_city I-or_city I-or_city I-or_city O O O O O O O O O O O O O O O O O O 
+O O O O O O 
+O O O O O O O O O B-dst_city I-dst_city I-dst_city I-dst_city O O O O O O 
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+O O O O B-or_city I-or_city O O O 
+O O O O O O 
+O O B-n_adults I-n_adults I-n_adults I-n_adults I-n_adults I-n_adults O 
+O O B-dst_city I-dst_city I-dst_city I-dst_city I-dst_city I-dst_city I-dst_city I-dst_city O 
+B-ref_anaphora I-ref_anaphora O O O O O O O O O O O O O O O O 
+B-or_city I-or_city I-or_city I-or_city 
+O O O O O O O O O 
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+O B-dst_city I-dst_city O O O O O O O O O O O O O O O O O O 
+B-dst_city I-dst_city I-dst_city O O O O O O O O 
+O O O O O 
+B-duration I-duration 
+O O O O O O O O O O O O O O O O O O O O O O O O O B-dst_city I-dst_city I-dst_city B-max_duration I-max_duration O O O O O 
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+O O B-or_city I-or_city I-or_city I-or_city O O 
+O O O O O B-category I-category I-category O O O O 
+O O O O O O O O O O O O O O O O O O O O O O O 
+O O O O O B-dst_city I-dst_city I-dst_city O O O O 
+O O O O O O O B-seat I-seat O O O O 
+O O 
+B-or_city I-or_city I-or_city I-or_city 
+O O B-str_date I-str_date I-str_date O B-end_date I-end_date I-end_date O O O O 
+O O O O O O O O O O O O O O O O O O O O B-dst_city I-dst_city O O 
+O O O O O O O O O O O O O O O O B-dst_city I-dst_city I-dst_city O O 
+O O O O O O O O 
+O O O 
+O O O O O O O O O B-max_duration I-max_duration O O O O O O O 
+O B-or_city I-or_city I-or_city I-or_city 
+O O O O O O O O O O O O O O O 
+O O O 
+B-budget I-budget I-budget 
+O O O O O O O O O O O O O O O O O O O O B-budget I-budget I-budget I-budget I-budget O O O O O O O O O O 
+O O B-or_city I-or_city O O O O 
+O O 
+O O O 
+O O O O O B-or_city I-or_city I-or_city 
+O O B-dst_city I-dst_city O O O O O O O O O O O O O O 
+O O O O O O 
+B-str_date I-str_date I-str_date O B-end_date I-end_date I-end_date I-end_date O O 
+B-budget I-budget I-budget I-budget 
+O O B-n_adults O B-n_children I-n_children I-n_children I-n_children 
+O O O O O O O O O O O O O O O O 
+O O 
+B-budget I-budget I-budget I-budget I-budget I-budget 
+O O O O O O O O O O 
+O O O O O O O O B-ref_anaphora I-ref_anaphora O O O O O 
+O O O 
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-or_city I-or_city I-or_city I-or_city O 
+O O O O O O O B-dst_city I-dst_city I-dst_city O O 
+O O O O O O O O O O O O O B-dst_city I-dst_city I-dst_city O O O O 
+O O O O O O O O O B-dst_city I-dst_city I-dst_city O O O O O O O O O O O 
+O O O O O O O O O O 
+O O O O O O O O B-dst_city I-dst_city O O O 
+O O O B-gst_rating I-gst_rating I-gst_rating I-gst_rating I-gst_rating I-gst_rating I-gst_rating O O 
+O O O O O O O O O O O O B-dst_city I-dst_city I-dst_city I-dst_city I-dst_city O O O 
+O O O O O O O O O O B-dst_city I-dst_city I-dst_city O O 
+O O O O O O O O O O O O O O B-str_date I-str_date I-str_date O O B-end_date I-end_date I-end_date I-end_date O B-dst_city I-dst_city O O O O 
+O O O 
+B-or_city I-or_city I-or_city I-or_city 
+O O O O O B-or_city I-or_city I-or_city I-or_city I-or_city I-or_city O O O O O B-dst_city I-dst_city O 
+O O O O O B-str_date I-str_date I-str_date O O O O O O O O O O 
+O O 
+O O O O O O B-dst_city I-dst_city O O O O O 
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-duration I-duration O 
+O O O O 
+B-budget I-budget 
+O O O O O O 
+B-str_date I-str_date I-str_date I-str_date I-str_date O B-end_date I-end_date I-end_date I-end_date O O O O O O O O O 
+O O O O O O O O B-dst_city I-dst_city I-dst_city O O O O O O O 
+B-dst_city I-dst_city I-dst_city I-dst_city I-dst_city O O O O O O O 
+O O O 
+O O B-category I-category I-category B-dst_city I-dst_city O 
+O O O O O O O O O O O O O O O O O O O O O O B-dst_city I-dst_city O O O O 
+O O O O O O O 
+O O 
+O O O B-dst_city I-dst_city I-dst_city O 
+B-dst_city I-dst_city I-dst_city I-dst_city O O O O 
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+O O O O B-dst_city I-dst_city O O O O O O O O O O O O O O O 
+O O O B-duration I-duration I-duration O O O O 
+O O O 
+O O O 
+O O O 
+B-or_city I-or_city I-or_city B-dst_city I-dst_city I-dst_city O O O O 
+B-or_city I-or_city I-or_city 
+O O O O O O B-or_city I-or_city O O O 
+O 
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-dst_city I-dst_city O O 
+O O O B-dst_city I-dst_city I-dst_city O O O 
+O O O O O O O B-dst_city I-dst_city O O O O 
+O O 
+O O O O O O O O O O B-dst_city I-dst_city I-dst_city O O O 
+O 
+O O O O 
+O O O O O O O O O O O O O O O O O O 
+O O O B-dst_city I-dst_city I-dst_city O O O 
+O O O O O B-dst_city I-dst_city I-dst_city I-dst_city O O O O 
+O O O B-seat I-seat O O 
+O O 
+B-n_adults I-n_adults I-n_adults O O O O B-or_city I-or_city O O O 
+B-dst_city I-dst_city I-dst_city O 
+O O O O O O O O O O B-dst_city I-dst_city O O O O O O O 
+O O B-duration I-duration I-duration O O O 
+O O O 
+B-or_city I-or_city I-or_city I-or_city 
+O O O O O O O O O O O O 
+O O O O O O 
+O O O B-max_duration I-max_duration O O 
+O O O 
+B-dst_city I-dst_city I-dst_city I-dst_city O O O O O O O O O O O O 
+O O O O O B-gst_rating I-gst_rating O O O O O O 
+O O O O O 
+O O 
+O O O 
+B-or_city I-or_city I-or_city I-or_city I-or_city I-or_city 
+O O B-dst_city I-dst_city I-dst_city I-dst_city O 
+O O O 
+O O O O O O O O O O O O O O O O O O B-budget I-budget I-budget I-budget I-budget I-budget O 
+O O O O O O O O O B-dst_city I-dst_city O O O O 
+B-dst_city I-dst_city O O O O O O O O O O O O 
+O O O O O O B-dst_city I-dst_city I-dst_city I-dst_city O O O O O O 
+O O O O O O O O O O O O O O B-dst_city I-dst_city O O O O O O O O O O O O O O O O 
+O O O O O O O O O O B-or_city I-or_city I-or_city O B-dst_city I-dst_city I-dst_city 
+O B-dst_city I-dst_city I-dst_city I-dst_city O O O O 
+B-dst_city I-dst_city I-dst_city I-dst_city O 
+B-n_adults I-n_adults I-n_adults 
+O O B-dst_city I-dst_city I-dst_city I-dst_city I-dst_city O O O O O O O 
+O O O O O O B-ref_anaphora I-ref_anaphora O O O 
+O O O O O O O O O O O O O O O O B-duration I-duration I-duration O 
+O B-str_date I-str_date I-str_date O B-end_date I-end_date I-end_date O O 
+O O O B-dst_city I-dst_city O O O O 
+B-dst_city I-dst_city I-dst_city O O O O 
+O O 
+O O O O B-or_city I-or_city I-or_city I-or_city I-or_city O B-n_adults I-n_adults I-n_adults 
+O O O O O O O O B-str_date I-str_date I-str_date O O O O O O O O O 
+B-or_city I-or_city O O O O O 
+B-dst_city I-dst_city O 
+O O O O O B-dst_city I-dst_city O O O O O O O O O 
+O O O O O B-budget I-budget I-budget I-budget I-budget I-budget I-budget O 
+O O O O O O O O O O O O O O B-dst_city I-dst_city O O 
+O O O O O 
+O B-dst_city I-dst_city I-dst_city I-dst_city I-dst_city O O O O O O 
+O O O B-dst_city I-dst_city O 
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+B-n_adults 
+O O O O B-dst_city I-dst_city O 
+B-duration 
+O O O O O O O O O O O O O O O O O O O O O B-dst_city I-dst_city I-dst_city I-dst_city I-dst_city O O O O O O O 
+O O O O 
+O O O O O O O B-dst_city I-dst_city I-dst_city I-dst_city I-dst_city O O O O O B-or_city I-or_city I-or_city I-or_city O O O 
+O O O O O O O O O O O O B-duration I-duration I-duration O O O O 
+O O O O O O O O B-dst_city I-dst_city I-dst_city O O O O O O O O O O O O O 
+O O O O O O O O O O O O O O O O O O O O B-dst_city I-dst_city O O 
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+O O O O 
+O O O O O O B-or_city I-or_city I-or_city I-or_city 
+O O O O O O 
+O O O O O O O O O B-or_city I-or_city I-or_city I-or_city O B-dst_city I-dst_city O 
+O O O O B-or_city I-or_city I-or_city I-or_city O O O 
+O O O O O O O O O O O O O 
+O O O O O O O O O O O O B-price I-price O O O O O O O O O O O O O O O O B-ref_anaphora I-ref_anaphora I-ref_anaphora O O O O O 
+O O O O O O O O O O O O 
+O O O O O 
+O O O O O O O O O O O O O 
+O O O O O O 
+O O O O O O O O O O O O O O O O O O O O O O 
+O O O O O O O O O 
+O O B-dst_city I-dst_city O O O O O O O 
+O O O O O 
+O O O 
+O O O O O O O O 
+O O O O O O O O O O O O O O O O O O B-dst_city I-dst_city I-dst_city O O O O 
+O O O O 
+O O O O O O O 
+O O O B-or_city I-or_city 
+O O O O O O O B-dst_city I-dst_city I-dst_city O O O O O O 
+O O O O O O O O O O O 
+O O O 
+B-price I-price I-price I-price O O O O O O 
+O O O O O O O B-dst_city I-dst_city O O O O O O O 
+O O O O O O O O O O O O O O O O B-dst_city I-dst_city I-dst_city O O 
+B-ref_anaphora O O O O O O O O O O 
+O O B-park I-park O O O O O O O O O O O O O O O O O O O O O O O O O 
+B-n_adults I-n_adults I-n_adults I-n_adults I-n_adults O 
+O O O O O O O O O 
+B-ref_anaphora O O O O O O O 
+B-dst_city I-dst_city I-dst_city I-dst_city O O O B-category I-category O O O O O O O O O O 
+O O O O O O O 
+O O O B-max_duration I-max_duration O O O O 
+O O O O O B-dst_city I-dst_city I-dst_city I-dst_city O O O O O 
+O O O 
+O O O O O O B-or_city I-or_city I-or_city O 
+O O O B-category I-category I-category O O O 
+O O O O 
+O O O O 
+B-n_adults I-n_adults I-n_adults 
+O O O 
+O O O O O O O O O O O O O O O O O O O O O O 
+O O O O O 
+O O O O O O O O O O O B-dst_city I-dst_city I-dst_city I-dst_city O O O O O O B-or_city I-or_city I-or_city O O 
+O O O O O O O O O O O O O O O O O O O O O 
+O O B-or_city I-or_city O B-dst_city I-dst_city I-dst_city O O O O 
+O O 
+O O O O O O O O O O B-n_adults O O O O O O O O O O O O O O O O O O O O 
+B-ref_anaphora I-ref_anaphora O O O O O O 
+O O O O B-dst_city I-dst_city I-dst_city I-dst_city I-dst_city O O O O O O 
+O O O O O B-or_city I-or_city I-or_city O 
+O O O O 
+O O O O O O O O O O O B-dst_city I-dst_city I-dst_city I-dst_city O O O O B-category I-category I-category O O O O O O O O O O B-or_city I-or_city I-or_city O 
+O O O O O B-duration I-duration I-duration O O O O 
+O O O 
+B-dst_city I-dst_city O O O O 
+B-dst_city I-dst_city I-dst_city O 
+O B-dst_city I-dst_city I-dst_city I-dst_city O O O O O O 
+O O O O B-or_city I-or_city O O O O O O O 
+B-dst_city I-dst_city I-dst_city I-dst_city I-dst_city O O O O O O O O O O B-or_city I-or_city I-or_city I-or_city O O O O O O O O O O O 
+O O O O O O O O 
+O O O O O O O O O O O O 
+O O O 
+O O O B-or_city I-or_city I-or_city I-or_city 
+O O O O O O O O O O 
+B-dst_city I-dst_city O 
+B-dst_city I-dst_city I-dst_city O 
+B-dst_city I-dst_city I-dst_city I-dst_city O 
+O 
+B-duration I-duration 
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+O O B-str_date I-str_date O O O O O 
+O O O O O O O 
+B-or_city I-or_city I-or_city I-or_city 
+O O O 
+O O O B-or_city I-or_city O O 
+B-str_date I-str_date O O O 
+O O O O O O O O O O O 
+B-or_city I-or_city I-or_city 
+B-dst_city I-dst_city O O O O O O O 
+O O 
+O O O B-or_city I-or_city I-or_city I-or_city O B-dst_city I-dst_city O 
+O O O O O O B-seat I-seat O O 
+O O O O 
+O O O O O O O O O B-gst_rating I-gst_rating I-gst_rating I-gst_rating I-gst_rating I-gst_rating I-gst_rating O O 
+O O O 
+B-budget I-budget I-budget I-budget I-budget I-budget 
+O O O B-ref_anaphora I-ref_anaphora O O O O O O 
+O O O O 
+O O O O O 
+O O O 
+B-str_date I-str_date I-str_date I-str_date I-str_date 
+O O O O B-or_city I-or_city 
+O O O B-ref_anaphora I-ref_anaphora O O O O O O 
+O O O O O B-dst_city I-dst_city I-dst_city I-dst_city O O O O O O O 
+O 
+O O 
+B-dst_city I-dst_city O O O O O O O O O O O O O O O O O O O B-or_city I-or_city I-or_city I-or_city O O O O O O O O O O O O B-end_date I-end_date I-end_date I-end_date O O O O O O O O O O O 
+O O O O O B-or_city I-or_city I-or_city I-or_city O O O O O O O O O O O O O B-dst_city I-dst_city O O O O O O O O O 
+O O O O O 
+O O O O O B-str_date I-str_date O O O O O 
+O O O O O B-str_date I-str_date O O O O O O O O O B-or_city I-or_city I-or_city I-or_city O O O O O 
+O O O O O O O O B-dst_city I-dst_city I-dst_city I-dst_city I-dst_city O 
+B-duration I-duration 
+O O O 
+B-max_duration 
+O O O O O O B-category I-category I-category O O O O 
+O O O O O O O O 
+O O O O O 
+B-or_city I-or_city I-or_city I-or_city 
+O O O B-dst_city I-dst_city I-dst_city O O O O O O 
+O O O 
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-dst_city I-dst_city I-dst_city O 
+O O O O O O O O O O O B-dst_city I-dst_city O O O O O 
+O O O O O 
+O O O O O O O O O O O O O O O B-dst_city I-dst_city O 
+O O O O 
+O O O O O O O O B-dst_city I-dst_city I-dst_city O O 
+B-dst_city I-dst_city I-dst_city O O O O O O O 
+O O O O B-ref_anaphora O O O O O O O 
+O O O O O O O B-dst_city I-dst_city I-dst_city O O O O O O O O 
+B-dst_city I-dst_city I-dst_city O O O O 
+O O O O O O O 
+O O O O O O O O O B-dst_city I-dst_city I-dst_city I-dst_city O 
+O O 
+O O O O 
+B-str_date I-str_date O B-end_date I-end_date I-end_date O O O O O O O 
+O O O O O O O O O O O O B-ref_anaphora I-ref_anaphora O O O O O 
+O O O O 
+O O O O O O O O O O O O O 
+O O O 
+B-dst_city I-dst_city I-dst_city I-dst_city O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+O O O B-or_city I-or_city I-or_city I-or_city O O O 
+O O O O O O O O B-dst_city I-dst_city I-dst_city O O O O O O O O O O O O O 
+O O O O O 
+O O O O O O O O O O O O O O O O O O O O O O O O B-ref_anaphora I-ref_anaphora O O O O 
+O O O 
+O O O 
+B-max_duration I-max_duration I-max_duration O O O O O B-str_date I-str_date I-str_date I-str_date I-str_date O O O O O O O O O O O 
+B-dst_city I-dst_city I-dst_city O O O O O O O O O O O O O O 
+O O O O O O B-beach I-beach O 
+O O O O O O O O O O B-dst_city I-dst_city I-dst_city I-dst_city O O O O 
+O O O O O O O O O O O O B-duration I-duration I-duration O O O O O O O 
+B-n_adults I-n_adults I-n_adults O O O O O B-str_date I-str_date I-str_date I-str_date I-str_date O O O O B-end_date I-end_date I-end_date I-end_date I-end_date O O O O O O 
+B-str_date I-str_date I-str_date I-str_date I-str_date O B-end_date I-end_date I-end_date I-end_date I-end_date 
+O O O O O O O O O O O O O O O O O 
+B-or_city I-or_city I-or_city O O O O B-str_date I-str_date I-str_date I-str_date I-str_date O B-end_date I-end_date I-end_date I-end_date I-end_date O O O O O 
+O O O 
+O O O O B-or_city I-or_city I-or_city O O 
+O O O 
+O O O O O O O O O O O O O O O O O O B-dst_city I-dst_city O 
+B-or_city I-or_city I-or_city I-or_city O 
+O O O 
+B-dst_city I-dst_city O O O O O O O O O O O O 
+O O O 
+O O O B-budget I-budget I-budget I-budget I-budget I-budget O 
+O O O O O O O O O O O O O O O O O O O O O O O 
+O O O O O O O O O O O O O O O O O 
+O O O O O O O O O O O O O O O O O B-seat I-seat O O 
+O O O O O O 
+O O O O O B-dst_city I-dst_city I-dst_city O O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+B-or_city I-or_city 
+O O O O O O B-dst_city I-dst_city I-dst_city I-dst_city O O 
+O O O O O O O B-or_city I-or_city I-or_city O O O O O O O O O O O O O O O O 
+O O O 
+O O 
+O O B-or_city I-or_city I-or_city I-or_city I-or_city I-or_city O O O O O B-str_date I-str_date I-str_date I-str_date I-str_date I-str_date I-str_date I-str_date O O O O O O 
+O O O O O O O O O O O O O O O O O 
+O O O O O O O 
+O O O O O B-or_city I-or_city I-or_city O 
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+B-dst_city I-dst_city I-dst_city O O O O B-or_city I-or_city I-or_city I-or_city O 
+O B-duration I-duration O O O O O O O O 
+O O B-dst_city I-dst_city O B-max_duration I-max_duration O O O O O O O O O O O O O O O O O O O 
+B-ref_anaphora O O O O O O O O O 
+O O O O O O O B-dst_city I-dst_city O O B-max_duration I-max_duration O O O 
+O O O B-seat I-seat O O O O O O O O O O O 
+O O O O O O O O O O O O O 
+B-or_city I-or_city I-or_city O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-dst_city I-dst_city I-dst_city I-dst_city I-dst_city I-dst_city O 
+O O O O O B-dst_city I-dst_city I-dst_city I-dst_city O O O O O O O O O O O O O O 
+O O O O O O O O O O O O O O O B-ref_anaphora O 
+O O 
+O O O O O O O O O O O O O B-or_city I-or_city O O O 
+O O O O O B-or_city I-or_city O O O O O O 
+O O O O O O O O O O O O O O 
+O O O O O O O O O O O O O O O O 
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-dst_city I-dst_city 
+O O B-dst_city I-dst_city B-duration I-duration I-duration O O O O O O O O O O O O O O O O O O O O 
+O O O O O O B-dst_city I-dst_city O 
+B-or_city I-or_city I-or_city I-or_city I-or_city I-or_city 
+O O O B-dst_city I-dst_city I-dst_city I-dst_city O O O 
+O O O O O 
+O O O O O O O O O O O O 
+O O O O B-or_city I-or_city I-or_city I-or_city O O O O O O O O O O O O O O O O O O B-str_date I-str_date I-str_date I-str_date I-str_date O O O O O O O O O O O O O B-end_date I-end_date I-end_date I-end_date I-end_date O O O O 
+O O O O O O O O O B-dst_city I-dst_city I-dst_city O 
+O O O O 
+O O B-n_adults O O O O B-dst_city I-dst_city I-dst_city O O O O O O O B-or_city I-or_city O O O O O 
+O O O O O O O O O O O B-n_adults O O O O O O O O O O O O O O O O O O O O O O O O 
+O B-budget I-budget O O O O O O B-category I-category I-category O O O O O O 
+O O O O O O O O 
+O O O O O O O O O O O 
+B-or_city I-or_city I-or_city I-or_city O O O 
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-dst_city I-dst_city I-dst_city O O O O O O O O O O 
+O B-dst_city I-dst_city I-dst_city I-dst_city O O O O 
+O O O O O O O O O B-dst_city I-dst_city I-dst_city O O O O O O O O O O O 
+O O B-seat I-seat 
+O O O O O O O O O O O O O O O O O O O O 
+O O O O O 
+O O O O O O B-dst_city I-dst_city O O O O O O O O O O O O O O 
+O O B-dst_city I-dst_city O O O O O O O O O 
+O O O O O O O 
+B-dst_city I-dst_city I-dst_city I-dst_city 
+O O O O O O O O O O B-dst_city I-dst_city I-dst_city O O 
+B-dst_city I-dst_city O 
+O O O O O O O O O O O O O O O O O O 
+O 
+O O O O O O O O O O O O O O O O O O O O O O O O O O B-dst_city I-dst_city I-dst_city I-dst_city I-dst_city I-dst_city I-dst_city O 
+O O O O O O O O O O O O B-dst_city I-dst_city O O O O O O O O O O O O O B-seat I-seat O O 
+O O O O O O O O O O O O O O O 
+B-budget I-budget I-budget I-budget 
+O O O O O O O B-dst_city I-dst_city I-dst_city I-dst_city 
+O O O O O B-str_date I-str_date I-str_date O O O O O O O O O O O 
+O O O O O O O B-dst_city I-dst_city I-dst_city I-dst_city O O O O O O O O 
+O O O 
+O O O O O B-or_city I-or_city I-or_city I-or_city O 
+O O O O O O O O O O O O O B-dst_city I-dst_city I-dst_city O O O O O O O O O O O O O O O O O O O 
+O O O O O B-str_date I-str_date I-str_date I-str_date I-str_date O O O O B-end_date I-end_date I-end_date I-end_date I-end_date O O O O 
+O O O O O O O O O O O O O O O O O O O O O O O O O O B-dst_city I-dst_city I-dst_city I-dst_city O O O O 
+O O O O O O B-dst_city I-dst_city I-dst_city O O O O 
+B-dst_city I-dst_city I-dst_city O O O O O O O O O 
+O O O O O O O O O O O O O O O O O B-dst_city I-dst_city O 
+O O O O O O O 
+B-dst_city I-dst_city O B-duration I-duration I-duration O O O O O O 
+O O O 
+O O O O O O B-ref_anaphora I-ref_anaphora I-ref_anaphora O O O O O O O O O O O O O O O O O O O O 
+O O O O O O O O 
+B-or_city I-or_city I-or_city 
+O O O O O O O O O 
+O O O O O O O O O O O O 
+O O O O O O O B-or_city I-or_city I-or_city I-or_city O B-dst_city I-dst_city 
+O O O 
+B-or_city I-or_city I-or_city I-or_city 
+O O O O O O O O O O O O O O B-seat I-seat O O O O O O O O O O O O O O O 
+O O O O O O O O 
+B-or_city I-or_city I-or_city O O O O O B-str_date I-str_date I-str_date I-str_date I-str_date O O O O O O O O O 
+O O O O O O O O B-or_city I-or_city O O O O O O 
+B-or_city I-or_city I-or_city I-or_city 
+B-budget I-budget 
+O O O 
+O B-budget I-budget I-budget I-budget O O O O 
+B-budget I-budget I-budget I-budget I-budget O O O O O O O 
+O O O 
+O O O O O O O B-duration I-duration I-duration O O O B-seat I-seat O O 
+O O 
+O B-str_date I-str_date I-str_date I-str_date O O O O O O O B-end_date I-end_date O O O O O O 
+O B-dst_city I-dst_city I-dst_city I-dst_city I-dst_city I-dst_city I-dst_city O O O O O O O O 
+O O O B-dst_city I-dst_city I-dst_city I-dst_city I-dst_city O 
+O O O O O O O 
+O O O B-or_city I-or_city I-or_city O O O O O O O O B-dst_city I-dst_city I-dst_city O 
+O O O O O O O O O O O O O O O 
+O O O O O O O O O O O O O O O O O O B-or_city I-or_city I-or_city I-or_city O O O 
+O O B-ref_anaphora I-ref_anaphora I-ref_anaphora O O O O O O O O O O O 
+O O O 
